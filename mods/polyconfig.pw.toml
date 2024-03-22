@@ -1,0 +1,7 @@
+name = "polyconfig"
+filename = "polyconfig-0.3.7.jar"
+
+[download]
+url = "https://github.com/TheEpicBlock/PolyConfig/releases/download/0.3.7/polyconfig-0.3.7.jar"
+hash-format = "sha256"
+hash = "52ea9fa3b7725fdd9ee1d38ef8321027e2f310de035de28e3935d8a1b29dc1eb"

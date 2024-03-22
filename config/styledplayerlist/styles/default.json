@@ -1,0 +1,21 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 30,
+  "list_header": [
+    "",
+    "",
+    "<font:'polymania:icons'>0</font> <bold><gr:gold:#ffd754>Polymania Modpack!</gr></bold>",
+    "",
+    "",
+    "<color:#555555> <strikethrough>          </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>          </strikethrough> </color>",
+    ""
+  ],
+  "list_footer": [
+    "",
+    "<color:#555555><strikethrough>                              </strikethrough></color>",
+    "",
+    "<gray>TPS: %spark:tps 5s% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color>",
+    ""
+  ],
+  "hidden_in_commands": false
+}

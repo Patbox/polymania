@@ -1,0 +1,16 @@
+{
+  "configVersion": 11,
+  "disabledMixins": [
+    "CustomPacketDisabler"
+  ],
+  "misc": {
+    "processSyncedBlockEventServerSide": [
+      "minecraft:note_block"
+    ]
+  },
+  "remapVanillaBlockIds": true,
+  "enableWizardThreading": false,
+  "maxPacketsPerSecond": 600,
+  "forceBlockIdIntControl": false,
+  "alwaysSendFullNbt": false
+}

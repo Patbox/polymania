@@ -1,0 +1,6 @@
+{
+  "parent": "traverse:block/leaves",
+  "textures": {
+    "all": "traverse:block/brown_autumnal_leaves"
+  }
+}

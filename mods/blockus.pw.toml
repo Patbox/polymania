@@ -1,0 +1,7 @@
+name = "blockus"
+filename = "blockus-2.8.4-polymania+1.20.4.jar"
+
+[download]
+url = "https://github.com/PolymaniaForks/Blockus/releases/download/2.8.4-polymania/blockus-2.8.4-polymania+1.20.4.jar"
+hash-format = "sha256"
+hash = "e1500d6443ec74cc71ce5adb2bde48bba1e5e1a470bd8d384d664746895b22bf"

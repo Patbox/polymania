@@ -1,0 +1,13 @@
+name = "Armor Stand Editor"
+filename = "armor-stand-editor-2.3.0+1.20.3-rc1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ef9ZREBZ/versions/GwsOPBYy/armor-stand-editor-2.3.0%2B1.20.3-rc1.jar"
+hash-format = "sha1"
+hash = "57b7f1ecc11c5e2c131a6533292ac5bfecb120dc"
+
+[update]
+[update.modrinth]
+mod-id = "Ef9ZREBZ"
+version = "GwsOPBYy"

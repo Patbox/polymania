@@ -1,0 +1,14 @@
+{
+	"pack": {
+		"pack_format": 10,
+		"description": "Polymania datapack"
+	},
+	"filter": {
+		"block": [
+			{
+				"namespace": "computercraft",
+				"path": "recipes/[a-z]*"
+			}
+		]
+	}
+}

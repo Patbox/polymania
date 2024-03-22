@@ -1,0 +1,7 @@
+name = "terrestria"
+filename = "terrestria-v6.2.0+another_1.20.c23c2bdd.jar"
+
+[download]
+url = "https://github.com/PolymaniaForks/Terrestria/releases/download/v6.2.0/terrestria-v6.2.0+another_1.20.c23c2bdd.jar"
+hash-format = "sha256"
+hash = "7782a269c96cc8775183713455e9cd63b3b69b9d61ac3daa668af8740c28be5f"

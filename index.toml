@@ -1,0 +1,146 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "f9d8ec090538f64b3786180070d09264b294dbca00d2c51db53d972dea6c96ea"
+metafile = true
+
+[[files]]
+file = "mods/blockus.pw.toml"
+hash = "68ec1aeb184e10951bbc4fadd4d5c17d002025b953b334ef2e011cc6a604ccbc"
+metafile = true
+
+[[files]]
+file = "mods/brewery.pw.toml"
+hash = "9c8443b956d6d405da337e96979331bc2190010325226095fd2e05b19dd35fee"
+metafile = true
+
+[[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "c6e275aa97268b0139a016f3d315092f0f16d2eb100c38fd34e04b61018d92d0"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+metafile = true
+
+[[files]]
+file = "mods/glide-away.pw.toml"
+hash = "450856ee86584a6dd540711300324c64f630920f52d9c5b368367e5ed68ea43c"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "848d0e5b03f9e9c674931da4e1b14fd837cd82ee022375d2769eded98b0219a9"
+metafile = true
+
+[[files]]
+file = "mods/illager-expansion-polymer.pw.toml"
+hash = "e7eb09fe9d97226ab49cc82dda011475beee915f970b0d1a277dd25ef918286a"
+metafile = true
+
+[[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "81669816834fc09b004d1548238df2fc020c9ca21b815182ca391c4475b04069"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "34a66f42f07fc9de990a566d168b64e1037fe69eb2ebf10e1fa234e19959e5c8"
+metafile = true
+
+[[files]]
+file = "mods/polyconfig.pw.toml"
+hash = "a0dd7db461e8576b106e1c6112a74069f9a02a777bfc357318ab94a61584e1dd"
+metafile = true
+
+[[files]]
+file = "mods/polydecorations.pw.toml"
+hash = "15b84bd4e41076d96378ff57a95894c49e124681e2748a779168befc9866803b"
+metafile = true
+
+[[files]]
+file = "mods/polydex.pw.toml"
+hash = "573c449320e6397a4f50997b1ae0326470ae1c637a4c446a4dc6048d36510cf2"
+metafile = true
+
+[[files]]
+file = "mods/polyfactory.pw.toml"
+hash = "7ce13031dd7f380007ff426f97369e062be1d959adb694ca33a9ce1f84d6b105"
+metafile = true
+
+[[files]]
+file = "mods/polymc.pw.toml"
+hash = "7624d9d527241c0994b57092e5ddeb87d148126d0b90628a0eab4a9d3be48529"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "901ddb1c1416b332e032ab591d20c23a4cb434826464254b09a523defb570acd"
+metafile = true
+
+[[files]]
+file = "mods/schmarrn-fireworks.pw.toml"
+hash = "ae1fdd58588d341d67d20985374e7fec9e74827d0d8c2462c27eacdac9928b0e"
+metafile = true
+
+[[files]]
+file = "mods/server-ui-fix.pw.toml"
+hash = "0b10a6394e0a1d0951f8d6ef272931d95975f80ac0cfe266f60bfc6f4e453797"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "b39682962003795c0460309315f1ad3672d89310e26df1633d3d5e8e131454fc"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "d2e79b6f83ec10bb1d275186e8f79048ca73ca48b434c2539bf2542d86f2cf56"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
+metafile = true
+
+[[files]]
+file = "mods/terrestria.pw.toml"
+hash = "eefed5826d50d9065a65da65245bc8586ed0abc22ff0f3d1684f9cb3bf91f65a"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+hash = "7b64be3f39e8ad360be9b45bb5c2704f66c16142532dbb2e1b8119ae7371634c"
+metafile = true
+
+[[files]]
+file = "mods/trowel.pw.toml"
+hash = "bae355c2ab7052b023f25085e5632dadf95e97e773567405f1bd0702c397c535"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "286cf54da951455006aa3f4076ff4a0df7f36674631b5f0141a4924fbb6168f8"
+metafile = true
+
+[[files]]
+file = "mods/woodsandmires.pw.toml"
+hash = "d44849e7d2f15f6b7325ee1bb76cc7a5dec2f2a8f19ceaa5de00f39799b0bade"
+metafile = true

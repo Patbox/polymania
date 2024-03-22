@@ -1,0 +1,21 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                ".": -168,
+                "_": -98,
+                "-": -8
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "polymania:icons/icon.png",
+            "ascent": 20,
+            "height": 32,
+            "chars": [
+                "0"
+            ]
+        }
+    ]
+}

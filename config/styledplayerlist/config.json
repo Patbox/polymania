@@ -1,0 +1,17 @@
+{
+  "config_version": 2,
+  "__comment": "Before changing anything, see https://github.com/Patbox/StyledPlayerList#configuration",
+  "default_style": "default",
+  "player": {
+    "modify_name": true,
+    "modify_right_text": false,
+    "passthrough": false,
+    "hidden": false,
+    "format": "%player:displayname%",
+    "right_text": "",
+    "update_on_chat_message": true,
+    "update_tick_time": -1,
+    "styles": []
+  },
+  "client_show_in_singleplayer": true
+}

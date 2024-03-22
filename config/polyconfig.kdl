@@ -1,0 +1,40 @@
+version 1
+
+// Have a look at https://github.com/TheEpicBlock/PolyConfig/ for an example config
+
+block "(terrestria:potted_)[a-z_-]*" {
+	replace "minecraft:potted_oak_sapling"
+}
+
+block "terrestria:basalt_grass_block" {
+	replace (group)"leaves"
+}
+
+block "terrestria:saguaro_cactus" {
+	replace "minecraft:cactus"
+}
+
+block "(terrestria:)[a-z_-]*(_leaves)" {
+	merge distance="*"
+	replacement (group)"leaves" 
+}
+
+block "terrestria:*_sapling" {
+	merge stage="*"
+}
+
+block "blockus:paper_lamp" {
+	replace (group)"chorus flower block"
+}
+
+block "blockus:*_barrier" {
+	replace (group)"leaves"
+}
+
+block "woods_and_mires:tansy" {
+	replace (group)"sugarcane"
+}
+
+entity "schmarrn-fireworks:firework_rocket" {
+    name null
+}

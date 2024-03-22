@@ -1,0 +1,5 @@
+{
+  "polyMcSyncModdedEntries": true,
+  "item_stack_nbt_hack": true,
+  "override_polymc_mining_check": true
+}

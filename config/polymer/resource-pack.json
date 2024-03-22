@@ -1,0 +1,8 @@
+{
+  "markResourcePackAsRequiredByDefault": true,
+  "include_mod_assets": [],
+  "include_zips": [
+    "world/resources.zip"
+  ],
+  "resource_pack_location": "polymer/resource_pack.zip"
+}

@@ -1,0 +1,29 @@
+{
+  "displayEnabled": true,
+  "displayUpdateRate": 4,
+  "displayCantMine": true,
+  "displayModSource": true,
+  "displayAdditional": true,
+  "displayMiningProgress": true,
+  "displayEntity": true,
+  "displayEntityHealth": true,
+  "default_hover_settings": {
+    "display_type": "polydex:bossbar",
+    "display_mode": "TARGET",
+    "visible_components": {
+      "polydex:fuel": "NEVER",
+      "polydex:raw_id": "NEVER",
+      "polydex:input": "NEVER",
+      "polyfactory:machine_state": "ALWAYS",
+      "polydex:effects": "ALWAYS",
+      "polydex:output": "NEVER",
+      "polydex:progress": "ALWAYS",
+      "polydex:name": "ALWAYS",
+      "polydex:health": "ALWAYS",
+      "polydex:mod_source": "NEVER"
+    }
+  },
+  "displayPredicate": {
+    "type": "has_player"
+  }
+}

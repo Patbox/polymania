@@ -1,0 +1,9 @@
+@version "1";
+
+@target {
+	"regex" : "glideaway:recipes/glider/.*"
+};
+
+$pattern[2] = "eip";
+
+$key.e = { "item": "polyfactory:wooden_plate" };

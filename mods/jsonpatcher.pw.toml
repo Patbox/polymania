@@ -1,0 +1,13 @@
+name = "JsonPatcher"
+filename = "JsonPatcher-1.0.0-beta.4+mc.1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qlXnlZLG/versions/N2mkpgsD/JsonPatcher-1.0.0-beta.4%2Bmc.1.20.4.jar"
+hash-format = "sha1"
+hash = "571970bceb2ac0e203c575aee7c5f4549c757f96"
+
+[update]
+[update.modrinth]
+mod-id = "qlXnlZLG"
+version = "N2mkpgsD"
