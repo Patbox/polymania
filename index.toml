@@ -173,6 +173,11 @@ hash = "f3018ea16263e2ff17d6f7ce4bc1ebd42f48dbe543641f19f81cbd424bdf7ee2"
 metafile = true
 
 [[files]]
+file = "mods/profundis.pw.toml"
+hash = "94dff715dd8bec21c61fb8f012394ca92bdc609200f195402be8a57e8539748a"
+metafile = true
+
+[[files]]
 file = "mods/schmarrn-fireworks.pw.toml"
 hash = "264da6dc95bc2eb586e1caecf9e1b1affda963c5713850bac6c2006fb82e02fb"
 metafile = true
