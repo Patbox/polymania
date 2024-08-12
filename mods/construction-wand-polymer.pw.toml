@@ -1,0 +1,13 @@
+name = "Construction Wand (Polymer Port)"
+filename = "constructionwand-1.0.5+1.21-polymer.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/EfQ1lKWq/versions/hy9SnwZp/constructionwand-1.0.5%2B1.21-polymer.jar"
+hash-format = "sha1"
+hash = "5e7583c4fe967ac477a4cf28a1c9e682ea8e48b4"
+
+[update]
+[update.modrinth]
+mod-id = "EfQ1lKWq"
+version = "hy9SnwZp"

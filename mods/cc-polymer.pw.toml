@@ -1,13 +1,13 @@
 name = "Polymer Patch for CC:Tweaked"
-filename = "cc-tweaked-polymer-patch-1.109.6.0+1.20.4.jar"
+filename = "cc-tweaked-polymer-patch-1.112.0.1+1.21.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/MfXTuV8J/versions/Zfj3fjwe/cc-tweaked-polymer-patch-1.109.6.0%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/MfXTuV8J/versions/NOaP1NTC/cc-tweaked-polymer-patch-1.112.0.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "218b8ec67fe6baeb6eb29a0b0124555ec819637f"
+hash = "36852ac94daf9ccc36d118241742d837320296e4"
 
 [update]
 [update.modrinth]
 mod-id = "MfXTuV8J"
-version = "Zfj3fjwe"
+version = "NOaP1NTC"

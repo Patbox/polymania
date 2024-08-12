@@ -1,0 +1,7 @@
+name = "this-rocks-polymer"
+filename = "polymer_rocks-1.0.0-pre.2.jar"
+
+[download]
+url = "https://github.com/TeamMidnightDust/ThisRocks-Polymer/releases/download/v1.0.0-pre.2/polymer_rocks-1.0.0-pre.2.jar"
+hash-format = "sha256"
+hash = "874a7c8d46877e9cbf16f88a5978b09f727a262802771efa95056e857162b83d"

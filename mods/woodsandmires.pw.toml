@@ -1,7 +1,7 @@
 name = "woodsandmires"
-filename = "WoodsAndMires-2.1.2-polymania+1.20.4.jar"
+filename = "WoodsAndMires-2.1.2-polymania+1.21.jar"
 
 [download]
-url = "https://github.com/PolymaniaForks/WoodsAndMires/releases/download/2.1.2-polymania/WoodsAndMires-2.1.2-polymania+1.20.4.jar"
+url = "https://github.com/PolymaniaForks/WoodsAndMires/releases/download/2.1.2-polymania%2B1.21/WoodsAndMires-2.1.2-polymania+1.21.jar"
 hash-format = "sha256"
-hash = "3bfb0f4c3d6be3c6b591d77f505a20182a761f15d8d19504c166997d5420a9a5"
+hash = "174ee737854b0483534541493db1c3877fc42991a36d2f66582861c21fcc194a"

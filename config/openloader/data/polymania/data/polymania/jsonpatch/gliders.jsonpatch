@@ -1,7 +1,7 @@
 @version "1";
 
 @target {
-	"regex" : "glideaway:recipes/glider/.*"
+	"regex" : "glideaway:recipe/glider/.*"
 };
 
 $pattern[2] = "eip";

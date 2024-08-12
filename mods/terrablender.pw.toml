@@ -1,13 +1,13 @@
 name = "TerraBlender"
-filename = "TerraBlender-fabric-1.20.4-3.3.0.12.jar"
+filename = "TerraBlender-fabric-1.21-4.0.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/xezfbkog/TerraBlender-fabric-1.20.4-3.3.0.12.jar"
+url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/lN4iXEkx/TerraBlender-fabric-1.21-4.0.0.1.jar"
 hash-format = "sha1"
-hash = "2627002838bd3a380e5ec001ef71b9b79508608c"
+hash = "1b49d9d5768ca415f144229a555afe621af1f122"
 
 [update]
 [update.modrinth]
 mod-id = "kkmrDlKT"
-version = "xezfbkog"
+version = "lN4iXEkx"

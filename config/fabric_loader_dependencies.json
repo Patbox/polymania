@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"overrides": {
+		"computercraft": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
+		"forgeconfigapiport": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
+		"televator": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
+		"openloader": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		}
+	}
+  }

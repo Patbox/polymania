@@ -148,6 +148,10 @@ hash = "6e266ac9bd093b796d612fc7def6096a09de70a4283a38755919457eeea778d2"
 metafile = true
 
 [[files]]
+file = "mods/polyconfig-0.3.8.jar"
+hash = "fc36f075b5dacb028c9a45a190bb764c65c845191bddef652b61cac6d5b154ac"
+
+[[files]]
 file = "mods/polydecorations.pw.toml"
 hash = "ec4ead92bdd4470dc936d18ef8c49d550cd8fec99310006629d8d1e2554a27ad"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Televator"
+filename = "televator-1.1.7+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9kdDMOvM/versions/XiPz5bv3/televator-1.1.7%2B1.21.jar"
+hash-format = "sha1"
+hash = "e9475e56f9a8caff32cde4c811bb8d4e7c22d60d"
+
+[update]
+[update.modrinth]
+mod-id = "9kdDMOvM"
+version = "XiPz5bv3"
