@@ -154,7 +154,7 @@ hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
 
 [[files]]
 file = "config/polyconfig.kdl"
-hash = "a97c9d6da9bc26d4c6bac046ca6f2011bf60e98ce322cc243b4e1d0f4becf511"
+hash = "23d47fc9d2bc09f17475ae379b44f528cf942b5ce1e79742b0382a754f93ab54"
 
 [[files]]
 file = "config/polydex.json"
@@ -162,7 +162,7 @@ hash = "569d5dfeea1ae2688a3cbf2e7676b525f1209d9d21f481e3880ad660511004d1"
 
 [[files]]
 file = "config/polymc.json"
-hash = "1e7d65dc9800bfcbdbdd549f7bab8756a06f0c9b6633295c2b6f5e24c1d83ff0"
+hash = "c8de31ccbf51db031cdd4e047c85c04b2e20ee73fa287bd167cbf603dfb844ef"
 
 [[files]]
 file = "config/polymer/auto-host.json"
@@ -193,12 +193,26 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "6cf556d5dd6d79a18d27d2f86cbc6a9daa710f569f0c2c9100e3ab2160eab3c8"
 
 [[files]]
+file = "config/terrestria/biome.json"
+hash = "89a13dbf963e45c4f5ba1cc3d0ad19282acd10bccc86e054eccaffa196338cec"
+
+[[files]]
 file = "mods/PolyMc-5.7.0-rev.b871b7f-dirty+1.21.jar"
 hash = "5c6c8a77824f54068a5625d9d6f8843cb5fb56a89f1fe14791ab7f1382f90d49"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "633f76611e057f7dd6195a26c54fe8841e30569792e4474e9963d950fbcd17e7"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "5732254c42451afa123a6d9a0be40373e8cbc5e7bdc0584dd6140cee9229777c"
+metafile = true
+
+[[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "371d8597476ebe854cd8bc47593395803ded7614cc93dc22a9572566484d8584"
 metafile = true
 
 [[files]]
@@ -259,6 +273,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/fsit.pw.toml"
+hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
 metafile = true
 
 [[files]]
@@ -6012,7 +6036,7 @@ hash = "eea258dca18c29ceddc08e423be921527e03b436bf3fb45ab1be0fe8881ff60e"
 
 [[files]]
 file = "polymer/override_assets/assets/polymania/textures/icons/icon.png"
-hash = "79b1c5694a4be2d2c80981515344e113621760e857e4f883942addaaecf3a964"
+hash = "e3d4d5fd79a9edc973f09538d880f0d02bbc328d48f617b624f86eccaf7734d4"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/brown_autumnal_leaves.json"
@@ -6033,3 +6057,7 @@ hash = "4622a2e4b1abd704483b29fc19545017e494bce7face706f38fc2d80a0436f3e"
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_leaves.json"
 hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
+
+[[files]]
+file = "server-icon.png"
+hash = "de810548eeafd018e15d96ba4108134dbe3e378205223d117a4c18b6c1b1d567"

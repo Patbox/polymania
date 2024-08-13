@@ -1,0 +1,13 @@
+name = "FSit"
+filename = "fsit-2.5.2+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J5NAzRqK/versions/z8jZYHrp/fsit-2.5.2%2B1.21.jar"
+hash-format = "sha1"
+hash = "b47e227586b46aae93dc9b684336e5ecb25e4e17"
+
+[update]
+[update.modrinth]
+mod-id = "J5NAzRqK"
+version = "z8jZYHrp"

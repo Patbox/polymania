@@ -12,5 +12,5 @@
   "enableWizardThreading": false,
   "maxPacketsPerSecond": 600,
   "forceBlockIdIntControl": false,
-  "alwaysSendFullNbt": false
+  "alwaysSendFullNbt": true
 }

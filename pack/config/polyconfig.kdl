@@ -14,21 +14,18 @@ block "terrestria:saguaro_cactus" {
 	replace "minecraft:cactus"
 }
 
-block "(terrestria:)[a-z_-]*(_leaves)" {
+block "(terrestria:)([a-z_-]*)(_leaves)" {
 	merge distance="*"
+	merge persistent="*"
 	replace (group)"leaves" 
 }
 
-block "terrestria:*_sapling" {
+block "(terrestria:)([a-z_-]*)(_sapling)" {
 	merge stage="*"
 }
 
 block "blockus:paper_lamp" {
 	replace (group)"chorus flower block"
-}
-
-block "blockus:*_barrier" {
-	replace (group)"leaves"
 }
 
 block "woods_and_mires:tansy" {
