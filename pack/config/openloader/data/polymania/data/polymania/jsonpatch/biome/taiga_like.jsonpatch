@@ -1,0 +1,28 @@
+@version "1";
+
+@target [
+	"terrestria:worldgen/biome/snowy_hemlock_forest.json",
+	"terrestria:worldgen/biome/snowy_hemlock_treeline.json",
+	"woods_and_mires:worldgen/biome/snowy_pine_forest.json",
+	"woods_and_mires:worldgen/biome/snowy_fell.json"
+];
+
+$effects += {
+    "fog_color": 14871807,
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.grove"
+    },
+    "particle": {
+      "options": {
+        "type": "minecraft:snowflake"
+      },
+      "probability": 0.0006
+    },
+    "grass_color": 7911573,
+    "sky_color": 10009068,
+    "water_color": 8303069,
+    "water_fog_color": 1319727
+  };

@@ -28,6 +28,16 @@ block "blockus:paper_lamp" {
 	replace (group)"chorus flower block"
 }
 
+block "blockus:white_oak_leaves" {
+	merge distance="*"
+	merge persistent="*"
+	replace (group)"leaves" 
+}
+
 block "woods_and_mires:tansy" {
+	replace (group)"sugarcane"
+}
+
+block "woods_and_mires:fireweed" {
 	replace (group)"sugarcane"
 }

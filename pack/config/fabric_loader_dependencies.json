@@ -13,10 +13,21 @@
 		},
 		"televator": {
 			"-depends": {
-				"minecraft": "IGNORED"
+				"minecraft": "IGNORED",
+				"fabricloader": "IGNORED"
 			  }
 		},
 		"openloader": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
+		"filament": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
+		"bil": {
 			"-depends": {
 				"minecraft": "IGNORED"
 			  }

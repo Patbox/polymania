@@ -2,7 +2,8 @@
   "markResourcePackAsRequiredByDefault": true,
   "include_mod_assets": [],
   "include_zips": [
-    "world/resources.zip"
+    "world/resources.zip",
+    "config/openloader/data/DarkPaintings.zip"
   ],
   "resource_pack_location": "polymer/resource_pack.zip"
 }

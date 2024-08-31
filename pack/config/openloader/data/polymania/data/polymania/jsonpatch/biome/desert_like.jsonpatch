@@ -1,0 +1,26 @@
+@version "1";
+
+@target [
+	"terrestria:worldgen/biome/canyon.json",
+	"terrestria:worldgen/biome/dunes.json",
+	"terrestria:worldgen/biome/lush_desert.json"
+];
+
+$effects += {
+    "fog_color": 14411213,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2.0,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.desert"
+    },
+    "sky_color": 8109009,
+    "water_color": 2854026,
+    "water_fog_color": 198922
+  };

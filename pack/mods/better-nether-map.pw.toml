@@ -1,0 +1,13 @@
+name = "Better Nether Map"
+filename = "nethermap-4.0.0-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fdtm99de/versions/BEfm3cNd/nethermap-4.0.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "4a4849b36757a268253a3a87b4a02b60f59816a6"
+
+[update]
+[update.modrinth]
+mod-id = "fdtm99de"
+version = "BEfm3cNd"
