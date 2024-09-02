@@ -1,13 +1,13 @@
 name = "PolyFactory"
-filename = "polyfactory-0.4.1+1.21.1.jar"
+filename = "polyfactory-0.4.2+1.21.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/MikpSrAF/versions/rImG4Zdz/polyfactory-0.4.1%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/MikpSrAF/versions/nPgi5zG2/polyfactory-0.4.2%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "52f205e045231d30f6098714d39c0b9ae650805a"
+hash = "d1b47082320e6691603025df3655ba955bbfa18d"
 
 [update]
 [update.modrinth]
 mod-id = "MikpSrAF"
-version = "rImG4Zdz"
+version = "nPgi5zG2"

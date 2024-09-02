@@ -31,6 +31,16 @@
 			"-depends": {
 				"minecraft": "IGNORED"
 			  }
+		},
+		"puzzleslib": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
+		"leavesbegone": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
 		}
 	}
   }

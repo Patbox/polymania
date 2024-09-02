@@ -1,0 +1,13 @@
+name = "Boat Break Fix"
+filename = "BoatBreakFix-Universal-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OVb8ZE5p/versions/Uf9jCC3m/BoatBreakFix-Universal-1.0.2.jar"
+hash-format = "sha1"
+hash = "f0bc583479532b7a83cded5ac86f0b3622c69558"
+
+[update]
+[update.modrinth]
+mod-id = "OVb8ZE5p"
+version = "Uf9jCC3m"

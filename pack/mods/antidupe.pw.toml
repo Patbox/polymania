@@ -1,0 +1,13 @@
+name = "AntiDupe"
+filename = "antidupe-fabric-1.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/g3kfSq6n/versions/2xm3YRbs/antidupe-fabric-1.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "85b6a5e0c0b0bac5fc8e3e2e94a58345b3865025"
+
+[update]
+[update.modrinth]
+mod-id = "g3kfSq6n"
+version = "2xm3YRbs"

@@ -1,0 +1,13 @@
+name = "Clumps"
+filename = "Clumps-fabric-1.21.1-19.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/3ene3W1l/Clumps-fabric-1.21.1-19.0.0.1.jar"
+hash-format = "sha1"
+hash = "14628ba309d876cfefc4cef864a66ef12812066c"
+
+[update]
+[update.modrinth]
+mod-id = "Wnxd13zP"
+version = "3ene3W1l"

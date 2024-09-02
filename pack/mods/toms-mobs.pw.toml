@@ -1,0 +1,13 @@
+name = "Toms Mobs"
+filename = "toms_mobs-2.0.1+1.21.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PXaH6GuW/versions/KIRVchWM/toms_mobs-2.0.1%2B1.21.jar"
+hash-format = "sha1"
+hash = "725a66160dfafc57b6faeb64adebee8cba5bff74"
+
+[update]
+[update.modrinth]
+mod-id = "PXaH6GuW"
+version = "KIRVchWM"
