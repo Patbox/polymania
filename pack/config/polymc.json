@@ -1,5 +1,5 @@
 {
-  "configVersion": 11,
+  "configVersion": 13,
   "disabledMixins": [
     "CustomPacketDisabler"
   ],
@@ -12,5 +12,9 @@
   "enableWizardThreading": false,
   "maxPacketsPerSecond": 600,
   "forceBlockIdIntControl": false,
-  "alwaysSendFullNbt": true
+  "alwaysSendFullNbt": true,
+  "blockItemMatching": false,
+  "allowedPackets": ["polymer"],
+  "logEntityTemplateErrors": true,
+  "logMissingContext": false
 }

@@ -1,0 +1,17 @@
+{
+
+  "structures": [
+    {
+      "structure": "illagerexp:firecaller_hut",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169476076,
+
+    "spacing": 32,
+    "separation": 18,
+
+    "type": "minecraft:random_spread"
+  }
+}

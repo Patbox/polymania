@@ -1,0 +1,17 @@
+{
+
+  "structures": [
+    {
+      "structure": "illagerexp:sorcerer_hut",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 169476080,
+
+    "spacing": 18,
+    "separation": 14,
+
+    "type": "minecraft:random_spread"
+  }
+}

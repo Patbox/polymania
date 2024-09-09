@@ -1,9 +1,13 @@
 {
   "markResourcePackAsRequiredByDefault": true,
-  "include_mod_assets": [],
+  "include_mod_assets": [
+	"mr_banner_text"
+  ],
   "include_zips": [
     "world/resources.zip",
-    "config/openloader/data/DarkPaintings.zip"
+    "polymer/extra/Unsanded-1.1.1-custom.zip",
+    "config/openloader/data/DarkPaintings.zip",
+    "config/openloader/data/patboxtranslations.zip"
   ],
   "resource_pack_location": "polymer/resource_pack.zip"
 }

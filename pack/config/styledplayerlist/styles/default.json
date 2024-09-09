@@ -1,21 +1,21 @@
 {
-  "style_name": "Default",
-  "update_tick_time": 30,
-  "list_header": [
-    "",
-    "",
-    "<font:'polymania:icons'>0</font> <bold><gr:#ffd86e:#fff98c>Polymania Modpack!</gr></bold>",
-    "",
-    "",
-    "<color:#555555> <strikethrough>          </strikethrough>[ </color><color:#FF5555>%server:online%<color:#6666676>/</color>%server:max_players%</color><color:#555555> ]<strikethrough>          </strikethrough> </color>",
-    ""
-  ],
-  "list_footer": [
-    "",
-    "<color:#555555><strikethrough>                              </strikethrough></color>",
-    "",
-    "<gray>TPS: %spark:tps 5s% <dark_gray>|</dark_gray> <gray>Ping: <color:#ffba26>%player:ping%</color>",
-    ""
-  ],
-  "hidden_in_commands": false
-}
+	"style_name": "Default",
+	"update_tick_time": 30,
+	"list_header": [
+	  "",
+	  "",
+	  "<font 'polymania:icons'>0</font> <font 'unsanded:default'><gr #f7e1a7 #f39240>Polymania</gr> Modpack! </>",
+	  "",
+	  "",
+	  "<#555555> <strikethrough>          </strikethrough>[ </><#FF5555>%server:online%<#666666>/</>%server:max_players%</><#555555> ]<strikethrough>          </strikethrough> </>",
+	  ""
+	],
+	"list_footer": [
+	  "",
+	  "<#555555><strikethrough>                              </strikethrough></>",
+	  "",
+	  "<gray>TPS: %spark:tps 5s% <dark_gray>|</dark_gray> <gray>Ping: <#ffba26>%player:ping%</>",
+	  ""
+	],
+	"hidden_in_commands": false
+  }

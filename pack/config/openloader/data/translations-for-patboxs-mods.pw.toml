@@ -1,0 +1,13 @@
+name = "Translations for Patbox's Mods"
+filename = "patboxtranslations.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D86nIC6m/versions/mlch7SwE/patboxtranslations-29-08-2024.zip"
+hash-format = "sha1"
+hash = "9daa4458c08a212b7eeffe85f975158231618e72"
+
+[update]
+[update.modrinth]
+mod-id = "D86nIC6m"
+version = "mlch7SwE"

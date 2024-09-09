@@ -1,0 +1,17 @@
+{
+
+  "structures": [
+    {
+      "structure": "illagerexp:labyrinth",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1687452161,
+    "separation": 20,
+    "spacing": 60,
+    "spread_type": "triangular",
+
+    "type": "minecraft:random_spread"
+  }
+}

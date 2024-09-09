@@ -1,0 +1,13 @@
+name = "Banner Text"
+filename = "banner-text-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zg8QRuv4/versions/bwXNj8q3/banner-text-1.2.0.jar"
+hash-format = "sha1"
+hash = "9dabc3b9f1646ad114fd11970965d52ccf29674a"
+
+[update]
+[update.modrinth]
+mod-id = "zg8QRuv4"
+version = "bwXNj8q3"

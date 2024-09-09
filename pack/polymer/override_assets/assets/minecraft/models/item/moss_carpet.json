@@ -1,0 +1,70 @@
+{
+	"credit": "Created by Stridey",
+	"parent": "block/carpet",
+	"textures": {
+		"side": "block/moss_side_overlay",
+		"particle": "block/moss_block",
+		"wool": "block/moss_block"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#wool"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#wool"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#wool"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#wool"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#wool"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#wool", "cullface": "down"}
+			}
+		},
+		{
+			"from": [-0.01, -15.01, -0.01],
+			"to": [16.01, 1.01, 16.01],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#wool"}
+			}
+		},
+		{
+			"from": [15.99, -15.01, -0.01],
+			"to": [0.01, 1.01, 16.01],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "down"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "down"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "down"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#side", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 2],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 4.2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"translation": [0, 4.2, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 6.25, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, 13.55, 0],
+			"scale": [0.9, 0.9, 0.9]
+		}
+	}
+}
