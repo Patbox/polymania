@@ -30,8 +30,20 @@ Other known methods of installing modrinth modpacks include [mrpack-installer](h
 
 ![](https://cdn.modrinth.com/data/gDvfyRyQ/images/98a6321296ba2acc411320d5796bb1a13d36ec6f.png)
 
+## Faq
+### Can I run this modpack on the client/singleplayer?
+Officially no, as some mods won't work correctly! As some mods got modified run better with PolyMc, the core mod allowing them to run server side, some of the required client side code was removed, which can make them unstable if not fully broken when ran in singleplayer. You need to run it on a server to make it work fully.
+
+### Can I use Geyser with this?
+Currently? Sadly not. Due to many differences between how java and bedrock handle many technical / datapack / resourcepack features. This modpack won't work correctly with Geyser users. So even if they managed to join, they likely won't see textures and models correctly, while also not being able to use some items and blocks at all.
+
+### Does ViaVersion / ViaBackwards work with this?
+Heavily depends on versions you use. Generally it might work in some cases, where enough things didn't change, but at least with older versions things will work worse if not at all in case it's missing required behaviour/feature. In case of newer version, it's possible some things won't work due to format / display changes in Minecraft resource pack features, through it should be way more compatible.
+
+![](https://cdn.modrinth.com/data/gDvfyRyQ/images/6cb0af3de306e758ef233f1d13fbea40181c06c5.png)
+
 ## Modified mods, included assets and licenses.
-Polymania uses forks of mods, which source code/changes you can see check at [PolamaniaForks github page](https://github.com/PolymaniaForks).
+Polymania uses forks of mods, which source code/changes you can see check at [PolymaniaForks github page](https://github.com/PolymaniaForks).
 
 Additionally it includes:
 - It includes port of [Dark Paintings](https://modrinth.com/mod/dark-paintings) as a datapack/resourcepack combo, which you can find under `config/openloader/data/DarkPaintings.zip`.
