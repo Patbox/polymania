@@ -1,0 +1,13 @@
+name = "Simple Update Checker"
+filename = "simpleupdatechecker-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s5pYJlew/versions/9QLXFzvA/simpleupdatechecker-1.0.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "dca3990350b68d819c380570213887a152c57060"
+
+[update]
+[update.modrinth]
+mod-id = "s5pYJlew"
+version = "9QLXFzvA"

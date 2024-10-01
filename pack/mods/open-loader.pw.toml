@@ -1,7 +1,0 @@
-name = "open-loader"
-filename = "OpenLoader-Fabric-1.21-22.1.0.jar"
-
-[download]
-url = "https://github.com/IThundxr/Open-Loader/releases/download/v22.1.0-fabric/OpenLoader-Fabric-1.21-22.1.0.jar"
-hash-format = "sha256"
-hash = "7bf02df4cef951ee82bad9ac31a394c49217f2bd20a7bcf1eb224541d173e43d"

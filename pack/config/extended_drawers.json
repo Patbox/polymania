@@ -1,0 +1,41 @@
+{
+  "client": {
+    "displayEmptyCount": false,
+    "layout": {
+      "smallTextScale": 0.5,
+      "largeTextScale": 1.0,
+      "textOffset": 0.8,
+      "smallItemScale": 0.4,
+      "largeItemScale": 1.0
+    },
+    "icons": {
+      "lockedIcon": "extended_drawers:item/lock",
+      "voidingIcon": "minecraft:item/lava_bucket",
+      "hiddenIcon": "minecraft:item/black_dye",
+      "dupingIcon": "extended_drawers:item/dupe_wand"
+    },
+    "itemRenderDistance": 64,
+    "iconRenderDistance": 16,
+    "textRenderDistance": 32
+  },
+  "storage": {
+    "t1UpgradeMultiplier": 2,
+    "t2UpgradeMultiplier": 4,
+    "t3UpgradeMultiplier": 8,
+    "t4UpgradeMultiplier": 16,
+    "drawerCapacity": 1024,
+    "compactingCapacity": 1024,
+    "stackSizeAffectsCapacity": true,
+    "slotCountAffectsCapacity": true
+  },
+  "misc": {
+    "blockUpgradeRemovalsWithOverflow": true,
+    "allowRecursion": false,
+    "drawersDropContentsOnBreak": false,
+    "dropDrawersInCreative": true,
+    "insertAllTime": 10,
+    "frontBreakingBehaviour": "mine",
+    "sideBreakingBehaviour": "break",
+    "cachingMode": "simple"
+  }
+}

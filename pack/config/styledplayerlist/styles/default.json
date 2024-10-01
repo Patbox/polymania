@@ -5,7 +5,7 @@
 	  "",
 	  "",
 	  "<font 'polymania:icons'>0</font> <font 'unsanded:default'><gr #f7e1a7 #f39240>Polymania</gr> Modpack! </>",
-	  "",
+	  "<gray><font 'unsanded:default'>{ %simpleupdatechecker:version% }",
 	  "",
 	  "<#555555> <strikethrough>          </strikethrough>[ </><#FF5555>%server:online%<#666666>/</>%server:max_players%</><#555555> ]<strikethrough>          </strikethrough> </>",
 	  ""

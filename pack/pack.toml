@@ -1,12 +1,12 @@
 name = "Polymania"
 author = "Patbox"
-version = "0.1.0"
+version = "<MODPACKVERSION>"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1389b818cee75111272e8cef5f4e994af098c81c9214e382466d8224f91e8cb9"
+hash = "4994dcbe04f582c94c30fdcc49b557bfb263ea1fbfafca49b86aa017df5afeed"
 
 [versions]
 fabric = "0.16.3"
@@ -14,4 +14,4 @@ minecraft = "1.21.1"
 
 [options]
 acceptable-game-versions = ["1.21.1", "1.21"]
-datapack-folder = "config/openloader/data"
+datapack-folder = "resources/common/required"

@@ -1,6 +1,6 @@
 name = "Styled Player List"
 filename = "styledplayerlist-3.5.1+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DQIfKUHf/versions/Ui7MOgqG/styledplayerlist-3.5.1%2B1.21.jar"

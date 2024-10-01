@@ -1,13 +1,13 @@
 name = "Borukva Food"
-filename = "borukva-food-0.1.4.jar"
-side = "server"
+filename = "borukva-food-0.1.5.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/l4Fz32NE/versions/vndmGPJb/borukva-food-0.1.4.jar"
+url = "https://cdn.modrinth.com/data/l4Fz32NE/versions/lM4sioaA/borukva-food-0.1.5.jar"
 hash-format = "sha1"
-hash = "b490fd666028d0baf9b6697c11900ad4781b37ab"
+hash = "9d8696dca644f430e407c2e0f58b6ee05a2da21d"
 
 [update]
 [update.modrinth]
 mod-id = "l4Fz32NE"
-version = "vndmGPJb"
+version = "lM4sioaA"

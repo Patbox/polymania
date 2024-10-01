@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      	"item": "minecraft:diamond"
+    },
+    "X": {
+		"item": "polyfactory:steel_plate"
+    },
+	"E": {
+		"item": "polyfactory:ender_infused_amethyst_shard"
+    }
+  },
+  "pattern": [
+    "XEX",
+    "EGE",
+    "XEX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "televator:televator"
+  }
+}

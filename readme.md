@@ -6,7 +6,7 @@
 
 # Welcome to Polymania!
 Polymania is a Fabric Server-Side modpack, which main goal is to provide classic modded experience, while being easy to install and use. 
-It's ideal for server you want to play on with your friends, as the only thing needed is a place to host it and vanilla Minecraft client!.
+It's ideal for server you want to play on with your friends, as the only thing needed is a place to host it and vanilla Minecraft client!
 
 This modpack is contains:
 - A full on factory/automation with machinery powered by rotation and logic cables, provided by [PolyFactory](https://modrinth.com/mod/polyfactory) mod!
@@ -23,7 +23,7 @@ Modpack is available on [Modrinth](https://modrinth.com/project/polymania), whic
 ### Provided installer (Recommended).
 Every release of a modpack provides extra file named `server.jar`. Just download it and run it like any other Minecraft server ([see MC wiki for running it locally](https://minecraft.wiki/w/Tutorials/Setting_up_a_server), or follow your server hosting tutorial about using custom jars). Only thing you will need to do is to accept Minecraft's eula.
 ### Using mrpack4server.
-You can user [mrpack4server](https://github.com/Patbox/mrpack4server) just as it's described in readme. 
+You can use [mrpack4server](https://github.com/Patbox/mrpack4server) just as it's described in readme. 
 Officially provided `server.jar` uses pre-configured version of it set to download the pack, so there should be no functionality difference aside of setting it by hand.
 ### Other methods.
 Other known methods of installing modrinth modpacks include [mrpack-installer](https://github.com/nothub/mrpack-install) or [itzg/minecraft-server docker image](https://docker-minecraft-server.readthedocs.io/en/latest/), through I wouldn't suggest using them for non-technical users.
@@ -31,6 +31,9 @@ Other known methods of installing modrinth modpacks include [mrpack-installer](h
 ![](https://cdn.modrinth.com/data/gDvfyRyQ/images/98a6321296ba2acc411320d5796bb1a13d36ec6f.png)
 
 ## Faq
+### Can I check all recipes somehow? Also can I hide the block names on top of the screen!
+Yes! You can use `/polydex` command to show all available item recipes. Block/Entity names on top of the screen are also
+handled by the Polydex. [You can read more about it here!](https://modded.wiki/w/Mod:Polydex)
 ### Can I run this modpack on the client/singleplayer?
 Officially no, as some mods won't work correctly! As some mods got modified run better with PolyMc, the core mod allowing them to run server side, some of the required client side code was removed, which can make them unstable if not fully broken when ran in singleplayer. You need to run it on a server to make it work fully.
 
@@ -53,6 +56,7 @@ Additionally it includes:
 - [Unsanded by unascribed](https://modrinth.com/resourcepack/unsanded), modified to exist as it's own font instead of overriding vanilla. You can find it in `polymer/extra/Unsanded-1.1.1-custom.zip`.
 - [Lato Regular Font](https://www.latofonts.com/lato-free-fonts/) as an extra usable font. You can find it in `polymer/override_assets/assets/polymania/font/lato`.
 - [Tweemoji](https://github.com/jdecked/twemoji) as emoji's used with Styled Chat. You can find it in `polymer/override_assets/assets/polymania/textures/emoji`.
+
 You can see the license of these files on provided websites.
 
 Other files included in modpack are provided under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

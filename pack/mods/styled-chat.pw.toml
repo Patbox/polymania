@@ -1,6 +1,6 @@
 name = "Styled Chat"
 filename = "styled-chat-2.6.0+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/doqSKB0e/versions/EoTTJkqS/styled-chat-2.6.0%2B1.21.jar"

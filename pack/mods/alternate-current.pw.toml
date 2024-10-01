@@ -1,6 +1,6 @@
 name = "Alternate Current"
 filename = "alternate-current-mc1.21-1.9.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/78P98rac/alternate-current-mc1.21-1.9.0.jar"

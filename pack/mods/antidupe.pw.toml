@@ -1,6 +1,6 @@
 name = "AntiDupe"
 filename = "antidupe-fabric-1.0+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/g3kfSq6n/versions/2xm3YRbs/antidupe-fabric-1.0%2B1.21.1.jar"

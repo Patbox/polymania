@@ -1,6 +1,6 @@
 name = "Armor Stand Editor"
 filename = "armor-stand-editor-2.5.0+1.21-rc1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ef9ZREBZ/versions/lp2JxZ4N/armor-stand-editor-2.5.0%2B1.21-rc1.jar"

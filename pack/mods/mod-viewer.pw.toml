@@ -1,6 +1,6 @@
 name = "Mod Viewer"
 filename = "modviewer-1.9.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wGOr2JgV/versions/9Iw7koI2/modviewer-1.9.0.jar"

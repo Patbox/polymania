@@ -1,0 +1,13 @@
+name = "Simple Resource Loader"
+filename = "simpleresourceloader-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5e65FGXQ/versions/IEbD337h/simpleresourceloader-1.0.0%2B1.21.1.jar"
+hash-format = "sha1"
+hash = "faa2a9b25f3a3e1e6c6ed8ab860a5b10cec303ff"
+
+[update]
+[update.modrinth]
+mod-id = "5e65FGXQ"
+version = "IEbD337h"

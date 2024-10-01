@@ -1,6 +1,6 @@
 name = "Patbox's Brewery"
 filename = "brewery-0.8.0+1.21-rc1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nr7cSJlY/versions/dFY4EIfX/brewery-0.8.0%2B1.21-rc1.jar"

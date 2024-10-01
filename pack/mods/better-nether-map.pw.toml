@@ -1,6 +1,6 @@
 name = "Better Nether Map"
 filename = "nethermap-4.0.0-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fdtm99de/versions/BEfm3cNd/nethermap-4.0.0-1.21.1.jar"

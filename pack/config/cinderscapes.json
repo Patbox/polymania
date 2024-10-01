@@ -5,7 +5,7 @@
     "enableLuminousGrove": true,
     "enableQuartzCavern": true
   },
-  "enableAshFall": true,
+  "enableAshFall": false,
   "easterEggs": false,
   "polypiteLuminance": 4
 }

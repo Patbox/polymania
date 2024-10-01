@@ -6,8 +6,8 @@
   "include_zips": [
     "world/resources.zip",
     "polymer/extra/Unsanded-1.1.1-custom.zip",
-    "config/openloader/data/DarkPaintings.zip",
-    "config/openloader/data/patboxtranslations.zip"
+    "resources/common/required/DarkPaintings.zip",
+    "resources/common/required/patboxtranslations.zip"
   ],
   "resource_pack_location": "polymer/resource_pack.zip"
 }

@@ -1,6 +1,6 @@
 name = "PerPlayerWanderingTraders"
 filename = "PerPlayerWanderingTraders-1.0.2+1.20.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Nf4h6a7d/versions/WIVuixJq/PerPlayerWanderingTraders-1.0.2%2B1.20.6.jar"

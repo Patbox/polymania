@@ -1,0 +1,13 @@
+name = "Open Sesame"
+filename = "open_sesame-fabric-1.21-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u40fRXlK/versions/DdxStKrg/open_sesame-fabric-1.21-1.0.0.jar"
+hash-format = "sha1"
+hash = "48c8ad388340157fc45eff0743ed9662f3d63479"
+
+[update]
+[update.modrinth]
+mod-id = "u40fRXlK"
+version = "DdxStKrg"

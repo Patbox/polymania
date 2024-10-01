@@ -1,6 +1,6 @@
 name = "Baby Fat - Polymerized"
 filename = "babyfat-polymerized-1.0.0+1.21.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hYvpHPA7/versions/qjYM2HjI/babyfat-polymerized-1.0.0%2B1.21.jar"

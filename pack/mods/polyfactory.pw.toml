@@ -1,6 +1,6 @@
 name = "PolyFactory"
 filename = "polyfactory-0.4.2+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MikpSrAF/versions/nPgi5zG2/polyfactory-0.4.2%2B1.21.1.jar"
