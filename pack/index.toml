@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "c6ea352f54bce34fee7f7f1c12f757fffebc66cc24dc869ba149e4d3181a9bb3"
+hash = "dd0379e9fbabb17d479decf5e8402e9006425bf578601f39c1cf55c5a60eabb5"
+
+[[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "8d1ac5911aebefd27540145ac47a027fc6ef4611f514e5117103e5b9495d85fd"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "05fc216a2c8c0d7aed280fea7ca24971ee5f6dad48b479ed8fbe140d48aa3924"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -50,7 +58,7 @@ hash = "60f24449189b249c0a53c138885a6271110fcb295e84d60b331a408698ad43ab"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "3db7e152e7dddea92c3ce1c483896c12b9484987d69baa4c4e916bccc536965a"
+hash = "1eb5e2e03627f70ac631f13ccd86a786b38cde5ea506b856aab2df76ee4f5d04"
 
 [[files]]
 file = "config/sleepwarp.json"
@@ -77,6 +85,10 @@ file = "mods/PolyMc-5.7.0-rev.188d8ee+1.21.1.jar"
 hash = "3d8e0f9861644d58203357aca799c557afa638cdf35e225b195baf71fd2dcb60"
 
 [[files]]
+file = "mods/ViaFabric-0.4.15+84-main.jar"
+hash = "0fe79c46edcc746e4f35ffdae46e5c68745144769595a79cfd046195ea813c82"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "9ea2c0f1da6ccd45a94f8371004e6d7a725da5060e33afc63580bdcbfc81b8bb"
 metafile = true
@@ -88,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
-hash = "834b61193f4e49e342b5ebc9d67da615313c0eaa9a221aaa7a1025ec4211d309"
+hash = "da3785cf8a5ae3f38a97961c6aa399ded1314ae917f76c9056b720aad3100c34"
 metafile = true
 
 [[files]]
@@ -103,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "77cba89986eae4a5a2d693a2e169cd91338127f625663bc26741094a75616bbb"
+hash = "966f995d81b792ae424ece87b1c1697bd976616f3580e4bb3f6c328de836b7e2"
 metafile = true
 
 [[files]]
@@ -198,17 +210,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+hash = "6781d16eadeb0c3795428014f55979736795206072637df5a8ac9344a107d9db"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4827c2c799732112b14c0edf55062c1f33bef97d7f7d866491bb1d7d4b97e1c8"
+hash = "07620e0acf742955b2f10e73244e1828836dd8737ea6142c7c4cd03243a78b7e"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+hash = "89ca14036b7f3a0a23dcab9d81c68fd95504a5f75460b3f6630b0f5abbd76835"
 metafile = true
 
 [[files]]
@@ -218,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "87e7ac394350852985094c38cd5425bb7ce9a511b8651159dce890a2cffb9904"
+hash = "23c8141acd4abdef5c5032a09537fa70139ee1148d2c35b0be9dac55f15cb76e"
 metafile = true
 
 [[files]]
@@ -248,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "738dff51b80050ab609b1e38b949171706a8c243f59e2a2fa09f9d6e6cb88a14"
+hash = "1190f29d62ac835b52a7766701d06120b8e6b1c8a40c76858195cf938cb1f858"
 metafile = true
 
 [[files]]
@@ -278,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-sesame.pw.toml"
-hash = "8357687087f1d68940064022f6b10cf2e42196b83aedec953204de5dac961f08"
+hash = "027346564e2506dfb60cd32887772e5a4abb2233a15957eb10d7afd84e2a688c"
 metafile = true
 
 [[files]]
@@ -317,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ab39e7cda7e3b9c2225186f1c18b4cb1cdf4c5d7ed887f77df61f29f28b5f6c9"
+hash = "593ad2c467b1709d616441b875b00e3ee7de39a81c4bb1129be092cbcbd90c2e"
 metafile = true
 
 [[files]]
@@ -337,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-update-checker.pw.toml"
-hash = "7610765539cf966bcfee78d5b76326532a1de53a5ac242a2e6c66e600cd8828e"
+hash = "f3f07aa1ff9b8bd92d537533b2c5bd14db4ae579606c2b60e34992fc97db5ba5"
 metafile = true
 
 [[files]]
@@ -367,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "6575df2edcc7fa462bb3fa706c0d812b8aa561f87d12e17ed760c59ac71388c7"
+hash = "a945493803e779e9a710024191fb741a3e7a2b9b58d18b87e6e8b300d2cf3181"
 metafile = true
 
 [[files]]
@@ -387,7 +399,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "ee0a7aa9ad2ceacb6a0509de223bab851b3b9c8e8b5459171a1bdb9d77e7dde9"
+hash = "5e57616d7e916355eeb4f242e919b7cd137c1369e731d39c6f1d82a2ce502c96"
 metafile = true
 
 [[files]]
@@ -403,6 +415,11 @@ metafile = true
 [[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "e703ec7d2d4977cab07b1195829ad55bf072a1b4363b29fca008fb8c18d9ceda"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "3495a01f5be7bc9699a2ea53aa9788cbd04d81089bcafa883d4218873f760675"
 metafile = true
 
 [[files]]
@@ -453,6 +470,10 @@ hash = "c1634d4dd025c29e97e7addbcf348a6dbc3e43dee25fa509d107f10fcec83cff"
 [[files]]
 file = "polymer/override_assets/assets/gofish/textures/block/astral_crate.png.mcmeta"
 hash = "556e3a2d6825c523d11549942f848bd70a80caf3ea4463367a3a22f9a621b091"
+
+[[files]]
+file = "polymer/override_assets/assets/minecraft/lang/en_us.json"
+hash = "0e124270d9beb3fa80ef98a0d8eefaecee6b87db6416ab55ba286f2525ae0201"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/models/block/moss_carpet.json"

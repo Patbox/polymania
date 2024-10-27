@@ -1,13 +1,13 @@
 name = "Open Sesame"
-filename = "open_sesame-fabric-1.21-1.0.0.jar"
+filename = "open_sesame-fabric-1.21-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/u40fRXlK/versions/DdxStKrg/open_sesame-fabric-1.21-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/u40fRXlK/versions/l0ydnRqR/open_sesame-fabric-1.21-1.0.1.jar"
 hash-format = "sha1"
-hash = "48c8ad388340157fc45eff0743ed9662f3d63479"
+hash = "087cdf712b763abeaa31376ce8b598523671e431"
 
 [update]
 [update.modrinth]
 mod-id = "u40fRXlK"
-version = "DdxStKrg"
+version = "l0ydnRqR"

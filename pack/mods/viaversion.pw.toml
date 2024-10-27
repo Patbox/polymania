@@ -1,0 +1,13 @@
+name = "ViaVersion"
+filename = "ViaVersion-5.1.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P1OZGk5p/versions/EkrRAVfa/ViaVersion-5.1.1-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "2f0f11f3a32bd4693c7937f22eafa8fa5be2fa4c"
+
+[update]
+[update.modrinth]
+mod-id = "P1OZGk5p"
+version = "EkrRAVfa"
