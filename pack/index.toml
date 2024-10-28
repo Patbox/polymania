@@ -179,9 +179,8 @@ hash = "f0ec653fdb2ea3c2546cbe327d1d184256548be6fe9e459885eb0f9459153dae"
 metafile = true
 
 [[files]]
-file = "mods/crashexploitfixer.pw.toml"
-hash = "58ea3d4b0f3531bbe43849b0365cf8b8390128b5f8f99fb9bb8b7a8ce9c0e323"
-metafile = true
+file = "mods/crashexploitfixer-fabric-1.1.0+1.21.jar"
+hash = "73388416bdcfe5a2f30ca0e414dcfe73e89c7b616b6b31fb75641d1afc855555"
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
