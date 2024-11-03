@@ -19,14 +19,15 @@ This modpack is contains:
 ![](https://cdn.modrinth.com/data/gDvfyRyQ/images/ab761c937dbc68f334549d61b9cae809266b90b8.png)
 
 ## Installation.
-Modpack is available on [Modrinth](https://modrinth.com/project/polymania), which all methods provided below will source it from.
+Modpack is available on [Modrinth](https://modrinth.com/project/polymania), but can be easily installed on any hosting service that supports custom jars.
+Naturally it can also be installed on Modrinth Servers using it's builtin modpack installer.
 ### Provided installer (Recommended).
 Every release of a modpack provides extra file named `server.jar`. Just download it and run it like any other Minecraft server ([see MC wiki for running it locally](https://minecraft.wiki/w/Tutorials/Setting_up_a_server), or follow your server hosting tutorial about using custom jars). Only thing you will need to do is to accept Minecraft's eula.
 ### Using mrpack4server.
-You can use [mrpack4server](https://github.com/Patbox/mrpack4server) just as it's described in readme. 
-Officially provided `server.jar` uses pre-configured version of it set to download the pack, so there should be no functionality difference aside of setting it by hand.
+You can use [mrpack4server](https://github.com/Patbox/mrpack4server) just as it's described in it's readme. 
+Officially provided `server.jar` uses pre-configured version of it set to download the pack, so there should be no functionality difference aside of having to set it up manually.
 ### Other methods.
-Other known methods of installing modrinth modpacks include [mrpack-installer](https://github.com/nothub/mrpack-install) or [itzg/minecraft-server docker image](https://docker-minecraft-server.readthedocs.io/en/latest/), through I wouldn't suggest using them for non-technical users.
+Other known methods of installing modrinth modpacks include [mrpack-installer](https://github.com/nothub/mrpack-install), [itzg/minecraft-server docker image](https://docker-minecraft-server.readthedocs.io/en/latest/) or any other compatible installer, through I wouldn't suggest using them for non-technical users.
 
 ![](https://cdn.modrinth.com/data/gDvfyRyQ/images/98a6321296ba2acc411320d5796bb1a13d36ec6f.png)
 
@@ -34,6 +35,7 @@ Other known methods of installing modrinth modpacks include [mrpack-installer](h
 ### Can I check all recipes somehow? Also can I hide the block names on top of the screen!
 Yes! You can use `/polydex` command to show all available item recipes. Block/Entity names on top of the screen are also
 handled by the Polydex. [You can read more about it here!](https://modded.wiki/w/Mod:Polydex)
+
 ### Can I run this modpack on the client/singleplayer?
 Officially no, as some mods won't work correctly! As some mods got modified run better with PolyMc, the core mod allowing them to run server side, some of the required client side code was removed, which can make them unstable if not fully broken when ran in singleplayer. You need to run it on a server to make it work fully.
 
