@@ -1,13 +1,13 @@
 name = "Televator"
-filename = "televator-1.1.9.jar"
+filename = "televator-1.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9kdDMOvM/versions/f2bDEHT3/televator-1.1.9.jar"
+url = "https://cdn.modrinth.com/data/9kdDMOvM/versions/zSV7rZ1t/televator-1.2.1.jar"
 hash-format = "sha1"
-hash = "3354a9128b8cfc0338f653bd2364b5d79c697b48"
+hash = "a3ceaec30dafafcb98231b4143892c82873b04c7"
 
 [update]
 [update.modrinth]
 mod-id = "9kdDMOvM"
-version = "f2bDEHT3"
+version = "zSV7rZ1t"

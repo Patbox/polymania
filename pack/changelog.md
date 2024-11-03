@@ -1,3 +1,14 @@
+# 0.3.0
+- Updated to 1.21.3
+- Updated ALL mods. Won't put them here as it's just too many.
+- Removed mods:
+  - PolydexBridge
+  - Boat Break Fix
+  - Crash Exploit Fixer
+  - ViaFabric / ViaVersion
+
+
+
 # 0.2.1
 - You can now join the modpack server with 1.21.2/3.
   - While it should faily playable, there might be some issues/bugs related to that, as features/behaviour between these versions have some differences. 
