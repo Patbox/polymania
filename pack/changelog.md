@@ -1,11 +1,20 @@
-# 0.3.0
-- Updated to 1.21.3
+# 0.3.0-alpha.1
+- Updated to 1.21.4
 - Updated ALL mods. Won't put them here as it's just too many.
 - Removed mods:
   - PolydexBridge
   - Boat Break Fix
   - Crash Exploit Fixer
   - ViaFabric / ViaVersion
+  - Anti Dupe
+  - Motschen's Puddles
+  - Server Ui Fix
+  - Mod Viewer
+  - This Rocks Polymer
+  - Trinkets Polymer Port
+  - CC: Tweaked
+  - Polymer Patch for CC: Tweaked
+  - Better Nether Map
 
 
 

@@ -1,13 +1,13 @@
 name = "Vaulted End"
-filename = "vaulted-end-1.0.0.jar"
+filename = "vaulted-end-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1wndQzER/versions/Tj98Ntin/vaulted-end-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/1wndQzER/versions/RVOW38B7/vaulted-end-1.2.0.jar"
 hash-format = "sha1"
-hash = "42d7c5726ec8d2b8e92654e6f3014d2f7152f82b"
+hash = "7ff355ba3e6d0a40c336e70add92f8dc84f46f53"
 
 [update]
 [update.modrinth]
 mod-id = "1wndQzER"
-version = "Tj98Ntin"
+version = "RVOW38B7"

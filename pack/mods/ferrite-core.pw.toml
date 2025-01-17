@@ -1,13 +1,13 @@
 name = "FerriteCore"
-filename = "ferritecore-7.1.0-hotfix-fabric.jar"
+filename = "ferritecore-7.1.1-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uXXizFIs/versions/a3QXXGz2/ferritecore-7.1.0-hotfix-fabric.jar"
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar"
 hash-format = "sha1"
-hash = "065410c520d858893c8f130d32f63a11317d6119"
+hash = "ee08ca5fd2a7a02dbade048745533b5570a826f0"
 
 [update]
 [update.modrinth]
 mod-id = "uXXizFIs"
-version = "a3QXXGz2"
+version = "IPM0JlHd"

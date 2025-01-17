@@ -11,6 +11,11 @@
 				"minecraft": "IGNORED"
 			  }
 		},
+		"jsonpatcher": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			  }
+		},
 		"televator": {
 			"-depends": {
 				"minecraft": "IGNORED",

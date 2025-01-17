@@ -1,13 +1,13 @@
 name = "Cliff under a Tree (CliffTree)"
-filename = "clifftree-1.8.jar"
+filename = "clifftree-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/59ypHk8x/versions/zvUdKGnQ/clifftree-1.8.jar"
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/tKrr4oPS/clifftree-2.0.1.jar"
 hash-format = "sha1"
-hash = "97d8a54bd9b71f53577355f72c09df433eebec0c"
+hash = "119eefe665fd87bf34ff39566eea9b4fd3ec4786"
 
 [update]
 [update.modrinth]
 mod-id = "59ypHk8x"
-version = "zvUdKGnQ"
+version = "tKrr4oPS"
