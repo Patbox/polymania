@@ -1,5 +1,7 @@
 {
   "polyMcSyncModdedEntries": true,
   "item_stack_nbt_hack": true,
-  "override_polymc_mining_check": true
+  "override_polymc_mining_check": true,
+  "force_enable_stonecutter_fix": true,
+  "split_recipe_book_packet_amount": 500
 }

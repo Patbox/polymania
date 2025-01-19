@@ -24,6 +24,11 @@ block "(terrestria:)([a-z_-]*)(_sapling)" {
 	merge stage="*"
 }
 
+block "cinderscapes:ash" {
+	replace (group)"tripwire"
+}
+
+
 block "blockus:paper_lamp" {
 	replace (group)"chorus flower block"
 }

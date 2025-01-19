@@ -1,21 +1,25 @@
 # 0.3.0-alpha.1
 - Updated to 1.21.4
-- Updated ALL mods. Won't put them here as it's just too many.
-- Removed mods:
-  - PolydexBridge
-  - Boat Break Fix
-  - Crash Exploit Fixer
-  - ViaFabric / ViaVersion
-  - Anti Dupe
-  - Motschen's Puddles
-  - Server Ui Fix
-  - Mod Viewer
-  - This Rocks Polymer
-  - Trinkets Polymer Port
-  - CC: Tweaked
-  - Polymer Patch for CC: Tweaked
-  - Better Nether Map
-
+- Updated ALL mods. Won't put them all here as it's just too many.
+- Warning: Old worlds aren't fully compatible yet!
+  - Due to some content mods being removed (at least temporarely) old (0.2.1 and older) worlds won't work.
+  - If you didn't engage with them or don't mind losing them, you should still make sure to backup everything before updating!
+- Removed content mods:
+  - CC: Tweaked - not on 1.21.4
+  - Borukva Food - not on 1.21.4
+  - Motschen's Puddles - not on 1.21.4
+  - Trinkets (Polymer Port) - Trinkets isn't on 1.21.4 yet
+- Removed util mods:
+  - Polymer Patch for CC: Tweaked - requires CC: Tweaked
+  - PolydexBridge - EMI isn't on 1.21.4 yet
+  - Mod Viewer - not on 1.21.4
+- Removed not needed/replaced mods:
+  - Crash Exploit Fixer - Fixed in vanilla
+  - Anti Dupe - Fixed in vanilla
+  - Boat Break Fix - Fixed in vanilla
+  - ViaFabric / ViaVersion - Already on latest
+  - Server Ui Fix - Better fix implemented in Polymer
+  - This Rocks Polymer - Merged into This Rocks!
 
 
 # 0.2.1

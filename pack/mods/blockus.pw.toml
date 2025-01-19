@@ -1,7 +1,7 @@
 name = "blockus"
-filename = "blockus-2.9.1-polymania+1.21.jar"
+filename = "blockus-polymania-2.11.0+1.21.4.jar"
 
 [download]
-url = "https://github.com/PolymaniaForks/Blockus/releases/download/2.9.1-polymania%2B1.21/blockus-2.9.1-polymania+1.21.jar"
+url = "https://github.com/PolymaniaForks/Blockus/releases/download/polymania-2.11.0%2B1.21.4/blockus-polymania-2.11.0+1.21.4.jar"
 hash-format = "sha256"
-hash = "283775089a6015f2f554df232a31dbeb4d547031d19004c27d688526371c8442"
+hash = "d9a40e821b0f92b3d9b0d0620f4c0c31069f4309a8f71b9b4707afef2b6b3c6f"

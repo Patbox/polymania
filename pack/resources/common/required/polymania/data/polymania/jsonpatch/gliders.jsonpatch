@@ -6,4 +6,4 @@
 
 $pattern[2] = "eip";
 
-$key.e = { "item": "polyfactory:wooden_plate" };
+$key.e = "polyfactory:wooden_plate";

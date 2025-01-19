@@ -1,7 +1,7 @@
 name = "gofish"
-filename = "go-fish-1.6.3+1.21.jar"
+filename = "go-fish-1.6.3+1.21.4.jar"
 
 [download]
-url = "https://github.com/PolymaniaForks/go-fish/releases/download/1.6.3%2B1.21/go-fish-1.6.3+1.21.jar"
+url = "https://github.com/PolymaniaForks/go-fish/releases/download/1.6.3.1%2B1.21.4/go-fish-1.6.3+1.21.4.jar"
 hash-format = "sha256"
-hash = "617e39f0fc7606569c6ad19e95690eeb1feeaabd3cd4268dd1dd656406787bf5"
+hash = "69801e9be804177de90f8fa29b84a4aff2df321ef4835015f0cb0341877cffa0"
