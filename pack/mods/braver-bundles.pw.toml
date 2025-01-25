@@ -1,0 +1,13 @@
+name = "Braver Bundles"
+filename = "braverbundles-fabric-1.21.4-1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/piuCfuMa/versions/KOCQvj4r/braverbundles-fabric-1.21.4-1.0.jar"
+hash-format = "sha1"
+hash = "c0993943e9bf9c4fccd129029cb827213e4d38d0"
+
+[update]
+[update.modrinth]
+mod-id = "piuCfuMa"
+version = "KOCQvj4r"

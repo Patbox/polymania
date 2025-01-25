@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "22de9aadc7f717883dd520fc65a5b2d01a18ab54e651bcc0451a85dc0c994b12"
+hash = "cf37fdbec7685981a70fde91c1fd931d5340bcc8afc8ff04a30a94384c1804d9"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -58,7 +58,7 @@ hash = "60f24449189b249c0a53c138885a6271110fcb295e84d60b331a408698ad43ab"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "84587658e11c69f2d193263ec1cf03e596b180c97da5a9975eaf34ea9d0f2c7d"
+hash = "a977c9f27297a22305adc16bb8e3d820ebe91ed6a77c3ab7058faef43a8e8c89"
 
 [[files]]
 file = "config/sleepwarp.json"
@@ -119,12 +119,13 @@ hash = "f62de6e37803c19c9903675bc3938f22943f9612785461f3c7439c2744b5dd2f"
 metafile = true
 
 [[files]]
-file = "mods/blockus-polymania-2.11.0+1.21.4.jar"
-hash = "850b23d1842efb3c7cdef6270051e9f364fcd1670b34d79f02c33e9e68f74fc7"
-
-[[files]]
 file = "mods/blockus.pw.toml"
 hash = "8d65e8734aab44e341f405fef784f018a84e3219dac40b1e4705269efe1cca75"
+metafile = true
+
+[[files]]
+file = "mods/braver-bundles.pw.toml"
+hash = "da2fde2cbb833c8e87dcb485836a3e6b061ed33d76e87021031a315e5262e55a"
 metafile = true
 
 [[files]]
@@ -179,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3df75385043a318f2d5cbf7c2574e3d02364cd9197c0f56d68b3d0bac68c1e4a"
+hash = "6b5accaa1d5094fca206b392a80ecd3a0e4e0390519d4505c2f8ec9650c311cd"
 metafile = true
 
 [[files]]
@@ -234,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "cd1cbfe66a855bdb2cf528f8c391eb562f940332d3e03bcd5eae0e460dac10bb"
+hash = "ba1f90fb84c3d1ab93c85f24bd8097673f2128f1f50d8184abb979643bd414a2"
 metafile = true
 
 [[files]]
@@ -278,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "f922799b62e4efc5543825300f85884a67c40029088aa10bc225fc211c19eb88"
+hash = "b6d5258e19a4657c7f238ae1dde3d429446f6d2682c1640a1b0481cd7f99f17e"
 metafile = true
 
 [[files]]
@@ -288,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ed18a7ff4307d9925c4bb30915dfab6d0df95a448a957b6330e57efe7ceb2b3a"
+hash = "0b9db8fcd7047550f0fe9a517e7a7cdfb69dff849531f46a67a133a91ef210f0"
 metafile = true
 
 [[files]]

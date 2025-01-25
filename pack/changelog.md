@@ -4,6 +4,7 @@
 - Warning: Old worlds aren't fully compatible yet!
   - Due to some content mods being removed (at least temporarely) old (0.2.1 and older) worlds won't work.
   - If you didn't engage with them or don't mind losing them, you should still make sure to backup everything before updating!
+- Added Braver Bundles.
 - Removed content mods:
   - CC: Tweaked - not on 1.21.4
   - Borukva Food - not on 1.21.4
