@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns"
-filename = "dungeons-and-taverns-v4.6.2.jar"
+filename = "dungeons-and-taverns-v4.6.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tpehi7ww/versions/kJdw4GRa/dungeons-and-taverns-v4.6.2.jar"
+url = "https://cdn.modrinth.com/data/tpehi7ww/versions/bjFTHs6U/dungeons-and-taverns-v4.6.3.jar"
 hash-format = "sha1"
-hash = "a45cce6a2281faf6ff9ed2acaa68a542310158bd"
+hash = "6187985279c395fa4566d5eec196da5dfd555587"
 
 [update]
 [update.modrinth]
 mod-id = "tpehi7ww"
-version = "kJdw4GRa"
+version = "bjFTHs6U"

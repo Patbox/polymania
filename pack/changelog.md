@@ -9,7 +9,6 @@
   - CC: Tweaked - not on 1.21.4
   - Borukva Food - not on 1.21.4
   - Motschen's Puddles - not on 1.21.4
-  - Trinkets (Polymer Port) - Trinkets isn't on 1.21.4 yet
 - Removed util mods:
   - Polymer Patch for CC: Tweaked - requires CC: Tweaked
   - PolydexBridge - EMI isn't on 1.21.4 yet

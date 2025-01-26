@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "cf37fdbec7685981a70fde91c1fd931d5340bcc8afc8ff04a30a94384c1804d9"
+hash = "2d0335954a298a8d40e766d3a14185f66022345dc565f773e8abdbd5dcffbeae"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "5a57319070a4a7334f2f2cf583f97f87728e1d1d3ae4f8f1462181496720b377"
+hash = "a941bf6e31220c9aa9d361c6e6aad51f6a00d5a39ab75e083703108d695c5287"
 metafile = true
 
 [[files]]
@@ -216,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
 hash = "060a8d61bfcddeb44bfaa03e023097223c570aa347fd7c753e236f6eef743dff"
-metafile = true
-
-[[files]]
-file = "mods/jsonpatcher.pw.toml"
-hash = "eab2817ae61021fdc12ea8bd6db3ded847f94c0b17912d77a960d4fab890608b"
 metafile = true
 
 [[files]]
@@ -349,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/toms-mobs.pw.toml"
 hash = "e579205a6627f084ca850f9a26fb223032164a1702c0d3101142abf5bd6ae62c"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-polymer.pw.toml"
+hash = "ed261220ddb9f9f0fbd73090b2edf2246ec3e21c9853f38bf15e31a05c0fa5c2"
 metafile = true
 
 [[files]]
@@ -6112,7 +6112,7 @@ hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
 
 [[files]]
 file = "resources/common/required/DarkPaintings.zip"
-hash = "f35e20fdb4348d4d4b2088a7ee26c05b059526477d478c9246a95a8791defdf7"
+hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
 
 [[files]]
 file = "resources/common/required/polymania/data/illagerexp/advancement/adventure/find_mansion.json"
@@ -6300,11 +6300,16 @@ hash = "0255c9650790a450dca8b7436b994d09c99f9589274607b5d92debf1be2d559a"
 
 [[files]]
 file = "resources/common/required/polymania/data/televator/recipe/televator.json"
-hash = "7ef5fded6e8d3d9ae7e0d21560d2669129a8688306a76cdb425f56d3cfdbc496"
+hash = "66f7ca459f5576dad2382979eec67740b2a8736c68deca473010e2ee6d4f5584"
 
 [[files]]
 file = "resources/common/required/polymania/pack.mcmeta"
 hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
+
+[[files]]
+file = "resources/common/required/translations-for-patboxs-mods.pw.toml"
+hash = "1000d4fc4b2c3b232db3da7bcb4cbabc0446905e84feeaa54353bd0ead76bc32"
+metafile = true
 
 [[files]]
 file = "server-icon.png"
