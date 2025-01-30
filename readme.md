@@ -12,7 +12,7 @@ This modpack is contains:
 - A full on factory/automation with machinery powered by rotation and logic cables, provided by [PolyFactory](https://modrinth.com/mod/polyfactory) mod!
 - Many new decorative and building blocks blocks for builders from furniture to new bricks and stones! Provided by [PolyDecorations](https://modrinth.com/mod/polydecorations), [(modified) Blockus](https://modrinth.com/mod/blockus) and others.
 - Programmable computers from [ComputerCraft](https://modrinth.com/mod/cc-tweaked), modified to work server side.
-- New biomes and structures, thanks to mods and datapacks such as [Cliff under a Tree](https://modrinth.com/datapack/clifftree), [(modified) Traverse](https://modrinth.com/mod/traverse), [(modified) Cinderscape](https://modrinth.com/mod/cinderscape) and more.
+- New biomes and structures, thanks to mods and datapacks such as [Cliff under a Tree](https://modrinth.com/datapack/clifftree), [(modified) Traverse](https://modrinth.com/mod/traverse), [(modified) Cinderscapes](https://modrinth.com/mod/cinderscapes) and more.
 - New mobs, friendly and aggresive, by [Tom's Mobs](https://modrinth.com/mod/toms-mobs) and [Illager Expansion Recrafted](https://modrinth.com/mod/illager-expansion-polymer)
 - And more!
 
