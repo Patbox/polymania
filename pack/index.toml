@@ -2,15 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "2d0335954a298a8d40e766d3a14185f66022345dc565f773e8abdbd5dcffbeae"
-
-[[files]]
-file = "config/ViaFabric/viafabric.yml"
-hash = "8d1ac5911aebefd27540145ac47a027fc6ef4611f514e5117103e5b9495d85fd"
-
-[[files]]
-file = "config/ViaFabric/viaversion.yml"
-hash = "05fc216a2c8c0d7aed280fea7ca24971ee5f6dad48b479ed8fbe140d48aa3924"
+hash = "59abf30ee0b4eeb87ef198194c968d2ae5e1d283fd8976b2594256184bc85abc"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -49,14 +41,6 @@ file = "config/polymer/server.json"
 hash = "f94c8e1710f0b036272460bc4a38519bc15d08f22278b6f66110e33b9bb5730c"
 
 [[files]]
-file = "config/puddles.json"
-hash = "28797b2ef561800ba37219392693006aa459d1f3f663ab11477cb0bd5ee0515a"
-
-[[files]]
-file = "config/serveruifix.json"
-hash = "60f24449189b249c0a53c138885a6271110fcb295e84d60b331a408698ad43ab"
-
-[[files]]
 file = "config/simpleupdatechecker_modpack.json"
 hash = "a977c9f27297a22305adc16bb8e3d820ebe91ed6a77c3ab7058faef43a8e8c89"
 
@@ -85,8 +69,8 @@ file = "mods/JsonPatcher-1.1.2+mc.1.21.4.jar"
 hash = "ebfd8e954a9ccb5b9a7e3c1bff0e01c8d159e5b9664268999eb3385df96ed19d"
 
 [[files]]
-file = "mods/PolyMc-5.7.0-rev.d985098+1.21.4.jar"
-hash = "60d97e82f90b40c39e2fb6df4d30d63b5ca02f03ab5b5f994c1c4f47fd63284b"
+file = "mods/PolyMc-5.7.0-rev.c5e2af7+1.21.4.jar"
+hash = "0706c0d6a5d5e3abf8c4321b0e13d6cfc1f45326dfa7abb972fcdf18cce324f7"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -110,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "97c0b33cad7cc11678597a5c3d966b08aa232c9e3824b45222c07a566338596e"
+hash = "2d17d7e7ac4a91eac1cbf77ad4c652a72535c6c308558ca9d66daefc99e3306c"
 metafile = true
 
 [[files]]
@@ -120,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "8d65e8734aab44e341f405fef784f018a84e3219dac40b1e4705269efe1cca75"
+hash = "1116d2ac828e5f2e6dc80200dd6769b089935359777aaa76369d4852370c0451"
 metafile = true
 
 [[files]]
@@ -180,12 +164,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6b5accaa1d5094fca206b392a80ecd3a0e4e0390519d4505c2f8ec9650c311cd"
+hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
 metafile = true
 
 [[files]]
@@ -284,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "0b9db8fcd7047550f0fe9a517e7a7cdfb69dff849531f46a67a133a91ef210f0"
+hash = "9c40b1c96c0b744b5c8d7d6607d5ac9ae671f74722736d0b85de03581d195976"
 metafile = true
 
 [[files]]
@@ -313,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "6d91578e1c43c18113312bd18f6abdca8ad5cdf96d81f599b9b8300683964a50"
+hash = "be10b9eae14cc666dcba897dd22e9472b68ae53d54cfebf6ad4705fe94a5f662"
 metafile = true
 
 [[files]]
@@ -6083,11 +6067,7 @@ file = "polymer/override_assets/assets/polymania/textures/icons/icon.png"
 hash = "e3d4d5fd79a9edc973f09538d880f0d02bbc328d48f617b624f86eccaf7734d4"
 
 [[files]]
-file = "polymer/override_assets/assets/televator/models/item/televator_old.json"
-hash = "9198d507cfeda2764cee63bb147d7dc99dd6c938c671a9e29fed33babfffb099"
-
-[[files]]
-file = "polymer/override_assets/assets/televator/models/televator.json"
+file = "polymer/override_assets/assets/televator/models/block/televator.json"
 hash = "1404ceab130e330e5d84e431d423d46b06e393c934f3ba7581614d1f6e0d41d2"
 
 [[files]]
@@ -6149,10 +6129,6 @@ hash = "df176b7e89bd9b4e30e07634936a57b633167cb4bac47532538abe9b2628dea1"
 [[files]]
 file = "resources/common/required/polymania/data/minecraft/recipe/detector_rail.json"
 hash = "3199fa6a0aab8d837ee3565394ab38cb63eb027d65029b45a5e5a6a3ac7677a3"
-
-[[files]]
-file = "resources/common/required/polymania/data/minecraft/recipe/lodestone.json"
-hash = "3928bdc5195264eac005a8c64ebf8a0d4a6b55558919e355a5f158df2351c37d"
 
 [[files]]
 file = "resources/common/required/polymania/data/minecraft/recipe/powered_rail.json"

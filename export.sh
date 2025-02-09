@@ -25,5 +25,4 @@ do
 	echo "Restored $FILE"
 done
 
-cd ../export
-java -cp ../util/mrpack4server.jar eu.pb4.mrpackserver.Create --project_id polymania --display_name Polymania --version_id $VER
+cd ../
