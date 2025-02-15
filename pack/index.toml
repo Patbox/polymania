@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "59abf30ee0b4eeb87ef198194c968d2ae5e1d283fd8976b2594256184bc85abc"
+hash = "141a88725e085f386033fe13dc347d4131fa91d418135cc412396c67e44d0528"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -39,6 +39,22 @@ hash = "4c57595fc5117f8336cbcc8f1317b9aaa88083483c93dcfaffa1cad351038f30"
 [[files]]
 file = "config/polymer/server.json"
 hash = "f94c8e1710f0b036272460bc4a38519bc15d08f22278b6f66110e33b9bb5730c"
+
+[[files]]
+file = "config/registry_aliases/block.json"
+hash = "5c0edae6a345b357c79bf794f21563095bd6e35e9adfe6f4ad990befbff92fae"
+
+[[files]]
+file = "config/registry_aliases/block_entity_type.json"
+hash = "929eff098e3660fc91882aba1196c89c9894136607fbc2227e54a587da1d8df1"
+
+[[files]]
+file = "config/registry_aliases/item.json"
+hash = "ee5973ddd175bacc62f0e2a7a2e1b6a5244dd6b54739f073a80e95abed8ed609"
+
+[[files]]
+file = "config/simple-server-links/simple-server-links.toml"
+hash = "e20fea4233b75ddc65cfca7e3cc430ab82743ab33ed5114776e1462880b22722"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
@@ -78,6 +94,11 @@ hash = "bfd6fb33cb6fbbeb195f89aabbb46fc6afeb21f5f14b7b136433a762e3deef8b"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
 hash = "882fcc6bc40162aa77b98d6162d17e8944afd04c524cd552c0099bc2d81fbd77"
 metafile = true
@@ -94,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "2d17d7e7ac4a91eac1cbf77ad4c652a72535c6c308558ca9d66daefc99e3306c"
+hash = "0be91296a7527b0e62961b406517462d10d1614c26800cb44b85c4a898da327b"
 metafile = true
 
 [[files]]
@@ -109,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/braver-bundles.pw.toml"
-hash = "da2fde2cbb833c8e87dcb485836a3e6b061ed33d76e87021031a315e5262e55a"
+hash = "ebcb8bcdce1dd2a26eb31254804cbc4b30249ad1535bc17745c82adc012e1e98"
 metafile = true
 
 [[files]]
@@ -164,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0dd9437142e8e24e93dab11f5c4559dd27ded1e1a6a795ce3d87d88402e15505"
+hash = "6c0173209a9dc7741fc3884cfce66fc6149c79c3cb150f8fe9557f05448eda64"
 metafile = true
 
 [[files]]
@@ -184,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "0d536c4710aa520af971af5ee4d043d817c17db9f790f0bab170cca575514f98"
+hash = "cf88fe9c6e649f477c833dc9418d77ee1ef2d3d0a1284b2f11c8cf1aaa2423e2"
 metafile = true
 
 [[files]]
@@ -204,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "21d63630ca8de1a9cfe2e98a86b40e00a529b0eac7ac8a191811fed106cce1ac"
+hash = "25ffcd226828b4ea40bf5a2d1729c6e3b569dea8131f40a7af49b8b05bef4677"
 metafile = true
 
 [[files]]
@@ -272,12 +293,27 @@ hash = "9c40b1c96c0b744b5c8d7d6607d5ac9ae671f74722736d0b85de03581d195976"
 metafile = true
 
 [[files]]
+file = "mods/puddles.pw.toml"
+hash = "b8227e874d364efc3aec746cb5423ef8a85b8a8323cfc9903f9adbb66cabbb3d"
+metafile = true
+
+[[files]]
 file = "mods/resource-locator-api-0.6.2+1.21.4.jar"
 hash = "4f620b591e266e448e892be4a575e473ca585f85ce1951d7bd42a7649281fdce"
 
 [[files]]
+file = "mods/simple-registry-aliases.pw.toml"
+hash = "35ff3ff5786140fea2359d466ea07b391f6ffa3f82d943f7eeba52a1d86c9e38"
+metafile = true
+
+[[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "898ed168073d22ebec4574565edf34d5d38c87e7ae9d43c6ed56bdac5be5d005"
+metafile = true
+
+[[files]]
+file = "mods/simple-server-links.pw.toml"
+hash = "37fac58251d8e2d1ff7fff66c1daa7b0cbcb89de1bb7eb445531227a781e7fc2"
 metafile = true
 
 [[files]]

@@ -1,14 +1,16 @@
-# 0.3.0-alpha.1
+# 0.3.0-beta.1
 - Updated to 1.21.4
 - Updated ALL mods. Won't put them all here as it's just too many.
 - Warning: Old worlds aren't fully compatible yet!
   - Due to some content mods being removed (at least temporarely) old (0.2.1 and older) worlds won't work.
   - If you didn't engage with them or don't mind losing them, you should still make sure to backup everything before updating!
+  - Old, missing items and blocks will be converted into existing blocks, to try preserving buildings somewhat.
 - Added Braver Bundles.
+- Added links to modpack's Modrinth page, bug reporting page and discord (in Server Links).
+  - Provided via Simple Server Links.
 - Removed content mods:
   - CC: Tweaked - not on 1.21.4
   - Borukva Food - not on 1.21.4
-  - Motschen's Puddles - not on 1.21.4
 - Removed util mods:
   - Polymer Patch for CC: Tweaked - requires CC: Tweaked
   - PolydexBridge - EMI isn't on 1.21.4 yet
