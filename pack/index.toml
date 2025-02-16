@@ -14,7 +14,7 @@ hash = "cf5dbca43b04a2c6e74648641921e2564dbd5a7e97532b7f88f955fa72c61bea"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d9ac0d14311db35fdfbcfe1484f6ba8a851623aa1d30460b350664c2d02e95a3"
+hash = "93a29bde7f19bc045088bc22972b051c08fbb6e9ccb216f14e62de13fe6f8ffa"
 
 [[files]]
 file = "config/polyconfig.kdl"
@@ -54,11 +54,11 @@ hash = "ee5973ddd175bacc62f0e2a7a2e1b6a5244dd6b54739f073a80e95abed8ed609"
 
 [[files]]
 file = "config/simple-server-links/simple-server-links.toml"
-hash = "e20fea4233b75ddc65cfca7e3cc430ab82743ab33ed5114776e1462880b22722"
+hash = "89581a00b5de7850a6c45a4e0beff7e6b1e0671e1e8803a26a9c0d3a66b01bff"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "a977c9f27297a22305adc16bb8e3d820ebe91ed6a77c3ab7058faef43a8e8c89"
+hash = "39c5b9da9a7cc749679ccda21d0cc9d44d64bd4712dc64998e6622b3dec50ae4"
 
 [[files]]
 file = "config/sleepwarp.json"
@@ -90,12 +90,12 @@ hash = "0706c0d6a5d5e3abf8c4321b0e13d6cfc1f45326dfa7abb972fcdf18cce324f7"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "bfd6fb33cb6fbbeb195f89aabbb46fc6afeb21f5f14b7b136433a762e3deef8b"
+hash = "dae66971497baa0e5a20c15cdc35e856aac1957f3d7c16dc41caf276facf2cf3"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
+hash = "0986067bbf6ba0a61db69f873dda11ae9b05345d5663ebcd4292fb00ef8c6b04"
 metafile = true
 
 [[files]]
@@ -124,13 +124,18 @@ hash = "f62de6e37803c19c9903675bc3938f22943f9612785461f3c7439c2744b5dd2f"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "3263285306bbd092efc02e3d72a408eb297b1a12872a771862a9d07a378a623b"
+metafile = true
+
+[[files]]
 file = "mods/blockus.pw.toml"
 hash = "1116d2ac828e5f2e6dc80200dd6769b089935359777aaa76369d4852370c0451"
 metafile = true
 
 [[files]]
 file = "mods/braver-bundles.pw.toml"
-hash = "ebcb8bcdce1dd2a26eb31254804cbc4b30249ad1535bc17745c82adc012e1e98"
+hash = "031420bbc1a5a60d7cb179bdbb05306ae4588af7f801ed6d9fa47938f795bc68"
 metafile = true
 
 [[files]]
@@ -185,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c0173209a9dc7741fc3884cfce66fc6149c79c3cb150f8fe9557f05448eda64"
+hash = "1496fc84fca2df380f82777e2599c906a3c0aaecd3720416d8aa8d35efd74c86"
 metafile = true
 
 [[files]]
@@ -240,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "bd19f5881f5d073b0e06bfb7059e8f49228345f722d7b48521e26f82de99b15c"
+hash = "541e6cdf655a1da57d66ddc0df0b7d9f83a5424e0aaabd517e1f5ffcf8f9f013"
 metafile = true
 
 [[files]]
@@ -378,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/vaulted-end.pw.toml"
-hash = "04e1faece645d6d23dd62031b5aff2df2c310db55dda482e9783d9a6637dc864"
+hash = "558ee534d4517a5d6cde1350fb5862f706ed5c4320bf4c5c258834e64b85041f"
 metafile = true
 
 [[files]]
@@ -496,7 +501,7 @@ hash = "dca3688ee051721f9c069773385477aa37d36f853832f50e964476a8c2627894"
 
 [[files]]
 file = "polymer/override_assets/assets/polymania/lang/en_us.json"
-hash = "fa7f16a313679baa165ec17d9c6818fd279c169b28d0c1839033ec314a14f285"
+hash = "42e63c5390f97541d00671ae1b3dea9cdfaaf0e0338eb7009e8e09994975bd19"
 
 [[files]]
 file = "polymer/override_assets/assets/polymania/textures/block/televator_side.png"
@@ -6155,6 +6160,10 @@ file = "resources/common/required/polymania/data/illagerexp/worldgen/structure_s
 hash = "fee1c28effcf75b15339ef7fd68614366dfe18ff5ca4cdb3245450ba784a5672"
 
 [[files]]
+file = "resources/common/required/polymania/data/minecraft/loot_table/blocks/resin_brick_slab.json"
+hash = "33084f1aa6871ec9fb42f26353631f3669a90a32aa9a4c086f716c3dde0740d9"
+
+[[files]]
 file = "resources/common/required/polymania/data/minecraft/recipe/activator_rail.json"
 hash = "663d6ff8d178aa05a07d6086feeaca02bd79281dacb257dcb614201e3f7df9fc"
 
@@ -6175,7 +6184,7 @@ file = "resources/common/required/polymania/data/minecraft/recipe/rail.json"
 hash = "329fe76c1fc3175e3dec39e9dea7e79ba56c3f528024e11a3c9f92222d93af40"
 
 [[files]]
-file = "resources/common/required/polymania/data/minecraft/tags/item/villager_plantable_seeds.json"
+file = "resources/common/required/polymania/data/minecraft/tags/item_old/villager_plantable_seeds.json"
 hash = "b68c220d14b23788aea18f003c8db0258012b9a6c836b5b7377ad07145e1456d"
 
 [[files]]

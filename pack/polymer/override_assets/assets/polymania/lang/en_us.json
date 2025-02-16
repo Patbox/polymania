@@ -1,3 +1,5 @@
 {
-	"block.nox.cobweb": "Spider's Cobweb"
+	"block.nox.cobweb": "Spider's Cobweb",
+	"custom_server_link.website": "Polymania's Modrinth Page",
+	"custom_server_link.discord": "Patbox's (Polymenia) Discord"
 }

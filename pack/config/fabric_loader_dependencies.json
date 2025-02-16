@@ -4,48 +4,53 @@
 		"computercraft": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"forgeconfigapiport": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"jsonpatcher": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"televator": {
 			"-depends": {
 				"minecraft": "IGNORED",
 				"fabricloader": "IGNORED"
-			  }
+			}
 		},
 		"openloader": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"filament": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"bil": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"puzzleslib": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
 		},
 		"leavesbegone": {
 			"-depends": {
 				"minecraft": "IGNORED"
-			  }
+			}
+		},
+		"braverbundles": {
+			"-depends": {
+				"architectury": "IGNORED"
+			}
 		}
 	}
-  }
+}
