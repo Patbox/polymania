@@ -1,13 +1,13 @@
 name = "Nightosphere"
-filename = "nightosphere-1.3.jar"
+filename = "nightosphere-2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tdv7lfX5/versions/SnAXqhr6/nightosphere-1.3.jar"
+url = "https://cdn.modrinth.com/data/tdv7lfX5/versions/dPGXHu6O/nightosphere-2.0.jar"
 hash-format = "sha1"
-hash = "3dfde8ae3f719ed44b3c6a27717f6359f62966d9"
+hash = "779cbba6e2e52dcb0bc2d008a7f94486157913aa"
 
 [update]
 [update.modrinth]
 mod-id = "tdv7lfX5"
-version = "SnAXqhr6"
+version = "dPGXHu6O"

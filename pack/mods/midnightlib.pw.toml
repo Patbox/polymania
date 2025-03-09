@@ -1,13 +1,13 @@
 name = "MidnightLib"
-filename = "midnightlib-1.6.8-fabric+1.21.4.jar"
+filename = "midnightlib-1.6.9-fabric+1.21.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/codAaoxh/versions/EqPCzrCa/midnightlib-1.6.8-fabric%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/R3G85eBr/midnightlib-1.6.9-fabric%2B1.21.4.jar"
 hash-format = "sha1"
-hash = "64a2e79e6c18f40bf059d6eb4d8cc49be34c9d13"
+hash = "0539ca2e734f18041ac63b9ae6ad24a046766998"
 
 [update]
 [update.modrinth]
 mod-id = "codAaoxh"
-version = "EqPCzrCa"
+version = "R3G85eBr"

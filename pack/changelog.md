@@ -1,3 +1,20 @@
+# 0.3.0-beta.2
+- Updated PolyFactory (0.6.1+1.21.4 -> 0.6.2+1.21.4)
+- Updated Patbox's Brewery (0.10.2+1.21.4 -> 0.10.3+1.21.4)
+- Updated Toms Mobs (2.1.4+1.21.4 -> 2.1.5+1.21.4)
+- Updated Braver Bundles (1.21.4-1.0.3 -> 1.21.4-1.0.4)
+- Updated Nightosphere (1.3 -> 2.0)
+- Updated Glide Away! (1.4.0+1.21.4-rc3 -> 1.4.1+1.21.4)
+- Updated Polydex (1.4.1+1.21.4 -> 1.4.2+1.21.4)
+- Updated FSit (2.7.5-beta.1+mc1.21.2 -> 2.7.5+mc1.21.2)
+- Updated Polymer (0.11.6+1.21.4 -> 0.11.8+1.21.4)
+- Updated Lithium (0.14.7+mc1.21.4 -> 0.14.8+mc1.21.4)
+- Updated MidnightLib (1.6.8-fabric+1.21.4 -> 1.6.9-fabric+1.21.4)
+- Updated Balm (1.21.4-21.4.12 -> 1.21.4-21.4.17)
+- Updated Architectury API (15.0.2-fabric -> 15.0.3-fabric)
+- Updated Fabric API (0.117.0+1.21.4 -> 0.118.5+1.21.4)
+
+
 # 0.3.0-beta.1
 - Updated to 1.21.4
 - Updated ALL mods. Won't put them all here as it's just too many.
