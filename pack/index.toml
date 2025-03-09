@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3a6d8f229fc7f1743ce583db236fdcfb3cb1a73b2b44a7a8f82360b98ac73723"
+hash = "5232d457fbcbdd01a210b1ce72b652fbddf1fa8664a847b6d051537fe09f06d6"
 metafile = true
 
 [[files]]
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/glide-away.pw.toml"
-hash = "981320b511e1ec086a64f4c916cb389461bbbffe4584bd0c0940a1204288f944"
+hash = "e9b4849ea67725415e1a61dff5b92902a9246cd5982a46e31b10b2cd33eede4a"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/polydex.pw.toml"
-hash = "b6d5258e19a4657c7f238ae1dde3d429446f6d2682c1640a1b0481cd7f99f17e"
+hash = "af176d7958c4825dc0cb31032dcf87f32a1c4c458372c95343136da27391104a"
 metafile = true
 
 [[files]]
