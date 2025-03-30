@@ -1,9 +1,14 @@
 # 0.3.0-beta.2
+- Added ViaVersion and ViaFabric:
+  - Servers running this modpack should now be joinable from 1.21.5.
+  - While things should generally work, it's possible there might be some bugs.
+  - Once enough mods update to 1.21.5, Polymania will move fully to it.
 - Added Blahaj Polymerized: https://modrinth.com/mod/blahaj-polymerized
+- Added More Tools: https://modrinth.com/mod/more-tools
 - Updated PolyFactory (0.6.1+1.21.4 -> 0.6.3+1.21.4): https://modrinth.com/mod/polyfactory/version/0.6.2+1.21.4, https://modrinth.com/mod/polyfactory/version/0.6.3+1.21.4
 - Updated Patbox's Brewery (0.10.2+1.21.4 -> 0.10.3+1.21.4): https://modrinth.com/mod/brewery/version/0.10.3+1.21.4
 - Updated Nightosphere (1.3 -> 2.0): https://modrinth.com/datapack/nightosphere/version/2.0
-- Updated Cliff under a Tree (2.0.1 -> 2.0.2): https://modrinth.com/datapack/clifftree/version/2.0.2
+- Updated Cliff under a Tree (2.0.1 -> 2.0.3): https://modrinth.com/datapack/clifftree/version/2.0.2
 - Updated Polydex (1.4.1+1.21.4 -> 1.4.2+1.21.4): https://modrinth.com/mod/polydex/version/1.4.2+1.21.4
 - Updated Glide Away! (1.4.0+1.21.4-rc3 -> 1.4.1+1.21.4): https://modrinth.com/mod/glide-away/version/1.4.1+1.21.4
 - Updated Toms Mobs (2.1.4+1.21.4 -> 2.2.0+1.21.4): https://modrinth.com/mod/toms-mobs/version/2.2.0+1.21.4

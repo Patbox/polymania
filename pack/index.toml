@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "871652d4cb5fba4c51b4dd86d1254286f24d448851658484105cede2da6cac68"
+hash = "996d5e497e1a21f2375e3b73d22efd1f62520e89e847a53ea5e67493a802c8d0"
+
+[[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "328b171f927cb36977d32d1ac13d10862b500da831ccb5bfcfc92e480c0ad6a4"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "2119b4aa045924d2648de54b6153a7e03df7c173027b5876b8dee6d735fa1f44"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -58,7 +66,7 @@ hash = "89581a00b5de7850a6c45a4e0beff7e6b1e0671e1e8803a26a9c0d3a66b01bff"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "a977c9f27297a22305adc16bb8e3d820ebe91ed6a77c3ab7058faef43a8e8c89"
+hash = "a369ef58af549356bac1c4bbe61ca81dd964a90a8322bf68d59f7afc7bdb710d"
 
 [[files]]
 file = "config/sleepwarp.json"
@@ -155,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "a18c737939e34a3f400dadca6a742fd91d92f09f7ed82057089c0d120daefadf"
+hash = "eb3e268455a6efe91e492d975ef3f3032e458d5ad29c65fe5a5e7445baff5463"
 metafile = true
 
 [[files]]
@@ -389,6 +397,16 @@ metafile = true
 [[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "558ee534d4517a5d6cde1350fb5862f706ed5c4320bf4c5c258834e64b85041f"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "b65fc33c2f95639838a71593c624b4b4e6a014cb89936c34ec3beb3fc8ba9137"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "7ea149a862ac2c1a1702effdb41392eeb8e67655f60f3bec768e5bf3bfac08b4"
 metafile = true
 
 [[files]]
