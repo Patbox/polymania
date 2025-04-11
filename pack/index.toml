@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "e62b4903f26dd807d67e01475c7ab3658df76eacc6dee68318765e7c57268330"
+hash = "299f3d1ca7f2f3621e061e762f693e957d2cd0764a75804b33d88360cc9d1b69"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -93,8 +93,8 @@ file = "mods/JsonPatcher-1.1.2+mc.1.21.4.jar"
 hash = "ebfd8e954a9ccb5b9a7e3c1bff0e01c8d159e5b9664268999eb3385df96ed19d"
 
 [[files]]
-file = "mods/PolyMc-5.7.0-rev.c5e2af7+1.21.4.jar"
-hash = "0706c0d6a5d5e3abf8c4321b0e13d6cfc1f45326dfa7abb972fcdf18cce324f7"
+file = "mods/PolyMc-5.7.0-rev.85a5d36-dirty+1.21.5.jar"
+hash = "96a5b8c837133a4f681548ca9445925cbba57650f1e8c7fcc41c399e4ca44f59"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -137,13 +137,8 @@ hash = "c1c13e25de409fb6f5ba7c6336e6d4ff597a509ea2917bddd280b00f337f1afc"
 metafile = true
 
 [[files]]
-file = "mods/blahaj-polymerized.pw.toml"
-hash = "b746c16cbdeee33eb63053c559ff9d5a479c9368abbeecad9799259e52008799"
-metafile = true
-
-[[files]]
 file = "mods/blockus.pw.toml"
-hash = "1116d2ac828e5f2e6dc80200dd6769b089935359777aaa76369d4852370c0451"
+hash = "aecff5a12b8dffebc12d8543973b1faa591da9b0973872aa54d9d9f6de4421a0"
 metafile = true
 
 [[files]]
@@ -158,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "7a7b9152ccb068ce113db5ad709c6aef14153937ed678f382114857d84b0037c"
+hash = "a55cc8c552b0d7cf7e50cdf1cc93c7038f80254dd20f2f066b0823016b9327ed"
 metafile = true
 
 [[files]]
@@ -262,11 +257,6 @@ hash = "b87fc28cb867db09e0de4184e079a0f69fd5e4b49348feec681182bc8952c059"
 metafile = true
 
 [[files]]
-file = "mods/necronomicon.pw.toml"
-hash = "fbd3c6d3edc0c3c31580676f3b2a8e47648585263b72c21a01a099e33b67d965"
-metafile = true
-
-[[files]]
 file = "mods/nightosphere.pw.toml"
 hash = "6b676db800678b674f63765ed57105823d20cea4c360df7a3a88113ef5c6dac4"
 metafile = true
@@ -304,6 +294,10 @@ metafile = true
 file = "mods/polyfactory.pw.toml"
 hash = "a1a9182048e4f4e9da0c9a5cd7e281ca627c7789856ae39b1bc9d3cefc8d6962"
 metafile = true
+
+[[files]]
+file = "mods/polymer-bundled-0.12.3-dev1+1.21.5.jar"
+hash = "821a51461183f564d92a0d8ad4b173d6dca01e4c5a3028df239da3067d3d67d1"
 
 [[files]]
 file = "mods/polymer.pw.toml"
@@ -360,18 +354,13 @@ hash = "cf13e24a280a041465aa2d9f40fbe8a2256534e458f353f60429d88453769d3a"
 metafile = true
 
 [[files]]
-file = "mods/televator.pw.toml"
-hash = "ad33216f702d3d1241853e72d53a6b13b96c6046cabbee203b12a3609a7e9b6a"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "7ffecfbce156daaea7ff31d0d8dcbb030cb5522fe4c7c72b64f46eeed468e7b2"
 metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "b00f99a93d017fe908012da6e4ab5c84969ed4a79a382461b3b0a4654fa9c432"
+hash = "f07a47223c3ae7e3f196b2f5ca858e13d434842c3c17364bc8fc624aa85cf828"
 metafile = true
 
 [[files]]
@@ -386,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-polymer.pw.toml"
-hash = "ed261220ddb9f9f0fbd73090b2edf2246ec3e21c9853f38bf15e31a05c0fa5c2"
+hash = "a2b9e9a24460bf8b4f6bf005fb404f70873af1e28b3ae5c8673696d2c7dc1dc8"
 metafile = true
 
 [[files]]
@@ -401,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/woodsandmires.pw.toml"
-hash = "57617b35ac329f5e659f5032d157d66f08426852ad947e2b3956837445f70ca5"
+hash = "3dc9d85ac76838c316c9b0f324d69627a64c81831b81cab32f28c8e5f7a6e915"
 metafile = true
 
 [[files]]
@@ -6330,7 +6319,7 @@ hash = "8e2bbec2fbe72cdf30bb4380c4e01bfc0b42476bfa5412c30bf360ee75641275"
 
 [[files]]
 file = "resources/common/required/translations-for-patboxs-mods.pw.toml"
-hash = "1000d4fc4b2c3b232db3da7bcb4cbabc0446905e84feeaa54353bd0ead76bc32"
+hash = "d6c84505b329e5f515b2475097fffe7579b9d9d1767a4bc65f07df67839ef779"
 metafile = true
 
 [[files]]

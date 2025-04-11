@@ -1,8 +1,11 @@
 # 0.3.0-beta.3
 - Updated to 1.21.5
+- TEMP: Removed Blahaj Polymerized
+- TEMP: Removed Televator
 - Moved from PolymaniaFork updated Go Fish! to Gone Fishing! (Functionally the same, aside it being polymer mod).
 - Removed ViaFabric and ViaVersion:
   - No longer needed.
+- Removed Necronomicon API (it wasn't used anyway)
   
 
 # 0.3.0-beta.2

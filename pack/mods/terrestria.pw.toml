@@ -1,7 +1,7 @@
 name = "terrestria"
-filename = "terrestria-v7.2.0-beta.1.1+1.21.4+another_1.20.302a008b.jar"
+filename = "terrestria-v7.2.0-beta.1.2+1.21.5+another_1.20.bd3724e9.jar"
 
 [download]
-url = "https://github.com/PolymaniaForks/Terrestria/releases/download/v7.2.0-beta.1.2%2B1.21.4/terrestria-v7.2.0-beta.1.1+1.21.4+another_1.20.302a008b.jar"
+url = "https://github.com/PolymaniaForks/Terrestria/releases/download/terrestria-v7.2.0-beta.1.2%2B1.21.5/terrestria-v7.2.0-beta.1.2+1.21.5+another_1.20.bd3724e9.jar"
 hash-format = "sha256"
-hash = "a4cd9c9f09707cb205db4d04a637956c0f579cb0d8db6253a8e3152fa2670e4c"
+hash = "79e3fd15329e0b42606c66c3ac4d60c284e4c5c47ce1de7778b3cc72d47a905d"

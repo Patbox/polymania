@@ -1,7 +1,7 @@
 name = "cinderscapes"
-filename = "cinderscapes-v5.2.0-beta.1+1.20.3.4348714.jar"
+filename = "cinderscapes-cinderscapes-v5.2.0-beta.1.0+1.21.5+1.20.3.704b7c1.jar"
 
 [download]
-url = "https://github.com/PolymaniaForks/Cinderscapes/releases/download/cinderscapes-v5.2.0-beta.1.0%2B1.21.4/cinderscapes-v5.2.0-beta.1+1.20.3.4348714.jar"
+url = "https://github.com/PolymaniaForks/Cinderscapes/releases/download/cinderscapes-v5.2.0-beta.1.0%2B1.21.5/cinderscapes-cinderscapes-v5.2.0-beta.1.0+1.21.5+1.20.3.704b7c1.jar"
 hash-format = "sha256"
-hash = "8ac5e7ae92ff7c07fc47039e01c48f854d0bb9069e604be15d161e445f616eaf"
+hash = "ba09793118728b86dbea2f1e8cc65196ebf21e5f676f334cab2dddc8c8a34667"

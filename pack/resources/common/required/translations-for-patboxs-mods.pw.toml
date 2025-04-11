@@ -1,13 +1,13 @@
 name = "Translations for Patbox's Mods"
-filename = "patboxtranslations.zip"
+filename = "patbox-translations-2025-04-10.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/D86nIC6m/versions/ZOmV6p3J/patbox-translations-2025-01-25.zip"
-hash-format = "sha1"
-hash = "f9daac846510eccfdbbdfa5aeda5e936b79f76ee"
+url = "https://cdn.modrinth.com/data/D86nIC6m/versions/2gT0yieV/patbox-translations-2025-04-10.zip"
+hash-format = "sha512"
+hash = "8f4a65f1ae733239a792a391a845609f5123397847aab7a215cb9eb6102bed5b68f9cc550492daf623322c975171ee698354cde4b729e407de44c269bda107e5"
 
 [update]
 [update.modrinth]
 mod-id = "D86nIC6m"
-version = "ZOmV6p3J"
+version = "2gT0yieV"
