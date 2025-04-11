@@ -1,13 +1,13 @@
 name = "Illager Expansion Recrafted"
-filename = "illager_expansion-1.5.0+1.21.4.jar"
+filename = "illager_expansion-1.6.0+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zkp424MG/versions/QEfKdKOW/illager_expansion-1.5.0%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/zkp424MG/versions/qHGZO9GF/illager_expansion-1.6.0%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "dc2520e44565cebd523a82dcce09c51b4e10d476"
+hash = "67f510d42aad3359488df2a9b078af9b541bd86c"
 
 [update]
 [update.modrinth]
 mod-id = "zkp424MG"
-version = "QEfKdKOW"
+version = "qHGZO9GF"

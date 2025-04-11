@@ -1,13 +1,13 @@
 name = "Braver Bundles"
-filename = "braverbundles-fabric-1.21.4-1.0.5.jar"
+filename = "braverbundles-fabric-1.21.5-1.0.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/piuCfuMa/versions/Saws5hV9/braverbundles-fabric-1.21.4-1.0.5.jar"
+url = "https://cdn.modrinth.com/data/piuCfuMa/versions/preXprUQ/braverbundles-fabric-1.21.5-1.0.5.jar"
 hash-format = "sha1"
-hash = "f0abe7dfd7021853b8ab2244475b499ea3053c8d"
+hash = "5ed0ebcdf1b1058e3001dd292ce3e9cd1b01d251"
 
 [update]
 [update.modrinth]
 mod-id = "piuCfuMa"
-version = "Saws5hV9"
+version = "preXprUQ"

@@ -1,13 +1,13 @@
 name = "Baby Fat - Polymerized"
-filename = "babyfat-polymerized-1.0.1+1.21.4.jar"
+filename = "babyfat-polymerized-1.0.1+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hYvpHPA7/versions/NtUVVRlI/babyfat-polymerized-1.0.1%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/hYvpHPA7/versions/Ku28ndfp/babyfat-polymerized-1.0.1%2B1.21.5.jar"
 hash-format = "sha1"
-hash = "beca3f02af3988d18a67ac9e80cc8df160a2992b"
+hash = "ecc20e6e1f1aea0a437f3b48eaf6615c4a89ffb2"
 
 [update]
 [update.modrinth]
 mod-id = "hYvpHPA7"
-version = "NtUVVRlI"
+version = "Ku28ndfp"

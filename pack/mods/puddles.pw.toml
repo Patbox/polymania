@@ -1,13 +1,13 @@
 name = "Motschen's Puddles"
-filename = "puddles-2.0.1.jar"
+filename = "puddles-2.0.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/535D1YoA/versions/N8qCDpnt/puddles-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/535D1YoA/versions/ZTqPgagv/puddles-2.0.2.jar"
 hash-format = "sha1"
-hash = "851aee721562b33914fda5e6ba4ef484a4b23d7a"
+hash = "36bfdb1c423091f50b893a1f1dcbdb9ccef72755"
 
 [update]
 [update.modrinth]
 mod-id = "535D1YoA"
-version = "N8qCDpnt"
+version = "ZTqPgagv"

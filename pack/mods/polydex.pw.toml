@@ -1,13 +1,13 @@
 name = "Polydex"
-filename = "polydex-1.4.2+1.21.4.jar"
+filename = "polydex-1.5.0+1.21.5-rc2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/m5NB7FJE/versions/9oF972RT/polydex-1.4.2%2B1.21.4.jar"
+url = "https://cdn.modrinth.com/data/m5NB7FJE/versions/DraVXSn1/polydex-1.5.0%2B1.21.5-rc2.jar"
 hash-format = "sha1"
-hash = "4abac1aec14b52229a913cef633dd5c9334a426b"
+hash = "97dbf0b72de110db708f1e218dd90b7e66f96d65"
 
 [update]
 [update.modrinth]
 mod-id = "m5NB7FJE"
-version = "9oF972RT"
+version = "DraVXSn1"

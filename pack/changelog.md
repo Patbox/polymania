@@ -1,3 +1,10 @@
+# 0.3.0-beta.3
+- Updated to 1.21.5
+- Moved from PolymaniaFork updated Go Fish! to Gone Fishing! (Functionally the same, aside it being polymer mod).
+- Removed ViaFabric and ViaVersion:
+  - No longer needed.
+  
+
 # 0.3.0-beta.2
 - Added ViaVersion and ViaFabric:
   - Servers running this modpack should now be joinable from 1.21.5.
