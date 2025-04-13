@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "299f3d1ca7f2f3621e061e762f693e957d2cd0764a75804b33d88360cc9d1b69"
+hash = "a9aa759d6759be5ac80a930d38b9c12bf128d9461d2106e44a9dc629874fb90e"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "a55cc8c552b0d7cf7e50cdf1cc93c7038f80254dd20f2f066b0823016b9327ed"
+hash = "4dc1a7da673156bebd16b3b0a37b1520fb76096bb401ede9ab6da440c0b26142"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "78411f2227f06fc916f8f725638f4e7a3e3a277c8e3b893bccc03c003f605c5c"
+hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ hash = "821a51461183f564d92a0d8ad4b173d6dca01e4c5a3028df239da3067d3d67d1"
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "b82f8aefe9b7c998f407880f7bc1f0aa54834068d241251f23ff9d7d3e936bd4"
+hash = "0d8284d8437a747a5098ab708a1c9bd43b8dfdd644afd77d8d8811e36d23cba6"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.pw.toml"
-hash = "f07a47223c3ae7e3f196b2f5ca858e13d434842c3c17364bc8fc624aa85cf828"
+hash = "c62807c682426150ea995c78b56a0a9b974544ed58d7a5f1ae295901c8003382"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "6566dde19242a7dcceb7f50556e7a1b397c4c6bedc221c3c1f57ffe6d682ab81"
+hash = "c81e71ef20b2c52ef334614c0b21a91e02d8c5e2c451778b4e861e7a03643f43"
 metafile = true
 
 [[files]]
@@ -398,8 +398,20 @@ file = "polymer/extra/Unsanded-1.1.1-custom.zip"
 hash = "32dbda3c997827e279276e5b8dc3a00e7936135f4fafb97f6ab515a7b6712178"
 
 [[files]]
+file = "polymer/override_assets/assets/blockus/items/rainbow_petal.json"
+hash = "734b630594c985ee847092d77c975463342a3e6fd7219677f2b3d962813dbf83"
+
+[[files]]
 file = "polymer/override_assets/assets/blockus/models/block/white_oak_leaves.json"
 hash = "fe0bff3198ede8707ed1a85f5f1a4db10e9086033ab333c939d9015d42ad511f"
+
+[[files]]
+file = "polymer/override_assets/assets/blockus/models/item/rainbow_petal.json"
+hash = "f6e36531ef12619e5fa9be229b9ca4e69858c445009f6ebb983288b49499fdf5"
+
+[[files]]
+file = "polymer/override_assets/assets/cinderscapes/items/ash.json"
+hash = "3fe8d98528137d154a0831a62f7b9af9219da0c183503993aa92dc56f475f2b0"
 
 [[files]]
 file = "polymer/override_assets/assets/cinderscapes/models/block/ash_height2.json"
