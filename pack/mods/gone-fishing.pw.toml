@@ -1,0 +1,13 @@
+name = "Gone Fishing!"
+filename = "go-fish-1.7.2+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EAw8Gldo/versions/CEr25sSE/go-fish-1.7.2%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "e425316b2573360b55a011605c82006ab5bec952125d81551da184395b7dd4cbe4f24616de4ea1017e57f7241e2634d9b020ee9aab6376c1feb46b496ca7468d"
+
+[update]
+[update.modrinth]
+mod-id = "EAw8Gldo"
+version = "CEr25sSE"

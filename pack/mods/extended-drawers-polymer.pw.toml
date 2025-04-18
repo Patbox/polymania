@@ -1,6 +1,6 @@
 name = "Polymer Patch for Extended Drawers"
 filename = "extended-drawers-polymer-patch-4.1.0.0+1.21.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TIgnE8wT/versions/tghNEodE/extended-drawers-polymer-patch-4.1.0.0%2B1.21.5.jar"

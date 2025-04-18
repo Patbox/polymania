@@ -1,6 +1,6 @@
 name = "Simple Server Links"
 filename = "simple-server-links-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/U9MXG9UI/versions/LdRUojjV/simple-server-links-2.0.0.jar"

@@ -1,6 +1,6 @@
 name = "Braver Bundles"
 filename = "braverbundles-fabric-1.21.5-1.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/piuCfuMa/versions/preXprUQ/braverbundles-fabric-1.21.5-1.0.5.jar"

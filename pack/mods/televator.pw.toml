@@ -1,0 +1,13 @@
+name = "Televator"
+filename = "televator-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9kdDMOvM/versions/Nck9ihns/televator-1.2.4.jar"
+hash-format = "sha512"
+hash = "85095585efbf2401fa24f9349e37dc7e428a107567c9f572bb31e2235fe23880d03920bd2ce04dca15215a59278cf158d1c33d5828146402089d4cf772e799ab"
+
+[update]
+[update.modrinth]
+mod-id = "9kdDMOvM"
+version = "Nck9ihns"

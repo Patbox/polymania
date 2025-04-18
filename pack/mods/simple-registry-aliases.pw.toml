@@ -1,6 +1,6 @@
 name = "Simple Registry Aliases"
 filename = "simple-registry-aliases-1.0.0+1.21.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nILYwKV9/versions/b15unlVp/simple-registry-aliases-1.0.0%2B1.21.4.jar"

@@ -11,7 +11,6 @@ It's ideal for server you want to play on with your friends, as the only thing n
 This modpack is contains:
 - A full on factory/automation with machinery powered by rotation and logic cables, provided by [PolyFactory](https://modrinth.com/mod/polyfactory) mod!
 - Many new decorative and building blocks blocks for builders from furniture to new bricks and stones! Provided by [PolyDecorations](https://modrinth.com/mod/polydecorations), [(modified) Blockus](https://modrinth.com/mod/blockus) and others.
-- (0.2.x) Programmable computers from [ComputerCraft](https://modrinth.com/mod/cc-tweaked), modified to work server side.
 - New biomes and structures, thanks to mods and datapacks such as [Cliff under a Tree](https://modrinth.com/datapack/clifftree), [(modified) Traverse](https://modrinth.com/mod/traverse), [(modified) Cinderscape](https://modrinth.com/mod/cinderscape) and more.
 - New mobs, friendly and aggresive, by [Tom's Mobs](https://modrinth.com/mod/toms-mobs) and [Illager Expansion Recrafted](https://modrinth.com/mod/illager-expansion-polymer)
 - And more!
@@ -37,7 +36,8 @@ Yes! You can use `/polydex` command to show all available item recipes. Block/En
 handled by the Polydex. [You can read more about it here!](https://modded.wiki/w/Mod:Polydex)
 
 ### Can I run this modpack on the client/singleplayer?
-Officially no, as some mods won't work correctly! As some mods got modified run better with PolyMc, the core mod allowing them to run server side, some of the required client side code was removed, which can make them unstable if not fully broken when ran in singleplayer. You need to run it on a server to make it work fully.
+It might work, but it's not as tested as running this pack on a server. At least for versions 0.3.0-beta.3 and newer it should work.
+Older versions will be missing mods, if not crash outright. Try for yourself.
 
 ### Can I use Geyser with this?
 Currently? Sadly not. Due to many differences between how java and bedrock handle many technical / datapack / resourcepack features, this modpack won't work correctly with Geyser users. So even if they managed to join, they likely won't see textures and models correctly, while also not being able to use some items and blocks at all.

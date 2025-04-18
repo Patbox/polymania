@@ -1,7 +1,8 @@
 # 0.3.0-beta.3
 - Updated to 1.21.5
-- TEMP: Removed Blahaj Polymerized
-- TEMP: Removed Televator
+- Fixed some issues causing this pack to outright crash in singleplayer / client.
+  - While main focus will always be running things server side, I decided some basic singleplayer support would be nice.
+  - Naturally, it might have some extra issues that didn't happen on purely server based install!
 - Moved from PolymaniaFork updated Go Fish! to Gone Fishing! (Functionally the same, aside it being polymer mod).
 - Removed ViaFabric and ViaVersion:
   - No longer needed.

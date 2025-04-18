@@ -1,6 +1,6 @@
 name = "Trinkets (Polymer Port)"
 filename = "trinkets-3.11.0-beta.1+polymerport.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/G8hlgtEk/versions/85PakGw6/trinkets-3.11.0-beta.1%2Bpolymerport.1.jar"

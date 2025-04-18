@@ -1,6 +1,6 @@
 name = "Motschen's Puddles"
 filename = "puddles-2.0.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/535D1YoA/versions/ZTqPgagv/puddles-2.0.2.jar"
