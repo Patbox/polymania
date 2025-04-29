@@ -1,13 +1,13 @@
 name = "Banner Text"
-filename = "banner-text-1.3.2.jar"
+filename = "banner-text-1.3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zg8QRuv4/versions/kIbFnFcs/banner-text-1.3.2.jar"
+url = "https://cdn.modrinth.com/data/zg8QRuv4/versions/KRpMsvVs/banner-text-1.3.3.jar"
 hash-format = "sha1"
-hash = "85687d2d6655e4b0b41c54b1a0977807cb3e7fd1"
+hash = "151e057376fff76e2989b10a29c9326242e43f64"
 
 [update]
 [update.modrinth]
 mod-id = "zg8QRuv4"
-version = "kIbFnFcs"
+version = "KRpMsvVs"

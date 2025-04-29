@@ -18,12 +18,6 @@ $effects += {
       },
 	  weight: 1
     }],
-    "particle": {
-      "options": {
-        "type": "minecraft:snowflake"
-      },
-      "probability": 0.0006
-    },
     "grass_color": 7911573,
     "sky_color": 10009068,
     "water_color": 8303069,

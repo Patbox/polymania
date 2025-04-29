@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "4aeae1d8d874b949b245d1d23b44b10cb90eaa842ccfef273d6967cf502a2881"
+hash = "27a3c2d59c54999afa45707d675a4e7b488f2a4703f5ed1d8a54e45f92c6b728"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -50,15 +50,15 @@ hash = "f94c8e1710f0b036272460bc4a38519bc15d08f22278b6f66110e33b9bb5730c"
 
 [[files]]
 file = "config/registry_aliases/block.json"
-hash = "5c0edae6a345b357c79bf794f21563095bd6e35e9adfe6f4ad990befbff92fae"
+hash = "f6810713604f4a233338e9c639acc295d15dd8da98bc2cf369386e41139cfc86"
 
 [[files]]
 file = "config/registry_aliases/block_entity_type.json"
-hash = "929eff098e3660fc91882aba1196c89c9894136607fbc2227e54a587da1d8df1"
+hash = "fede25ed92da6f4f37d9e6477dcd6085e12a0eeb1ff3e1dfb3afc1b73d75b2ab"
 
 [[files]]
 file = "config/registry_aliases/item.json"
-hash = "d46db2366b700bab446f2e94b96f430d47c1d755ee36d1bce1315a4b817fa098"
+hash = "d038c0fd29a4dfb9737776c89822e5446a9d8cc141c14b5310b648210c4e7af2"
 
 [[files]]
 file = "config/rocks.json"
@@ -70,7 +70,7 @@ hash = "89581a00b5de7850a6c45a4e0beff7e6b1e0671e1e8803a26a9c0d3a66b01bff"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "69f9dd2dce4f5cfdf99f78f280833398a154b4a62d2bf58a48a58af7640a3b74"
+hash = "a977c9f27297a22305adc16bb8e3d820ebe91ed6a77c3ab7058faef43a8e8c89"
 
 [[files]]
 file = "config/sleepwarp.json"
@@ -97,8 +97,8 @@ file = "mods/JsonPatcher-1.1.2+mc.1.21.4.jar"
 hash = "ebfd8e954a9ccb5b9a7e3c1bff0e01c8d159e5b9664268999eb3385df96ed19d"
 
 [[files]]
-file = "mods/PolyMc-5.7.0-rev.6912e04-dirty+1.21.5.jar"
-hash = "30679e25279e82cbaf12e0d2be34b0d6b0beb7c34661005a83717bfd964fd235"
+file = "mods/PolyMc-5.7.0-rev.94a1f65+1.21.5.jar"
+hash = "09f5cdfe8bb45826bfc71449b402fa17f607bd62a7ef7780f5fdc28888dded7d"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -122,22 +122,27 @@ metafile = true
 
 [[files]]
 file = "mods/baby-fat-polymer.pw.toml"
-hash = "d8af457cd584afacdc2790fe8bf7a54857e47c7477d7acfa9d43d5cb6bad4ba7"
+hash = "8a3d46fe923f6ba5910d853afdb074588db0f2edf70e1fba09fb82512ea54d54"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "17401aef8bc238b849742797fe200a7adaceff18d6944fea24809b4f35743d0a"
+hash = "1720d34dde829929ae328c037cd256be6e20548171ecf777572ebb1b37857978"
 metafile = true
 
 [[files]]
 file = "mods/banner-text.pw.toml"
-hash = "f62de6e37803c19c9903675bc3938f22943f9612785461f3c7439c2744b5dd2f"
+hash = "aaaeea5e1d83da59678f23cfe6927ab674edbe8f5a5326b9a5e62a7678b505e5"
 metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "3859ea1cb7245a8ccb081f0fdd49117e69cd89798175ccffd186b48218a677b1"
+metafile = true
+
+[[files]]
+file = "mods/biome-tag-villagers.pw.toml"
+hash = "75d1252fa6b751eaae1e0071681d71a3aa9692ebef50cabd672fa1104d7f0389"
 metafile = true
 
 [[files]]
@@ -206,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
+hash = "883b3310f0cc4c3915957eda03ccf516b042f916c1494960ee849d2c9e91908b"
 metafile = true
 
 [[files]]
@@ -251,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "3e03713b6640294800b96190a0c350d7de2d5789f45b46c919c46ad27bd5fdcb"
+hash = "d23679ba2a238c3d36458a2ac3d9894320a37190961a3e651c7099dd1200b439"
 metafile = true
 
 [[files]]
@@ -261,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "b87fc28cb867db09e0de4184e079a0f69fd5e4b49348feec681182bc8952c059"
+hash = "683825a7ac1694046cc67fad3365c3ed7369d2499b5bbf583abb3083f6d10ae8"
 metafile = true
 
 [[files]]
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
+hash = "88e8ef3ce5d93ae6cd1a26bd2ebdd063a92b4899742710242d6d3e6f73f32e75"
 metafile = true
 
 [[files]]
@@ -295,7 +300,7 @@ hash = "509f4a0363cfd02b114009484aac70adaa191c25408e47ff0b52730d2d325f53"
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "1518dc3d5fd05ced094fb5e949c4c1ecde8451e905085ebd0a2e6c8867559d10"
+hash = "b821a0bb0a3bd1ccbdcfddabf054f752079c6b4747705b3df8f7547c130de211"
 metafile = true
 
 [[files]]
@@ -305,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "a1a9182048e4f4e9da0c9a5cd7e281ca627c7789856ae39b1bc9d3cefc8d6962"
+hash = "f647baf16ae28ed518f07593e6aa42782d4b181297b6412105b45c9fab1f8740"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "0d8284d8437a747a5098ab708a1c9bd43b8dfdd644afd77d8d8811e36d23cba6"
+hash = "ee0c5c716e9bfc1d80714baa7ce3f1d7f038797da8364520cbaf0d1eea6e020f"
 metafile = true
 
 [[files]]
@@ -369,7 +374,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "7ffecfbce156daaea7ff31d0d8dcbb030cb5522fe4c7c72b64f46eeed468e7b2"
+hash = "040c13e236ced832ebdb2ffdbd1ba1ced6ce8fd5aca5bc12d79883f1b248debc"
 metafile = true
 
 [[files]]
@@ -384,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "073a0dc68e66a360e1fdead03be5c44cbdb30947dfd84d43320fdc77ebcdb4c7"
+hash = "ec08e7310ab4f744eb0328b085f45b646903278a2bdabf32c68e79900c57dd82"
 metafile = true
 
 [[files]]
@@ -6224,8 +6229,8 @@ file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/savan
 hash = "7fc33d8ca41b39c3ac8e7d855056a32e2999801e05b7b1afd7d1f5ecd11f4971"
 
 [[files]]
-file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/taiga_like.jsonpatch"
-hash = "e9874cdcdf91a149671b0a6f38997bf714f648313d15bea90540c0e7c726a417"
+file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/snowy_like.jsonpatch"
+hash = "06262f0bd313786dee8387e8a8e97449ab6d5d410d6282fd7e6196d043bb020b"
 
 [[files]]
 file = "resources/common/required/polymania/data/polymania/jsonpatch/gliders.jsonpatch"
