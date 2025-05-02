@@ -1,6 +1,6 @@
 name = "Biome Tag Villagers"
 filename = "biome_tag_villagers-1.4.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ah3WA8lg/versions/rWxWeMNH/biome_tag_villagers-1.4.0.jar"
