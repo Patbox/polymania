@@ -1,6 +1,6 @@
 name = "Micro Fighters"
 filename = "microfighters-1.0.4+1.21.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mCLvosIh/versions/BPQ4q1Q0/microfighters-1.0.4%2B1.21.5.jar"

@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/borukva-food.pw.toml"
-hash = "7fc1f726282c5886e21c5dadca593066e3dcfc85d682ae5be2aaea8288a42063"
+hash = "c8e12a7a5c582ba55844aa53ee9cf1e1d4927828f6ee7413597485e4c7dec223"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmtweaks.pw.toml"
-hash = "189409fb96b09336ca3a2bf0df2e359e39af72e4e6d08523140fcc26144c83e9"
+hash = "7e6ca50c6051003e07b44b13cc95e44ea763255aba9130148d7f1ac5ac9e51b7"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/micro-fighters.pw.toml"
-hash = "7a7c0bfc27d2b933cd4236c856a8c191569d3b8e5c605dff5938890327928ef9"
+hash = "c600b5ed501fb9c095cd2f2891d21812aa90f1539a934165e249fd8f1b0d8f52"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/rail-placement-fix.pw.toml"
-hash = "6c65e3ab9c38f43c687675e44e76bb6da6097ef70eb3d7a842a5dbf96e71476a"
+hash = "3999629f2d7ba6fc42a23dd1a343c0e792f649f816e13dd1f99201311aa85c47"
 metafile = true
 
 [[files]]
@@ -349,7 +349,7 @@ hash = "4f620b591e266e448e892be4a575e473ca585f85ce1951d7bd42a7649281fdce"
 
 [[files]]
 file = "mods/restart-detector.pw.toml"
-hash = "fcebc07a1dfd205d785d2f9c66e43c557a60800a721c6846b15ed78e1ca484ba"
+hash = "14ea7eb24c76b10f214eeb06d3ec357d678f9ec94b6fb1b14ef58b1aae4d3fee"
 metafile = true
 
 [[files]]

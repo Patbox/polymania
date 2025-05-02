@@ -1,6 +1,6 @@
 name = "Restart Detector"
 filename = "restart-detector-1.2.5+1.21.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZCH3dl0z/versions/eRHCUEsF/restart-detector-1.2.5%2B1.21.5.jar"

@@ -1,6 +1,6 @@
 name = "Rail Placement Fix"
 filename = "rail-placement-fix-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7z0IZqoa/versions/UVpyM92U/rail-placement-fix-1.1.0.jar"
