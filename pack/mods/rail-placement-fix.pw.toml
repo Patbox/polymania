@@ -1,0 +1,13 @@
+name = "Rail Placement Fix"
+filename = "rail-placement-fix-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7z0IZqoa/versions/UVpyM92U/rail-placement-fix-1.1.0.jar"
+hash-format = "sha512"
+hash = "e8c0ff5f52b2b97d850d8d78971114df231f7593085c1854710857e7250b4ac1091b41ff40f2a2ad5598b4e45c9ab401742a3b1f6d9543630dc5e53370353524"
+
+[update]
+[update.modrinth]
+mod-id = "7z0IZqoa"
+version = "UVpyM92U"

@@ -1,0 +1,13 @@
+name = "FarmTweaks"
+filename = "farmtweaks-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okvumKPb/versions/R784b6ei/farmtweaks-1.4.jar"
+hash-format = "sha512"
+hash = "d3b56c24f1235558bbb4355575c257aee411b05a30fccedd8026e1a483ac28300050afbb54cd63d57b06b698b9bb9a34028a3d9395d631aaebc1017ce9cf8afe"
+
+[update]
+[update.modrinth]
+mod-id = "okvumKPb"
+version = "R784b6ei"

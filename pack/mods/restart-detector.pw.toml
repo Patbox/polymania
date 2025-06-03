@@ -1,0 +1,13 @@
+name = "Restart Detector"
+filename = "restart-detector-1.2.5+1.21.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZCH3dl0z/versions/eRHCUEsF/restart-detector-1.2.5%2B1.21.5.jar"
+hash-format = "sha512"
+hash = "2fc34d3b4ce5e334d63d4f1e68d53c2f7ca1bfd8aa7f7ad012d9215121803d70c4d1e714c7005ee81af21faa174650cdd494289ed379fd8fd6ccfd5d03785e24"
+
+[update]
+[update.modrinth]
+mod-id = "ZCH3dl0z"
+version = "eRHCUEsF"

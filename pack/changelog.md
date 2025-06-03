@@ -12,19 +12,23 @@
 - Updated Fabric API (0.121.0+1.21.5 -> 0.124.2+1.21.5)
 
 # 0.3.0:
-- Added Improved Maps: https://modrinth.com/mod/improved-maps
+- Re-added Borukva Food: https://modrinth.com/mod/borukva-food
 - Added Micro Fighters: https://modrinth.com/mod/micro-fighters
+- Added FarmTweaks: https://modrinth.com/mod/farmtweaks
+- Added Restart Detector: https://modrinth.com/mod/restart-detector
 - Added Biome Tag Villagers: https://modrinth.com/mod/biome-tag-villagers
+- Added Rail Placement Fix: https://modrinth.com/mod/rail-placement-fix
 - Removed snow particle effect from modded biomes, to match latest CliffTree.
+- Added recipe for Saddle
 - Updated PolyFactory (0.7.0+1.21.5 -> 0.7.1+1.21.5)
 - Updated PolyDecorations (0.7.2+1.21.5 -> 0.7.4+1.21.5)
 - Updated Toms Mobs (2.2.3+1.21.5 -> 2.2.5+1.21.5)
 - Updated Baby Fat - Polymerized (1.0.1+1.21.5 -> 1.0.2+1.21.5)
-- Updated Leaves Us In Peace (1.8.0+MC1.21.5 -> 1.8.1+MC1.21.5)
+- Updated Leaves Us In Peace (1.8.0+MC1.21.5 -> 1.8.2+MC1.21.5)
 - Updated Balm (1.21.5-21.5.9 -> 1.21.5-21.5.14)
 - Updated MidnightLib (1.7.1-fabric+1.21.4 -> 1.7.2-fabric+1.21.4)
 - Updated TerraBlender (1.21.5-5.0.0.0 -> 1.21.5-5.0.0.1)
-- Updated Fabric API (0.120.0+1.21.5 -> 0.121.0+1.21.5)
+- Updated Fabric API (0.120.0+1.21.5 -> 0.122.0+1.21.5)
 - Updated Banner Text (1.3.2 -> 1.3.3)
 - Updated Text Placeholder API (2.6.2+1.21.5 -> 2.6.3+1.21.5)
 - Updated Polymer (0.12.3+1.21.5 -> 0.12.4+1.21.5)

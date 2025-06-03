@@ -25,4 +25,5 @@ do
 	echo "Restored $FILE"
 done
 
+packwiz refresh
 cd ../
