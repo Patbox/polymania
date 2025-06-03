@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "27a3c2d59c54999afa45707d675a4e7b488f2a4703f5ed1d8a54e45f92c6b728"
+hash = "77a1bd5d477c9ba1884937607c399e1d17e900f282863bfe7bc93d476aaba516"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -49,16 +49,20 @@ file = "config/polymer/server.json"
 hash = "f94c8e1710f0b036272460bc4a38519bc15d08f22278b6f66110e33b9bb5730c"
 
 [[files]]
+file = "config/polymer/sound-patch.json"
+hash = "8e0710c2a3aca9fcb1d74a0ec79a52799ee1a0744181425cc540e7bb31e5c046"
+
+[[files]]
 file = "config/registry_aliases/block.json"
-hash = "f6810713604f4a233338e9c639acc295d15dd8da98bc2cf369386e41139cfc86"
+hash = "5c0edae6a345b357c79bf794f21563095bd6e35e9adfe6f4ad990befbff92fae"
 
 [[files]]
 file = "config/registry_aliases/block_entity_type.json"
-hash = "fede25ed92da6f4f37d9e6477dcd6085e12a0eeb1ff3e1dfb3afc1b73d75b2ab"
+hash = "929eff098e3660fc91882aba1196c89c9894136607fbc2227e54a587da1d8df1"
 
 [[files]]
 file = "config/registry_aliases/item.json"
-hash = "d038c0fd29a4dfb9737776c89822e5446a9d8cc141c14b5310b648210c4e7af2"
+hash = "d46db2366b700bab446f2e94b96f430d47c1d755ee36d1bce1315a4b817fa098"
 
 [[files]]
 file = "config/rocks.json"
@@ -122,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/baby-fat-polymer.pw.toml"
-hash = "8a3d46fe923f6ba5910d853afdb074588db0f2edf70e1fba09fb82512ea54d54"
+hash = "4b7ab55269cea1e484023f08afdafda30df24db344e33a7de0a6ccd96232c816"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "1720d34dde829929ae328c037cd256be6e20548171ecf777572ebb1b37857978"
+hash = "5a9b83b7f0ab34a7d34f08e008072309fbca01d348f02db2312ac021145755bc"
 metafile = true
 
 [[files]]
@@ -211,12 +215,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "883b3310f0cc4c3915957eda03ccf516b042f916c1494960ee849d2c9e91908b"
+hash = "01796e4009f0515bc60af253bcf019133124445fe921bbbfc587396cae0b81fd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
+hash = "8d27c5bfadd53089243e654bd605faac4b768dba2647254e06e4d04e9be28236"
 metafile = true
 
 [[files]]
@@ -256,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "d23679ba2a238c3d36458a2ac3d9894320a37190961a3e651c7099dd1200b439"
+hash = "7bd829963629e0013cf966ebd3968deaac6b39b5991a5124f0254b0301f76824"
 metafile = true
 
 [[files]]
@@ -266,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "683825a7ac1694046cc67fad3365c3ed7369d2499b5bbf583abb3083f6d10ae8"
+hash = "74bd6f54979911556533c64319fcfaf32522f5181e209d01342ab38a1987116c"
 metafile = true
 
 [[files]]
@@ -315,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ee0c5c716e9bfc1d80714baa7ce3f1d7f038797da8364520cbaf0d1eea6e020f"
+hash = "ec5724f643adf791034aa7ca5ddfa253a771220999f92821cdbb4fb281011a6a"
 metafile = true
 
 [[files]]
@@ -389,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "ec08e7310ab4f744eb0328b085f45b646903278a2bdabf32c68e79900c57dd82"
+hash = "09ab575797df46983a8d5067a7b8572e7c39b00b92383d61c24f19e182456d72"
 metafile = true
 
 [[files]]

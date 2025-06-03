@@ -1,0 +1,8 @@
+{
+  "_c0": "Forcefully disables all sound patches used by mods.",
+  "force_disable": false,
+  "_c1": "Marks all vanilla block sounds as server handled.",
+  "always_handle_vanilla_block_sounds": true,
+  "_c2": "Marks all modded block sounds to be sent to the client (useful with polymc).",
+  "always_send_modded_block_sounds": false
+}

@@ -1,3 +1,16 @@
+# 0.3.1:
+- Enabled (experimental) Polymer Sound Patch:
+  - This allows for server side modded block to have correct place, break, step and hit sounds, through at the cost
+    of sound being ping dependent.
+- Updated Toms Mobs (2.2.5+1.21.5 -> 2.2.8+1.21.5): https://modrinth.com/mod/toms-mobs/changelog
+- Updated Baby Fat - Polymerized (1.0.2+1.21.5 -> 1.0.5+1.21.5)
+- Updated MidnightLib (1.7.2-fabric+1.21.4 -> 1.7.3-fabric+1.21.4)
+- Updated Polymer (0.12.4+1.21.5 -> 0.12.5+1.21.5)
+- Updated Fabric Language Kotlin (1.13.2+kotlin.2.1.20 -> 1.13.3+kotlin.2.1.21)
+- Updated Leaves Us In Peace (1.8.1+MC1.21.5 -> 1.8.2+MC1.21.5)
+- Updated Balm (1.21.5-21.5.14 -> 1.21.5-21.5.16)
+- Updated Fabric API (0.121.0+1.21.5 -> 0.124.2+1.21.5)
+
 # 0.3.0:
 - Added Improved Maps: https://modrinth.com/mod/improved-maps
 - Added Micro Fighters: https://modrinth.com/mod/micro-fighters
