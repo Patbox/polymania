@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "27a3c2d59c54999afa45707d675a4e7b488f2a4703f5ed1d8a54e45f92c6b728"
+hash = "fe8fb420dcc75a3f016787e06dab3eeb905149e54f45989ea30d6a800214b254"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -54,15 +54,15 @@ hash = "8e0710c2a3aca9fcb1d74a0ec79a52799ee1a0744181425cc540e7bb31e5c046"
 
 [[files]]
 file = "config/registry_aliases/block.json"
-hash = "5c0edae6a345b357c79bf794f21563095bd6e35e9adfe6f4ad990befbff92fae"
+hash = "f6810713604f4a233338e9c639acc295d15dd8da98bc2cf369386e41139cfc86"
 
 [[files]]
 file = "config/registry_aliases/block_entity_type.json"
-hash = "929eff098e3660fc91882aba1196c89c9894136607fbc2227e54a587da1d8df1"
+hash = "fede25ed92da6f4f37d9e6477dcd6085e12a0eeb1ff3e1dfb3afc1b73d75b2ab"
 
 [[files]]
 file = "config/registry_aliases/item.json"
-hash = "d038c0fd29a4dfb9737776c89822e5446a9d8cc141c14b5310b648210c4e7af2"
+hash = "55f700b28168b9c192a013b88824ff056ca8eb78c15fb0f894cfad23308fdd04"
 
 [[files]]
 file = "config/rocks.json"
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "5a9b83b7f0ab34a7d34f08e008072309fbca01d348f02db2312ac021145755bc"
+hash = "dce18ce7113240e915ac8dba60a51200fb1bd4093a099b9ddca00905c967dcf4"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/borukva-food.pw.toml"
-hash = "c8e12a7a5c582ba55844aa53ee9cf1e1d4927828f6ee7413597485e4c7dec223"
+hash = "ec1f4944357d1a1529242a0947d16770cf6eb17e780bdaf05c207fe9d0d89cca"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "06fd3c9ce055d299eeb79e80c51f1f809b0a3aeb08d9c938498ce639f3a34cf9"
+hash = "c734f1c8e43f79e4e5be9f8fd9104a16c6305de52629c7203a0eea2257e53522"
 metafile = true
 
 [[files]]
@@ -220,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "01796e4009f0515bc60af253bcf019133124445fe921bbbfc587396cae0b81fd"
+hash = "494b5871061365da0e855eeb8a0c414454cde84b12ed555221b19c828e903b30"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
+hash = "8d27c5bfadd53089243e654bd605faac4b768dba2647254e06e4d04e9be28236"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-us-in-peace.pw.toml"
-hash = "5c72e102b773cc7dab56c295c15fae0f4ab868516c619e612202be338da77d16"
+hash = "7bd829963629e0013cf966ebd3968deaac6b39b5991a5124f0254b0301f76824"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "88e8ef3ce5d93ae6cd1a26bd2ebdd063a92b4899742710242d6d3e6f73f32e75"
+hash = "4b45aa3bb214cb9bbd3e2b6c0ef24ddaee88cbfcb617d15322a5804a3a8e7708"
 metafile = true
 
 [[files]]
@@ -329,12 +329,17 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "f647baf16ae28ed518f07593e6aa42782d4b181297b6412105b45c9fab1f8740"
+hash = "a0345aa1f4d03f846f08b6d5bd0b8cc30359599ac7b3a3a41c51bc9ba71ca82b"
+metafile = true
+
+[[files]]
+file = "mods/polymer-qol.pw.toml"
+hash = "4324ad026dd37dd7008319e9b1c941f44a3c637dcb8e22d32b54532af56d9ee1"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "ec5724f643adf791034aa7ca5ddfa253a771220999f92821cdbb4fb281011a6a"
+hash = "0b35065a6933d935dc61a5e1ff340594dd3e0958f86d023d5b22e2acb2cc9c00"
 metafile = true
 
 [[files]]
@@ -383,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "26f992b3b28cd7f638a15fc911e55fe3d6053e5b8a36fcb946ed84587498b99c"
+hash = "2c2da93163422b04ce566ec04e6773cc2366edc17d79c46b5f64c9778fb97614"
 metafile = true
 
 [[files]]

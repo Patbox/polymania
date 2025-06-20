@@ -1,15 +1,22 @@
 # 0.3.1:
 - Enabled (experimental) Polymer Sound Patch:
-  - This allows for server side modded block to have correct place, break, step and hit sounds, through at the cost
-    of sound being ping dependent.
+  - This allows for server side modded block to have correct place, break, step and hit sounds, through at the cost of sound being ping dependent.
+- Added Polymer - Quality of Life: https://modrinth.com/mod/polymer-qol
+  - Adds some extra Quality of Life patches for polymer content, making it feel more like native mods when installed on client.
+- Disabled soil degradation and Fartilizer replacing Bone Meal in Composter from Borukva Food.
+- Updated PolyFactory (0.7.1+1.21.5 -> 0.7.2+1.21.5): https://modrinth.com/mod/polyfactory/changelog
 - Updated Toms Mobs (2.2.5+1.21.5 -> 2.2.8+1.21.5): https://modrinth.com/mod/toms-mobs/changelog
+- Updated Cliff under a Tree (CliffTree) (2.1.1 -> 2.2): https://modrinth.com/datapack/clifftree/changelog
+- Updated Borukva Food (0.1.12+1.21.5 -> 0.1.13+1.21.5)
 - Updated Baby Fat - Polymerized (1.0.2+1.21.5 -> 1.0.5+1.21.5)
 - Updated MidnightLib (1.7.2-fabric+1.21.4 -> 1.7.3-fabric+1.21.4)
-- Updated Polymer (0.12.4+1.21.5 -> 0.12.5+1.21.5)
+- Updated Polymer (0.12.4+1.21.5 -> 0.12.6+1.21.5)
 - Updated Fabric Language Kotlin (1.13.2+kotlin.2.1.20 -> 1.13.3+kotlin.2.1.21)
 - Updated Leaves Us In Peace (1.8.1+MC1.21.5 -> 1.8.2+MC1.21.5)
-- Updated Balm (1.21.5-21.5.14 -> 1.21.5-21.5.16)
-- Updated Fabric API (0.121.0+1.21.5 -> 0.124.2+1.21.5)
+- Updated Balm (1.21.5-21.5.14 -> 1.21.5-21.5.17)
+- Updated Fabric API (0.121.0+1.21.5 -> 0.126.0+1.21.5)
+- Updated Text Placeholder API (2.6.3+1.21.5 -> 2.6.4+1.21.5)
+- Updated spark (1.10.128 -> 2.10.138)
 
 # 0.3.0:
 - Re-added Borukva Food: https://modrinth.com/mod/borukva-food

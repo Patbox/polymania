@@ -1,0 +1,6 @@
+{
+  "_c0": "Allows polymer-qol clients to perform block mining client-side",
+  "client_mining": true,
+  "_c1": "Prevent polymer-qol clients from swinging their arm when interacting with fake noteblocks",
+  "prevent_swing": true
+}
