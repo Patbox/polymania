@@ -7,6 +7,7 @@
 - Updated PolyFactory (0.7.1+1.21.5 -> 0.7.2+1.21.5): https://modrinth.com/mod/polyfactory/changelog
 - Updated Toms Mobs (2.2.5+1.21.5 -> 2.2.8+1.21.5): https://modrinth.com/mod/toms-mobs/changelog
 - Updated Cliff under a Tree (CliffTree) (2.1.1 -> 2.2): https://modrinth.com/datapack/clifftree/changelog
+- Updated Dungeons and Taverns (v4.7 -> v4.7.2)
 - Updated Borukva Food (0.1.12+1.21.5 -> 0.1.13+1.21.5)
 - Updated Baby Fat - Polymerized (1.0.2+1.21.5 -> 1.0.5+1.21.5)
 - Updated MidnightLib (1.7.2-fabric+1.21.4 -> 1.7.3-fabric+1.21.4)
@@ -14,8 +15,9 @@
 - Updated Fabric Language Kotlin (1.13.2+kotlin.2.1.20 -> 1.13.3+kotlin.2.1.21)
 - Updated Leaves Us In Peace (1.8.1+MC1.21.5 -> 1.8.2+MC1.21.5)
 - Updated Balm (1.21.5-21.5.14 -> 1.21.5-21.5.17)
-- Updated Fabric API (0.121.0+1.21.5 -> 0.126.0+1.21.5)
+- Updated Fabric API (0.121.0+1.21.5 -> 0.127.1+1.21.5)
 - Updated Text Placeholder API (2.6.3+1.21.5 -> 2.6.4+1.21.5)
+- Updated Lithium (0.16.2+mc1.21.5 -> 0.16.3+mc1.21.5)
 - Updated spark (1.10.128 -> 2.10.138)
 
 # 0.3.0:

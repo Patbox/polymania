@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "fe8fb420dcc75a3f016787e06dab3eeb905149e54f45989ea30d6a800214b254"
+hash = "b2e8dd3175e55fcdb81a5e6fd1674194437ab704559c9a58ef06f7b164c78f39"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -11,6 +11,10 @@ hash = "328b171f927cb36977d32d1ac13d10862b500da831ccb5bfcfc92e480c0ad6a4"
 [[files]]
 file = "config/ViaFabric/viaversion.yml"
 hash = "2119b4aa045924d2648de54b6153a7e03df7c173027b5876b8dee6d735fa1f44"
+
+[[files]]
+file = "config/borukva-food.json"
+hash = "40476538bc9531c6b3c1dcd31d13ea548c1384b5d61206ae8b0aba9cb454cb99"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -35,6 +39,10 @@ hash = "569d5dfeea1ae2688a3cbf2e7676b525f1209d9d21f481e3880ad660511004d1"
 [[files]]
 file = "config/polymc.json"
 hash = "8e5fcc431dd2f68bd6a647026a150987ed65fb3eaa25edd5a99d46bafe30f5d6"
+
+[[files]]
+file = "config/polymer-qol-server.json"
+hash = "674e557fded0f5aefa3678616208201b494dbef7d4f8c349ebc2829711380504"
 
 [[files]]
 file = "config/polymer/auto-host.json"
@@ -195,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "05ab2460b90ea94c35ae3f7869c0f83a39fb733b4d214d0fcad9e647ef27ee75"
+hash = "1d1155e842832b6a2f830a2cf5f6a7579717add3b51ad8815eff63c2401b71cf"
 metafile = true
 
 [[files]]
@@ -220,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "494b5871061365da0e855eeb8a0c414454cde84b12ed555221b19c828e903b30"
+hash = "d5a5c0249a6221deaacb0eb153e6b58b5505edd76aafe240d0bd340a6fa4562e"
 metafile = true
 
 [[files]]
@@ -275,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "1ade7d5507020f8fdc26d724600c1fa4fc78ca9aa1cde13293292216ae611e9c"
+hash = "29bc0f585963a84e1f78af8a1ab779e34dcc4c1657190297bca9cd95aeb90d36"
 metafile = true
 
 [[files]]
@@ -439,6 +447,16 @@ metafile = true
 [[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "d91904ee0f15ee19befe942a4226766b75892d5a66a7d0e5b4078adac7aac02f"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "aa4feea88ef3f783c5c3481b80d1f8a2ff3c4155dba7f4dc0f9755fc12d1f732"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "3699eafe2a04e1886ed0acf4ca3dd4a29dc285f3440b1b0b924e95d71209a990"
 metafile = true
 
 [[files]]
