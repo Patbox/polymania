@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "b2e8dd3175e55fcdb81a5e6fd1674194437ab704559c9a58ef06f7b164c78f39"
+hash = "862e926aa7873c16ed726ef88b6ffd33da3ed1b2931ea706521be24f80ce2e09"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -227,6 +227,10 @@ hash = "68ca54d8ebf36b92437d7f696c79fbbe6e369c47e1065d8a63026f6451e60d75"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api-protocol-fix-1.0.0.jar"
+hash = "d6d8d16a584c2656c0dd70fe288e6330369567badccd7a7cdbaa57210876a52e"
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "d5a5c0249a6221deaacb0eb153e6b58b5505edd76aafe240d0bd340a6fa4562e"
 metafile = true
@@ -319,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4b45aa3bb214cb9bbd3e2b6c0ef24ddaee88cbfcb617d15322a5804a3a8e7708"
+metafile = true
+
+[[files]]
+file = "mods/polychess.pw.toml"
+hash = "9a4dc33a01aad09b7ad9094d7f1d619875af8c613443cd6d72a55b5a4d4ce14b"
 metafile = true
 
 [[files]]
@@ -456,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "3699eafe2a04e1886ed0acf4ca3dd4a29dc285f3440b1b0b924e95d71209a990"
+hash = "cbd317faf14d27c708d56e6896f85f6de6fd5d126cdd92e663218d4f4ac2dd99"
 metafile = true
 
 [[files]]
@@ -511,10 +520,6 @@ hash = "47c59caa6bf946b4ab3eac13c084b47396ad4bcaf76cd070bc2135fee1cc0bf3"
 [[files]]
 file = "polymer/override_assets/assets/cinderscapes/sounds/music/ruins.ogg"
 hash = "15aa10e2de4edef4a2478abf6df8af1c402e4ccc8d805212bda3663c3c04806a"
-
-[[files]]
-file = "polymer/override_assets/assets/minecraft/lang/en_us.json"
-hash = "0e124270d9beb3fa80ef98a0d8eefaecee6b87db6416ab55ba286f2525ae0201"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/models/block/moss_carpet.json"

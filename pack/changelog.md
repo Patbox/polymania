@@ -1,8 +1,14 @@
 # 0.3.1:
+- Added ViaVersion and ViaFabric:
+  - Allows you to play with 1.21.6 client on server running this modpack.
+  - Will be removed when pack updates to 1.21.6.
+- Added PolyChess: https://modrinth.com/mod/polychess
+  - Chess pieces as decorative blocks.
 - Enabled (experimental) Polymer Sound Patch:
   - This allows for server side modded block to have correct place, break, step and hit sounds, through at the cost of sound being ping dependent.
 - Added Polymer - Quality of Life: https://modrinth.com/mod/polymer-qol
   - Adds some extra Quality of Life patches for polymer content, making it feel more like native mods when installed on client.
+  - Requires client to run on same version as server (currently 1.21.5), with Polymer and Polymer QoL installed.
 - Disabled soil degradation and Fartilizer replacing Bone Meal in Composter from Borukva Food.
 - Updated PolyFactory (0.7.1+1.21.5 -> 0.7.2+1.21.5): https://modrinth.com/mod/polyfactory/changelog
 - Updated Toms Mobs (2.2.5+1.21.5 -> 2.2.8+1.21.5): https://modrinth.com/mod/toms-mobs/changelog
@@ -19,6 +25,7 @@
 - Updated Text Placeholder API (2.6.3+1.21.5 -> 2.6.4+1.21.5)
 - Updated Lithium (0.16.2+mc1.21.5 -> 0.16.3+mc1.21.5)
 - Updated spark (1.10.128 -> 2.10.138)
+- Removed leftover "assets/minecraft/en_us.json" file, which prevented client resource packs from overriding vanilla tranlations.
 
 # 0.3.0:
 - Re-added Borukva Food: https://modrinth.com/mod/borukva-food
