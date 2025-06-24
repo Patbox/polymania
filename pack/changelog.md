@@ -1,3 +1,8 @@
+# 0.4.0-pre.1:
+- Updated to 1.21.6.
+- Updated all mods to be compatible with 1.21.6.
+- Removed ViaVersion and ViaFabric (no longer needed).
+
 # 0.3.1:
 - Added ViaVersion and ViaFabric:
   - Allows you to play with 1.21.6 client on server running this modpack.

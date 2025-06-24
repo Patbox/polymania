@@ -1,13 +1,13 @@
 name = "FarmTweaks"
-filename = "farmtweaks-1.4.jar"
+filename = "farmtweaks-1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/okvumKPb/versions/R784b6ei/farmtweaks-1.4.jar"
+url = "https://cdn.modrinth.com/data/okvumKPb/versions/GhzZ6xJ9/farmtweaks-1.5.jar"
 hash-format = "sha512"
-hash = "d3b56c24f1235558bbb4355575c257aee411b05a30fccedd8026e1a483ac28300050afbb54cd63d57b06b698b9bb9a34028a3d9395d631aaebc1017ce9cf8afe"
+hash = "d21306858a79ad813c0ca4f3d139e1420ecec3224d3319c0a27f522a58c009e50aa3aa1180865785434baeab0209a6675fcde39085eb55b05412609e6076ee98"
 
 [update]
 [update.modrinth]
 mod-id = "okvumKPb"
-version = "R784b6ei"
+version = "GhzZ6xJ9"

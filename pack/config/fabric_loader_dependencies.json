@@ -42,14 +42,24 @@
 				"minecraft": "IGNORED"
 			}
 		},
-		"leavesbegone": {
+		"braverbundles": {
 			"-depends": {
 				"minecraft": "IGNORED"
 			}
 		},
-		"braverbundles": {
+		"fsit": {
 			"-depends": {
-				"architectury": "IGNORED"
+				"minecraft": "IGNORED"
+			}
+		},
+		"clumps": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			}
+		},
+		"leavesbegone": {
+			"-depends": {
+				"minecraft": "IGNORED"
 			}
 		}
 	}

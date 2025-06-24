@@ -1,13 +1,13 @@
 name = "This Rocks!"
-filename = "rocks-1.9.3+1.21.5.jar"
+filename = "rocks-1.9.4+1.21.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Sb5ypgDP/versions/rOufFfyb/rocks-1.9.3%2B1.21.5.jar"
-hash-format = "sha1"
-hash = "c6ab8f71c0353db8d6e41c61d501a2128553be78"
+url = "https://cdn.modrinth.com/data/Sb5ypgDP/versions/TYlfzE0p/rocks-1.9.4%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "6c676a26499fd076d1e5f3b35858a6c57c2e4a4c45dda2e49ec5e67aa8ae4f60ff67abbb59de292439afad056cd2e68d9d3e1e316874529c601a401a9356b7ab"
 
 [update]
 [update.modrinth]
 mod-id = "Sb5ypgDP"
-version = "rOufFfyb"
+version = "TYlfzE0p"

@@ -3,11 +3,11 @@ filename = "clifftree-2.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/59ypHk8x/versions/QIEMP5Z9/clifftree-2.2.jar"
-hash-format = "sha1"
-hash = "76991aca75a2947b1710df8b626c7e3c1c669ac0"
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/qpY1zrZd/clifftree-2.2.jar"
+hash-format = "sha512"
+hash = "4d7c11c3c079d3bcd6d192906b7d48d4a920d58b20b98ae51563a51c73c8b1993a176fed20bbf34864840d26f2a7fe7333eda608cd3b6650dd23f06a5d1ac607"
 
 [update]
 [update.modrinth]
 mod-id = "59ypHk8x"
-version = "QIEMP5Z9"
+version = "qpY1zrZd"

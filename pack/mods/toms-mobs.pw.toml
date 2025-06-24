@@ -1,13 +1,13 @@
 name = "Toms Mobs"
-filename = "toms_mobs-2.2.8+1.21.5.jar"
+filename = "toms_mobs-2.2.11+1.21.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/PXaH6GuW/versions/ZGmVKBZ9/toms_mobs-2.2.8%2B1.21.5.jar"
-hash-format = "sha1"
-hash = "fae8cf49eb9cbab536b4c8f62e3221021a9fb015"
+url = "https://cdn.modrinth.com/data/PXaH6GuW/versions/QhjrC2NZ/toms_mobs-2.2.11%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "7105800e6a56e7bcd22d02cc71f450828dfa09de9e53ea36d7d0510a8bbf4290b79183dcb8c83e42fccd59244819f91eff8611f7fe19efee65b848c36b51eb5c"
 
 [update]
 [update.modrinth]
 mod-id = "PXaH6GuW"
-version = "ZGmVKBZ9"
+version = "QhjrC2NZ"
