@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "862e926aa7873c16ed726ef88b6ffd33da3ed1b2931ea706521be24f80ce2e09"
+hash = "a529e54da35a9c516247ef78a0431f88e7afab5d520f69eb9440c4f918c3ac9b"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "c734f1c8e43f79e4e5be9f8fd9104a16c6305de52629c7203a0eea2257e53522"
+hash = "06fd3c9ce055d299eeb79e80c51f1f809b0a3aeb08d9c938498ce639f3a34cf9"
 metafile = true
 
 [[files]]
@@ -465,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "cbd317faf14d27c708d56e6896f85f6de6fd5d126cdd92e663218d4f4ac2dd99"
+hash = "80df41dba099c78027e0d3c3f65bf18d015419fc56255a96cc0daa7a74a3b13f"
 metafile = true
 
 [[files]]
