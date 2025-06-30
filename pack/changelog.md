@@ -3,6 +3,12 @@
 - Updated all mods to be compatible with 1.21.6.
 - Removed ViaVersion and ViaFabric (no longer needed).
 
+# 0.3.2:
+- Updated ViaVersion (5.4.1-SNAPSHOT -> 5.4.1):
+  - You can now join from 1.21.7.
+- Downgraded Cliff under a Tree (CliffTree) (2.2 -> 2.1.1):
+  - Fixes issue where generating new chunk crashes the game.
+
 # 0.3.1:
 - Added ViaVersion and ViaFabric:
   - Allows you to play with 1.21.6 client on server running this modpack.

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "862e926aa7873c16ed726ef88b6ffd33da3ed1b2931ea706521be24f80ce2e09"
+hash = "a529e54da35a9c516247ef78a0431f88e7afab5d520f69eb9440c4f918c3ac9b"
 
 [[files]]
 file = "config/ViaFabric/viafabric.yml"
