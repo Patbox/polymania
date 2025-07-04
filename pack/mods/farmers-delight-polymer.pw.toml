@@ -1,0 +1,13 @@
+name = "Polymer Patch for Farmer's Delight"
+filename = "farmers-delight-polymer-patch-3.2.3.0+1.21.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/TE3NCFiY/versions/6jkdYwlg/farmers-delight-polymer-patch-3.2.3.0%2B1.21.6.jar"
+hash-format = "sha512"
+hash = "7f61b9d57d401d6d0d981fd1307bf717339268d335b5468fd636110166c37aa8f259d9b76513f381e4ded7dd5570845a42eba818afe7dd257872095399c07be0"
+
+[update]
+[update.modrinth]
+mod-id = "TE3NCFiY"
+version = "6jkdYwlg"

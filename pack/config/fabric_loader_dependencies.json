@@ -61,6 +61,16 @@
 			"-depends": {
 				"minecraft": "IGNORED"
 			}
+		},
+		"extended_drawers": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			}
+		},
+		"restart_detector": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			}
 		}
 	}
 }

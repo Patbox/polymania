@@ -1,13 +1,13 @@
 name = "Restart Detector"
-filename = "restart-detector-1.2.5+1.21.6.jar"
+filename = "restart-detector-1.2.6+1.21.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZCH3dl0z/versions/7eIiafjv/restart-detector-1.2.5%2B1.21.6.jar"
+url = "https://cdn.modrinth.com/data/ZCH3dl0z/versions/SQ5G4IfK/restart-detector-1.2.6%2B1.21.6.jar"
 hash-format = "sha512"
 hash = "2577fee364a58607c19f37341184d19014b14a1665fdef9a5f2fae2e0753ff5fc1ccbaa01f971da57b00da1e5d1204dfaafe39f9e81c08ac652385daff842182"
 
 [update]
 [update.modrinth]
 mod-id = "ZCH3dl0z"
-version = "7eIiafjv"
+version = "SQ5G4IfK"

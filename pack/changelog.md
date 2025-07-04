@@ -1,6 +1,11 @@
 # 0.4.0-pre.1:
-- Updated to 1.21.6.
-- Updated all mods to be compatible with 1.21.6.
+- Updated to Minecraft 1.21.7.
+- Updated all mods to be compatible with 1.21.7.
+- Added Farmer's Delight Refabricated (1.21.6-3.2.3) and Polymer Patch for it: https://modrinth.com/mod/farmers-delight-refabricated
+- Readded CC: Tweaked (1.21.7-fabric-1.116.0) and Polymer Patch for it: https://modrinth.com/mod/cc-tweaked
+- Updated Cliff under a Tree (CliffTree) (2.1.1 -> 2.2.1)
+- Removed Borukva Food.
+  - All of it's content will be migrated to Farmer's Delight and vanilla blocks/items.
 - Removed ViaVersion and ViaFabric (no longer needed).
 
 # 0.3.2:
