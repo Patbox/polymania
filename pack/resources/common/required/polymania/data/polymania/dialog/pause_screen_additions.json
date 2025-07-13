@@ -1,0 +1,62 @@
+{
+	"type": "multi_action",
+	"title": { "translate": "menu.custom_options" },
+	"columns": 1,
+	"actions": [
+		{
+			"label": { "translate": "polymania.gui.modded_stats" },
+			"action": {
+				"type": "run_command",
+				"command": "polymer stats"
+			}
+		},
+		{
+			"label": "Polydex",
+			"action": {
+				"type": "run_command",
+				"command": "polydex"
+			}
+		},
+		{
+			"label": { "translate": "polymania.gui.changelog" },
+			"action": {
+				"type": "custom",
+				"id": "polymania:open/changelog",
+				"payload": "polymania:pause_screen_additions"
+			}
+		},
+		{
+			"label": { "translate": "polymania.gui.mods" },
+			"action": {
+				"type": "custom",
+				"id": "polymania:open/mods",
+				"payload": "polymania:pause_screen_additions"
+			}
+		},
+		{
+			"label": { "translate": "custom_server_link.website" },
+			"action": {
+				"type": "open_url",
+				"url": "https://modrinth.com/modpack/polymania"
+			}
+		},
+		{
+			"label": { "translate": "custom_server_link.discord" },
+			"action": {
+				"type": "open_url",
+				"url": "https://pb4.eu/discord"
+			}
+		},
+		{
+			"label": { "translate": "known_server_link.report_bug" },
+			"action": {
+				"type": "open_url",
+				"url": "https://github.com/Patbox/polymania/issues"
+			}
+		}
+	],
+	"exit_action": {
+		"label": { "translate": "gui.back" },
+		"width": 200
+	}
+}

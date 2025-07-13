@@ -1,13 +1,9 @@
 {
   "project_id": "polymania",
-  "version_id": "<MODPACKVERSION>",
+  "version_id": "9999.9999.9999",
   "display_name": "Polymania!",
-  "display_version": "",
-  "release_type": [
-    "alpha",
-    "beta",
-    "release"
-  ],
+  "display_version": "{DEV}",
+  "release_type": [],
   "max_exclusive_version": "",
   "use_version_number_for_display": true
 }

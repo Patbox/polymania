@@ -1,5 +1,9 @@
 {
 	"block.nox.cobweb": "Spider's Cobweb",
 	"custom_server_link.website": "Polymania's Modrinth Page",
-	"custom_server_link.discord": "Patbox's (Polymenia) Discord"
+	"custom_server_link.discord": "Patbox's (Polymenia) Discord",
+	"polymania.gui.changelog": "Changelog",
+	"polymania.gui.mods": "Mods",
+	"polymania.gui.modded_stats": "Modded Statistics...",
+	"polymania.gui.modded_effects": "Modded Status Effects..."
 }

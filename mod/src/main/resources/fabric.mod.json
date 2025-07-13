@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "polymania-extras",
+	"version": "${version}",
+	"name": "Polymania Extras",
+	"description": "Mod for doing Polymania specific features and patches.",
+	"authors": [
+		"Patbox"
+	],
+	"contact": {
+		"homepage": "https://pb4.eu/",
+		"sources": "https://github.com/Patbox/Polymania"
+	},
+	"license": "LGPLv3",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"eu.pb4.polymania.ModInit"
+		]
+	},
+	"mixins": [
+		"polymania.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.7",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

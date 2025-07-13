@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "eu.pb4.polymania.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ServerCommonNetworkHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

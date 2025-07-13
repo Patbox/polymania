@@ -61,4 +61,5 @@ Additionally it includes:
 
 You can see the license of these files on provided websites.
 
+Polymania Extras mod (under `/mod/` in repo) is provided under [LGPLv3](https://github.com/Patbox/polymania/blob/master/mod/LICENSE)
 Other files included in modpack are provided under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).

@@ -1,6 +1,6 @@
 name = "Polymer Patch for Farmer's Delight"
 filename = "farmers-delight-polymer-patch-3.2.3.0+1.21.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TE3NCFiY/versions/6jkdYwlg/farmers-delight-polymer-patch-3.2.3.0%2B1.21.6.jar"

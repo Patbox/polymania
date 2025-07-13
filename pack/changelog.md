@@ -1,3 +1,43 @@
+# 0.4.0:
+- Provided Quick Actions when pressing G button. Currently provides:
+  - Polydex - opens Polydex it.
+  - Trinkets - opens Trinkets ui.
+  - Modded Status Effects - opens Polymer's Status Effect.
+- On pause screen, replaced Server Links with custom options. Currently provides:
+  - Modded Statistics - shows Polymer's statistic screen.
+  - Polydex - opens Polydex.
+  - Changelog - shows changelog.md file in game (aka one you are reading!).
+  - Mods - list all mods available, with mod specific pages.
+  - All previous links.
+- Added Chalk: Polymania Edition:
+  - Fork of Chalk (Fabric) with some slight tweaks and changes. See original mod here: https://modrinth.com/mod/chalk
+  - Main changes include:
+    - Removing conditional registriation of content depending if `chalk-colorful-addon` is present.
+    - Moved Chalk to it's own item group.
+    - Chalk recipes are now unloackable in recipe book.
+    - It now works server side!
+  - You can find it's repo here: https://github.com/PolymaniaForks/Chalk
+- Added Polymania Extras mod:
+  - Custom mod purely done for this modpack (so it's also part of the repo).
+  - Currently used to provide Changelogs and Mods options on pause screen.
+  - The mod list might be later moved to it's own mod.
+- Updated PolyDecorations (0.8.0+1.21.6 -> 0.8.1+1.21.7): https://modrinth.com/mod/polydecorations/changelog
+- Updated Toms Mobs (2.2.12+1.21.6 -> 2.3.0+1.21.6): https://modrinth.com/mod/toms-mobs/changelog
+- Updated CC: Tweaked (1.116.0 -> 1.116.1)
+- Updated Farmer's Delight Refabricated (1.21.6-3.2.3+refabricated -> 1.21.7-3.2.4+refabricated)
+- Updated PolyChess (1.21.6-0.2 -> 1.21.7-0.2)
+- Updated Polymer - Quality of Life (1.0.0+1.21.6-rc1 -> 1.0.1+1.21.7)
+- Updated Fabric API (0.128.2+1.21.7 -> 0.129.0+1.21.7)
+- Updated Polymer (0.13.4+1.21.7 -> 0.13.6+1.21.7)
+- Updated Restart Detector (1.2.6+1.21.6 -> 1.2.7+1.21.6)
+- Removed Simple Server Links:
+  - Replaced with datapack defined dialogs.
+- Tweaked Simple Update Checker to only inform about updates on the same or "stabler" release type.
+  - Betas, pre releases and release candidates (for example 0.4.0-pre.2) will now check for any update that is marked as beta or release.
+  - Full releases (for example 0.4.0) will now check for any update that is marked as release only.
+- Changed Dialog Screen Warning texture from a Warning symbol to a question mark.
+- Fixed some mods being set as server only and not installing for client / singleplayer.
+
 # 0.4.0-pre.1:
 - Updated to Minecraft 1.21.7.
 - Updated all mods to be compatible with 1.21.7.
@@ -65,7 +105,7 @@
 - Updated Text Placeholder API (2.6.2+1.21.5 -> 2.6.3+1.21.5)
 - Updated Polymer (0.12.3+1.21.5 -> 0.12.4+1.21.5)
 
-# 0.3.0-beta.3
+# 0.3.0-beta.3:
 - Updated to 1.21.5
 - Fixed some issues causing this pack to outright crash in singleplayer / client.
   - While main focus will always be running things server side, I decided some basic singleplayer support would be nice.
@@ -76,7 +116,7 @@
 - Removed Necronomicon API (it wasn't used anyway)
   
 
-# 0.3.0-beta.2
+# 0.3.0-beta.2:
 - Added ViaVersion and ViaFabric:
   - Servers running this modpack should now be joinable from 1.21.5.
   - While things should generally work, it's possible there might be some bugs.
@@ -102,7 +142,7 @@
 - Updated Fabric Language Kotlin (1.13.1+kotlin.2.1.10 -> 1.13.2+kotlin.2.1.20)
 
 
-# 0.3.0-beta.1
+# 0.3.0-beta.1:
 - Updated to 1.21.4
 - Updated ALL mods. Won't put them all here as it's just too many.
 - Warning: Old worlds aren't fully compatible yet!
@@ -128,7 +168,7 @@
   - This Rocks Polymer - Merged into This Rocks!
 
 
-# 0.2.1
+# 0.2.1:
 - You can now join the modpack server with 1.21.2/3.
   - While it should faily playable, there might be some issues/bugs related to that, as features/behaviour between these versions have some differences. 
   - For best experience, you should play on 1.21.1 client, until the Polymania fully moves to 1.21.3 (with 0.3.0 update).
@@ -154,7 +194,7 @@
 - Updated Fabric Language Kotlin (1.12.2+kotlin.2.0.20 -> 1.12.3+kotlin.2.0.21)
 
 
-# 0.2.0
+# 0.2.0:
 - Changed texture and recipe of Televator. Now it's styled more like PolyFactory blocks.
 - Fixed seeds from Borukva Food not being plantable with Mechanical Planter
 - Modpack version is now visible on the tablist header. Additionally all future modpack updates will be announced for ops and in logs/console.
@@ -190,5 +230,5 @@
 - Removed Double Doors, Collective, Leaves be Gone, Puzzles Lib, OpenLoader.
 - Moved all included datapacks from `config/openloader/data` to `resources/common/required`.
 
-# 0.1.0
+# 0.1.0:
 - Initial Release!

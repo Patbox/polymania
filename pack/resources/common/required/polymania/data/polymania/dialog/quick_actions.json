@@ -1,0 +1,32 @@
+{
+	"type": "multi_action",
+	"title": { "translate": "menu.quick_actions" },
+	"columns": 1,
+	"pause": false,
+	"actions": [
+		{
+			"label": "Polydex",
+			"action": {
+				"type": "run_command",
+				"command": "polydex"
+			}
+		},
+		{
+			"label": { "translate": "trinkets.name" },
+			"action": {
+				"type": "run_command",
+				"command": "trinkets"
+			}
+		},
+		{
+			"label": { "translate": "polymania.gui.modded_effects" },
+			"action": {
+				"type": "run_command",
+				"command": "polymer effects"
+			}
+		}
+	],
+	"exit_action": {
+		"label": { "translate": "gui.back" }
+	}
+}

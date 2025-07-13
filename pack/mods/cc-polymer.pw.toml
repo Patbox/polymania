@@ -1,6 +1,6 @@
 name = "Polymer Patch for CC:Tweaked"
 filename = "cc-tweaked-polymer-patch-1.116.0.0+1.21.7.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/MfXTuV8J/versions/a7OC3tE5/cc-tweaked-polymer-patch-1.116.0.0%2B1.21.7.jar"

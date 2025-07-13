@@ -2,19 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "5d7ae74511225b10d3d6f074c8afe0795306be0b5b13c2398f8aeb3ca290e83e"
-
-[[files]]
-file = "config/ViaFabric/viafabric.yml"
-hash = "328b171f927cb36977d32d1ac13d10862b500da831ccb5bfcfc92e480c0ad6a4"
-
-[[files]]
-file = "config/ViaFabric/viaversion.yml"
-hash = "2119b4aa045924d2648de54b6153a7e03df7c173027b5876b8dee6d735fa1f44"
-
-[[files]]
-file = "config/borukva-food.json"
-hash = "40476538bc9531c6b3c1dcd31d13ea548c1384b5d61206ae8b0aba9cb454cb99"
+hash = "504bf014c7019994668d1cdcbfbfb797cb39318b9ff0890174ef513cf74167b3"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -66,7 +54,7 @@ hash = "8e0710c2a3aca9fcb1d74a0ec79a52799ee1a0744181425cc540e7bb31e5c046"
 
 [[files]]
 file = "config/registry_aliases/block.json"
-hash = "15e239c62e7b7bac8db512f369c8862ec3e2f426858f75db4c4d57476a37b0e0"
+hash = "64e925497bdf2238c5810537e6f2217f2d1ad5112520ff7e0e3beb0d1b9aa3cc"
 
 [[files]]
 file = "config/registry_aliases/block_entity_type.json"
@@ -74,19 +62,23 @@ hash = "d06b9c1ff348a05871162bd7b793ad0ad2838ffc5c9a0f767b75e272f7fdc06d"
 
 [[files]]
 file = "config/registry_aliases/item.json"
-hash = "d294efc88b3810bdc8b50e415984cd6649722a9d412a1a94534d88a2f0794472"
+hash = "5cf5a40a5c9875c4da0efdb1b4949853ebd84995fa50f62286d368d2bbd89b2c"
 
 [[files]]
 file = "config/rocks.json"
 hash = "340ae66474b261dcc5169e80c939eaf3790caad13615fcd5b05c2d3b01e6d94e"
 
 [[files]]
-file = "config/simple-server-links/simple-server-links.toml"
-hash = "89581a00b5de7850a6c45a4e0beff7e6b1e0671e1e8803a26a9c0d3a66b01bff"
+file = "config/simpleupdatechecker_modpack.beta.json"
+hash = "3e65ff71bcbc46b716ddf5eb763ea1d9fc8436558f67e3eac34291a99b4c0a8f"
 
 [[files]]
 file = "config/simpleupdatechecker_modpack.json"
-hash = "a977c9f27297a22305adc16bb8e3d820ebe91ed6a77c3ab7058faef43a8e8c89"
+hash = "85a360f71f6879821f2846aa20f1ee27a1d3bc3132e0a3ccf404750b3009be86"
+
+[[files]]
+file = "config/simpleupdatechecker_modpack.release.json"
+hash = "d09c4beb4581e6ee1b22854614d00f0e150477db76683c9c6a1cb33708cd6897"
 
 [[files]]
 file = "config/sleepwarp.json"
@@ -113,8 +105,8 @@ file = "mods/JsonPatcher-1.1.2+mc.1.21.4.jar"
 hash = "ebfd8e954a9ccb5b9a7e3c1bff0e01c8d159e5b9664268999eb3385df96ed19d"
 
 [[files]]
-file = "mods/PolyMc-5.7.0-rev.6a41cb5-dirty+1.21.7.jar"
-hash = "6f3603918a1bbe391bfaaeaf7a794c1079e34f94d896705be7c5d9a8c5871ea4"
+file = "mods/PolyMc-5.7.0-rev.d34e553-dirty+1.21.7.jar"
+hash = "548511650d99cb9cdadacd8db79c3ebb336ad626813d6f35c7d06fa3d1e3b85a"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -182,12 +174,17 @@ metafile = true
 
 [[files]]
 file = "mods/cc-polymer.pw.toml"
-hash = "95235f433edf7a995a9fb50668b2e219b899195875a556f9dd126dc8ca0e564c"
+hash = "02b66743f509ea26df0ad1338422ba51acfa1eec89e0a640ae2dbeae34f8cef5"
 metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "02fc97144ee5715889af79607bebb686c9064f967a7ddfb10183e0e1bd4b059b"
+hash = "6b022de8155809e0d60e4176e3cac50c73a97da022518a30833546ae1f08d1bf"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "b399e16cdc71abf27b0409fbd19b9145f253d0df79079afa78fd1d4455a47fca"
 metafile = true
 
 [[files]]
@@ -241,7 +238,7 @@ hash = "d6d8d16a584c2656c0dd70fe288e6330369567badccd7a7cdbaa57210876a52e"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -251,12 +248,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-polymer.pw.toml"
-hash = "4337fec4a7c4993fd3e77be0d594314a796dc986541f043fd55db385a7dbe4a6"
+hash = "0f1719c4d5dc0e849d73e7b6e42df6e8e95069c2a6041d5873d9c6f43edef15e"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "6f256ab179de8c216feb133e61d891192feb193166aa39c192a4050cc674b34f"
+hash = "92aed2c022e129c9dab324b7165c62d8da52749260ec4ed286b6689f23960f0d"
 metafile = true
 
 [[files]]
@@ -346,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/polychess.pw.toml"
-hash = "2125b11a135128824fc18758548e332efa1d643cfa5b5378e45799ca3476b161"
+hash = "793f302ac5b9736c654c8409c59ef8034d6c81b99ec295e6c62d0d689254463f"
 metafile = true
 
 [[files]]
@@ -355,7 +352,7 @@ hash = "509f4a0363cfd02b114009484aac70adaa191c25408e47ff0b52730d2d325f53"
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "bb28aa377dd049cca750c1e6ed45c92c3086946205830ee60e20c8a2e31ef8ff"
+hash = "7d6c942fe4b088583cec12fe806a947e209b402a025b615bab2ef3f341c53f47"
 metafile = true
 
 [[files]]
@@ -369,13 +366,25 @@ hash = "f667c84e98352a3ca2e652425d2f64abbc1ab512beb3a7963099ac8ffd969bfd"
 metafile = true
 
 [[files]]
+file = "mods/polymania-extras-0.0.0.jar"
+hash = "c1d96697d1858d036e34e4eafd5ebf4849c9ec0bc41e251d2fb7e711fb4fe871"
+
+[[files]]
+file = "mods/polymania-extras-0.4.0-pre.2.jar"
+hash = "2e225c0f918f0c6110caa0dbe7605aaf9cb8c421855e6d8fa5835058cd697a9f"
+
+[[files]]
+file = "mods/polymania-extras-0.4.0.jar"
+hash = "df076448e66624a2dd4be9e7cba1d08b1239fe50f9215ae44441b288f6e5760d"
+
+[[files]]
 file = "mods/polymer-qol.pw.toml"
-hash = "a44d69b0a2c45e25835c11965540e79869b9914c7ee8281582aaeebccc83ae4e"
+hash = "89da2c4bf7e3156fd9763cc93660acd72e60a0ea16e7573f723bee3efbc3a606"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "3347d63f6f2c925eff1944bc409734d494efd5d6afefa11b1679feaa38d84d11"
+hash = "69234480c705f49d08e80eb6630f86f5fc86a989c8b7e8b2e957e496511155e2"
 metafile = true
 
 [[files]]
@@ -394,7 +403,7 @@ hash = "4f620b591e266e448e892be4a575e473ca585f85ce1951d7bd42a7649281fdce"
 
 [[files]]
 file = "mods/restart-detector.pw.toml"
-hash = "fbfabc27dafbe0db09299aa7d34fbab5c6dde68cafa74951e398a125fe817307"
+hash = "b1883f45e3979c7443d92c3a4dbecbc53f91b8a47bdeec3e0e352272b27b1d17"
 metafile = true
 
 [[files]]
@@ -405,11 +414,6 @@ metafile = true
 [[files]]
 file = "mods/simple-resource-loader.pw.toml"
 hash = "898ed168073d22ebec4574565edf34d5d38c87e7ae9d43c6ed56bdac5be5d005"
-metafile = true
-
-[[files]]
-file = "mods/simple-server-links.pw.toml"
-hash = "e53b6150085dd31de4de433ab6b30b81cec1f926b72a0a17445ed3bf661e00ee"
 metafile = true
 
 [[files]]
@@ -459,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "dc59b5f4ae8eba57e45c0e168c4242e570a3504fa699858b332595a4adbedfd4"
+hash = "0892b6bb16cc7f0c2f8f77b63f1b0cf67f9221fee301b3e547bd508eb7ed9eba"
 metafile = true
 
 [[files]]
@@ -543,6 +547,14 @@ file = "polymer/override_assets/assets/minecraft/textures/block/moss_side_overla
 hash = "ea616d03bb9279d2c40dce277d374ecb29dfdfa6124c3dd3c51f7cbe1812ca3d"
 
 [[files]]
+file = "polymer/override_assets/assets/minecraft/textures/gui/sprites/dialog/warning_button.png"
+hash = "2c5fe2e6eb5cae71de370006e63f0b6d42dec2c54e6a0207806dd87610ca3e46"
+
+[[files]]
+file = "polymer/override_assets/assets/minecraft/textures/gui/sprites/dialog/warning_button_highlighted.png"
+hash = "a9f030960fe6fffc097f4eca5486e5ef73090a4fbc55259e2839b38b0c9f6679"
+
+[[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
 hash = "90a48944d15b55a10cb430e267de4ebd94dd1191b812c40bccb0b35f81089328"
 
@@ -596,7 +608,7 @@ hash = "dca3688ee051721f9c069773385477aa37d36f853832f50e964476a8c2627894"
 
 [[files]]
 file = "polymer/override_assets/assets/polymania/lang/en_us.json"
-hash = "42e63c5390f97541d00671ae1b3dea9cdfaaf0e0338eb7009e8e09994975bd19"
+hash = "b96da19d0d146667fed42d0c669d441a6f22dea674c5e309b2a6a6a76e004c39"
 
 [[files]]
 file = "polymer/override_assets/assets/polymania/textures/block/televator_side.png"
@@ -6287,8 +6299,24 @@ file = "resources/common/required/polymania/data/minecraft/recipe/saddle.json"
 hash = "7c6dcee2b8372f8da5d998d2215cb5b2f627b4d1e28adcc0e228b784e380040d"
 
 [[files]]
+file = "resources/common/required/polymania/data/minecraft/tags/dialog/pause_screen_additions.json"
+hash = "5921e9e59475c60c55e2bc957903d665c2d0d420ba9a6fb2ab5eb3fa13fe931d"
+
+[[files]]
+file = "resources/common/required/polymania/data/minecraft/tags/dialog/quick_actions.json"
+hash = "13c072f2b8f42df2076d78f6cffc421e90154b1017d16e511b949c0e6d6c74e9"
+
+[[files]]
 file = "resources/common/required/polymania/data/minecraft/tags/item_old/villager_plantable_seeds.json"
 hash = "b68c220d14b23788aea18f003c8db0258012b9a6c836b5b7377ad07145e1456d"
+
+[[files]]
+file = "resources/common/required/polymania/data/polymania/dialog/pause_screen_additions.json"
+hash = "dde1a96e58b86312ec82e8812d9e22001101fcbb8129f06eee16e768c2107a08"
+
+[[files]]
+file = "resources/common/required/polymania/data/polymania/dialog/quick_actions.json"
+hash = "f2cb01910ac3b1d2f92981ab6694ff14000dce808518bca25a01f19f360bf961"
 
 [[files]]
 file = "resources/common/required/polymania/data/polymania/jsonpatch/biome/desert_like.jsonpatch"
