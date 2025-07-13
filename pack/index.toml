@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "504bf014c7019994668d1cdcbfbfb797cb39318b9ff0890174ef513cf74167b3"
+hash = "89d733c85331f06cdc9c8069b3903aa9df78baa270ffb09d792a28ec2bd911fa"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -42,7 +42,7 @@ hash = "4260e305f03f59f16d59ebd2fca78d255ad2e5aa0a63c8d61ff17b6104d2e7df"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "60a11660a46529d05166e61b62226b38d606e9d0eb12a453b1db7b7369f86f01"
+hash = "d766d7955bcbf4faf41bb993260f0eb191050d298a8a6ad4b3ed11ff1b7f1e88"
 
 [[files]]
 file = "config/polymer/server.json"

@@ -2,7 +2,7 @@
 VER="$(cat version.txt)"
 echo $VER
 
-VERSION_FILE=("pack.toml" "config/simpleupdatechecker_modpack.json", "resources/common/required/polymania/data/polymania/dialog/changelog.json")
+VERSION_FILE=("pack.toml" "config/simpleupdatechecker_modpack.json")
 
 ./updatemod.sh
 

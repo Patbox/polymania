@@ -5,7 +5,7 @@
 </center>
 
 # Welcome to Polymania!
-Polymania is a Fabric Server-Side modpack, which main goal is to provide classic modded experience, while being easy to install and use. 
+Polymania is a kitchen-sinky, Fabric Server-Side modpack, which main goal is to provide the classic modded experience, while being easy to install and use.
 It's ideal for server you want to play on with your friends, as the only thing needed is a place to host it and vanilla Minecraft client!
 
 This modpack is contains:
@@ -13,6 +13,9 @@ This modpack is contains:
 - Many new decorative and building blocks blocks for builders from furniture to new bricks and stones! Provided by [PolyDecorations](https://modrinth.com/mod/polydecorations), [(modified) Blockus](https://modrinth.com/mod/blockus) and others.
 - New biomes and structures, thanks to mods and datapacks such as [Cliff under a Tree](https://modrinth.com/datapack/clifftree), [(modified) Traverse](https://modrinth.com/mod/traverse), [(modified) Cinderscape](https://modrinth.com/mod/cinderscape) and more.
 - New mobs, friendly and aggresive, by [Tom's Mobs](https://modrinth.com/mod/toms-mobs) and [Illager Expansion Recrafted](https://modrinth.com/mod/illager-expansion-polymer)
+- Programmable computers from [ComputerCraft](https://modrinth.com/mod/cc-tweaked), modified to work server side.
+- New plants and food types, provided by [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated) and others.
+
 - And more!
 
 ![](https://cdn.modrinth.com/data/gDvfyRyQ/images/ab761c937dbc68f334549d61b9cae809266b90b8.png)
