@@ -9,6 +9,11 @@
     "resources/common/required/DarkPaintings.zip",
     "resources/common/required/patbox-translations-2025-04-10.zip"
   ],
+  "prevent_path_with": [
+	"assets/cinderscapes/sounds/music/",
+	"assets/enderscape/sounds/",
+	"assets/cinderscapes/textures/gui/panorama/"
+  ],
   "resource_pack_location": "polymer/resource_pack.zip",
   "ignore_pack_version": true,
   "log_errors": false

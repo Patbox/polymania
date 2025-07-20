@@ -1,0 +1,7 @@
+name = "enderscape-polymer"
+filename = "enderscape-polymer-patch-1.0.8.0+1.21.7.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/pR93ykIA/versions/vE08xbwr/enderscape-polymer-patch-1.0.8.0%2B1.21.7.jar"
+hash-format = "sha256"
+hash = "c8503ed7f6e75a0f63874daba38e2d88416825f868d31b16cd52a497a1263829"

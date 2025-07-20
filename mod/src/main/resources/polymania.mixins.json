@@ -1,11 +1,12 @@
 {
-	"required": true,
-	"package": "eu.pb4.polymania.mixin",
-	"compatibilityLevel": "JAVA_21",
-	"mixins": [
-		"ServerCommonNetworkHandlerMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
+  "required": true,
+  "package": "eu.pb4.polymania.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "DefaultRPBuilderAccessor",
+    "ServerCommonNetworkHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
 	}
 }

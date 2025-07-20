@@ -1,13 +1,13 @@
 name = "PolyDecorations"
-filename = "polydecorations-0.8.1+1.21.7.jar"
+filename = "polydecorations-0.8.2+1.21.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5710VC7f/versions/3zlwOAMT/polydecorations-0.8.1%2B1.21.7.jar"
+url = "https://cdn.modrinth.com/data/5710VC7f/versions/7zmMSt4t/polydecorations-0.8.2%2B1.21.7.jar"
 hash-format = "sha512"
-hash = "eb83eb53c6ae28c2befcf8ec77d35c65ed07c3106b55c796aa38bf36be767491c3435701db6b9cf239a64dde125b413b5d9a2238adab40731031cfee9727d684"
+hash = "b502b881cbfb17cea94b10cb2aa9b1620c5a900ce47573bdcdff37d9c5550d61d467d6422106919ad6bd2f6ef8ac5d7bc43d131fb94544fb400432b13c87757c"
 
 [update]
 [update.modrinth]
 mod-id = "5710VC7f"
-version = "3zlwOAMT"
+version = "7zmMSt4t"

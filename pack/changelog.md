@@ -1,3 +1,36 @@
+# 0.4.1:
+- Updated to 1.21.8 (purely visual thing, as it's fully compatible with 1.21.7 clients)
+- Added Enderscape: https://modrinth.com/mod/enderscape
+  - Enderscape is a overhaul of the End dimension, featuring new world generation, biomes, and many other additions.
+  - This mod is handled via Polymer Patch for Enderscape: https://modrinth.com/mod/enderscape-polymer (might not be public yet)
+  - While not strictly needed, I would suggest resetting The Ends world data so it can generate fresh. 
+  - You can do it by removing the world/DIM-1 folder, through make sure to backup first!
+- Added Lovely Snails: https://modrinth.com/mod/lovely_snails
+  - Lovely Snails adds a new entity: the snails. Snails are cute little creatures which can be tamed by players.
+  - Once a snail is tamed with mushrooms, they can have a cute little decor using carpets. If it's well taken care of it mays grow into a big snail.
+  - Big snails can be ridden, they also can be equipped with chests to offer an inventory. They also can equip an Ender Chest to offer a portable Ender Chest.
+  - This mod is handled via Polymer Patch for Lovely Snails: https://modrinth.com/mod/lovely-snails-polymer (might not be public yet)
+- Split the server resource pack into two:
+  - Main one - constains most of the assets.
+  - Sounds/Music - contains sounds and music from Enderscape and Cinderscapes mods.
+  - This change should allow for making future update require smaller downloads, as long as only main pack changes.
+- Fixed running the modpack on the client.
+- Updated PolyDecorations (0.8.1+1.21.7 -> 0.8.2+1.21.7)
+- Updated CC: Tweaked (1.21.7-fabric-1.116.1 -> 1.21.8-fabric-1.116.1)
+- Updated Lithium (0.18.0+mc1.21.7.jar -> 0.18.0+mc1.21.8)
+- Updated Extended Drawers (4.2.0+mc.1.21.6.jar -> 4.2.1+mc.1.21.6)
+- Updated KleeSlabs (1.21.7-21.7.1.jar -> 1.21.8-21.8.1)
+- Updated PolyChess (1.21.7-0.2 -> 1.21.8-0.2)
+- Updated Televator (1.2.4 -> 1.2.5)
+- Updated Leaves Us In Peace (1.9.1+MC1.21.6-1.21.7 -> 1.9.2+MC1.21.6-1.21.8)
+- Updated Fabric API (0.129.0+1.21.7.jar -> 0.129.0+1.21.8)
+- Updated Polymer (0.13.6+1.21.7.jar -> 0.13.8+1.21.8)
+- Updated Balm (1.21.7-21.7.2.jar -> 1.21.8-21.8.3)
+- Updated TerraBlender (1.21.7-6.0.0.2 -> 1.21.8-6.0.0.3)
+- Updated Forge Config API Port (v21.7.0-1.21.7-Fabric -> v21.8.0-1.21.8-Fabric)
+- Updated forked versions of Cinderscapes, Terrestria to current latest upstream.
+- Added YetAnotherConfigLib (Library)
+
 # 0.4.0:
 - Provided Quick Actions when pressing G button. Currently provides:
   - Polydex - opens Polydex it.
@@ -114,7 +147,6 @@
 - Removed ViaFabric and ViaVersion:
   - No longer needed.
 - Removed Necronomicon API (it wasn't used anyway)
-  
 
 # 0.3.0-beta.2:
 - Added ViaVersion and ViaFabric:
@@ -141,7 +173,6 @@
 - Updated Fabric API (0.117.0+1.21.4 -> 0.119.2+1.21.4)
 - Updated Fabric Language Kotlin (1.13.1+kotlin.2.1.10 -> 1.13.2+kotlin.2.1.20)
 
-
 # 0.3.0-beta.1:
 - Updated to 1.21.4
 - Updated ALL mods. Won't put them all here as it's just too many.
@@ -167,7 +198,6 @@
   - Server Ui Fix - Better fix implemented in Polymer
   - This Rocks Polymer - Merged into This Rocks!
 
-
 # 0.2.1:
 - You can now join the modpack server with 1.21.2/3.
   - While it should faily playable, there might be some issues/bugs related to that, as features/behaviour between these versions have some differences. 
@@ -192,7 +222,6 @@
 - Updated TerraBlender (4.1.0.3 -> 4.1.0.4)
 - Updated Balm (1.21.1 -> 1.21.1)
 - Updated Fabric Language Kotlin (1.12.2+kotlin.2.0.20 -> 1.12.3+kotlin.2.0.21)
-
 
 # 0.2.0:
 - Changed texture and recipe of Televator. Now it's styled more like PolyFactory blocks.

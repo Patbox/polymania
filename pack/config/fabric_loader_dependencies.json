@@ -71,6 +71,21 @@
 			"-depends": {
 				"minecraft": "IGNORED"
 			}
+		},
+		"enderscape": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			}
+		},
+		"farmersdelight": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			}
+		},
+		"leaves_us_in_peace": {
+			"-depends": {
+				"minecraft": "IGNORED"
+			}
 		}
 	}
 }

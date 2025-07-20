@@ -1,6 +1,6 @@
 package eu.pb4.polymania.mixin;
 
-import eu.pb4.polymania.PolymaniaDialogs;
+import eu.pb4.polymania.dialog.PolymaniaDialogs;
 import net.minecraft.nbt.NbtCompound;
 import net.minecraft.network.packet.Packet;
 import net.minecraft.network.packet.c2s.common.CustomClickActionC2SPacket;

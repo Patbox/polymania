@@ -1,13 +1,13 @@
 name = "PolyChess"
-filename = "polychess-1.21.7-0.2.jar"
+filename = "polychess-1.21.8-0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/n4KHrvqn/versions/fpfWN7gW/polychess-1.21.7-0.2.jar"
+url = "https://cdn.modrinth.com/data/n4KHrvqn/versions/KeK8HDPM/polychess-1.21.8-0.2.jar"
 hash-format = "sha512"
-hash = "ae71012a92cbd940ad0484c468aead0032d2abf494923d547b3e9e8bca770952006661cbc1cc7b86f29fe5871b1a5dc133b84a5a1357e37a23812570a4bed9ac"
+hash = "57d1ee9ea8ff3fb4ff450e791e091f5c0a36df9ee309ae1fd175d2a7673c6cc463efad5675e23abcff5aad8068c196a62ac6c2a7c6aa9b5a9ad93bbb8eea4359"
 
 [update]
 [update.modrinth]
 mod-id = "n4KHrvqn"
-version = "fpfWN7gW"
+version = "KeK8HDPM"

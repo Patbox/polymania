@@ -1,4 +1,4 @@
-package eu.pb4.polymania;
+package eu.pb4.polymania.dialog;
 
 import eu.pb4.placeholders.api.node.DirectTextNode;
 import eu.pb4.placeholders.api.node.LiteralNode;
