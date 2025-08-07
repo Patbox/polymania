@@ -1,15 +1,39 @@
+# 0.4.2:
+- Added Friends&Foes: https://modrinth.com/mod/friends-and-foes
+  - Friends&Foes adds outvoted and forgotten mobs from the mob vote. 
+  - One of it's main goals is to further expand upon original concepts and add new vanilla-like features related to all the mobs.
+  - This mod is handled via Polymer Patch for Friends&Foes: https://modrinth.com/mod/friends-and-foes-polymer
+- Added mini-vfx: https://modrinth.com/mod/mini-vfx
+  - Serverside visual effects for dropped items and small particle effects for campfires, jukeboxes and torches!
+- Tweaked visuals of The End:
+  - Lighting is now darker, matching a bit more with Enderscape's default look.
+  - Changed the End Sky texture to be darker and bit smoother.
+- Updated Polymer Patch for Enderscape (1.0.8.0+1.21.7 -> 1.0.8.2+1.21.7):
+  - Fixed drift physics not being applied.
+  - Added particles when using Rubble Shield to match it closer to client version.
+  - Fixed client only crash.
+- Updated Clumps (1.21.7-25.0.0.1 -> 1.21.8-26.0.0.1)
+- Updated Farmer's Delight Refabricated (1.21.7-3.2.4+refabricated -> 1.21.8-3.2.5+refabricated)
+- Updated FSit (2.7.10+mc1.21.6 -> 2.7.12+mc1.21.6)
+- Updated Polymer (0.13.8+1.21.8 -> 0.13.9+1.21.8)
+- Updated Balm (1.21.8-21.8.3 -> 1.21.8-21.8.5)
+- Updated Architectury API (17.0.6-fabric -> 17.0.8-fabric)
+- Updated spark (1.10.140-fabric -> 1.10.142-fabric)
+- Updated Fabric API (0.129.0+1.21.8 -> 0.131.0+1.21.8)
+- Fixed Moss Carpet being culled when it shouldn't.
+
 # 0.4.1:
 - Updated to 1.21.8 (purely visual thing, as it's fully compatible with 1.21.7 clients)
 - Added Enderscape: https://modrinth.com/mod/enderscape
   - Enderscape is a overhaul of the End dimension, featuring new world generation, biomes, and many other additions.
-  - This mod is handled via Polymer Patch for Enderscape: https://modrinth.com/mod/enderscape-polymer (might not be public yet)
+  - This mod is handled via Polymer Patch for Enderscape: https://modrinth.com/mod/enderscape-polymer
   - While not strictly needed, I would suggest resetting The Ends world data so it can generate fresh. 
   - You can do it by removing the world/DIM-1 folder, through make sure to backup first!
 - Added Lovely Snails: https://modrinth.com/mod/lovely_snails
   - Lovely Snails adds a new entity: the snails. Snails are cute little creatures which can be tamed by players.
   - Once a snail is tamed with mushrooms, they can have a cute little decor using carpets. If it's well taken care of it mays grow into a big snail.
   - Big snails can be ridden, they also can be equipped with chests to offer an inventory. They also can equip an Ender Chest to offer a portable Ender Chest.
-  - This mod is handled via Polymer Patch for Lovely Snails: https://modrinth.com/mod/lovely-snails-polymer (might not be public yet)
+  - This mod is handled via Polymer Patch for Lovely Snails: https://modrinth.com/mod/lovely-snails-polymer
 - Split the server resource pack into two:
   - Main one - constains most of the assets.
   - Sounds/Music - contains sounds and music from Enderscape and Cinderscapes mods.
@@ -17,15 +41,15 @@
 - Fixed running the modpack on the client.
 - Updated PolyDecorations (0.8.1+1.21.7 -> 0.8.2+1.21.7)
 - Updated CC: Tweaked (1.21.7-fabric-1.116.1 -> 1.21.8-fabric-1.116.1)
-- Updated Lithium (0.18.0+mc1.21.7.jar -> 0.18.0+mc1.21.8)
-- Updated Extended Drawers (4.2.0+mc.1.21.6.jar -> 4.2.1+mc.1.21.6)
-- Updated KleeSlabs (1.21.7-21.7.1.jar -> 1.21.8-21.8.1)
+- Updated Lithium (0.18.0+mc1.21.7 -> 0.18.0+mc1.21.8)
+- Updated Extended Drawers (4.2.0+mc.1.21.6 -> 4.2.1+mc.1.21.6)
+- Updated KleeSlabs (1.21.7-21.7.1 -> 1.21.8-21.8.1)
 - Updated PolyChess (1.21.7-0.2 -> 1.21.8-0.2)
 - Updated Televator (1.2.4 -> 1.2.5)
 - Updated Leaves Us In Peace (1.9.1+MC1.21.6-1.21.7 -> 1.9.2+MC1.21.6-1.21.8)
-- Updated Fabric API (0.129.0+1.21.7.jar -> 0.129.0+1.21.8)
-- Updated Polymer (0.13.6+1.21.7.jar -> 0.13.8+1.21.8)
-- Updated Balm (1.21.7-21.7.2.jar -> 1.21.8-21.8.3)
+- Updated Fabric API (0.129.0+1.21.7 -> 0.129.0+1.21.8)
+- Updated Polymer (0.13.6+1.21.7 -> 0.13.8+1.21.8)
+- Updated Balm (1.21.7-21.7.2 -> 1.21.8-21.8.3)
 - Updated TerraBlender (1.21.7-6.0.0.2 -> 1.21.8-6.0.0.3)
 - Updated Forge Config API Port (v21.7.0-1.21.7-Fabric -> v21.8.0-1.21.8-Fabric)
 - Updated forked versions of Cinderscapes, Terrestria to current latest upstream.

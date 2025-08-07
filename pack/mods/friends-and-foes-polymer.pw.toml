@@ -1,0 +1,13 @@
+name = "Polymer Patch for Friends&Foes"
+filename = "friends-and-foes-patch-4.0.8-0+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/67luhYti/versions/gqswEfiB/friends-and-foes-patch-4.0.8-0%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "41b6f6c69b29b8ad14966b31de88e14a105da1a1f25ea03fbf2e475f67c76b6868921f66d1b53125093df971ee673df3c896e6af9f8a2d694e0eb486156359a5"
+
+[update]
+[update.modrinth]
+mod-id = "67luhYti"
+version = "gqswEfiB"

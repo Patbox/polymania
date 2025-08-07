@@ -1,0 +1,46 @@
+{
+  "hurt-effect": false,
+  "item": {
+    "enabled": true,
+    "use-resource-pack": true,
+    "always-use-model": false
+  },
+  "cow": {
+    "milk": true,
+    "shear": true,
+    "soup": true
+  },
+  "sheep": {
+    "shear": true
+  },
+  "torch": {
+    "enabled": true
+  },
+  "campfire": {
+    "enabled": true,
+    "soul-particles": true
+  },
+  "jukebox": {
+    "enabled": true
+  },
+  "explosion": {
+    "enabled": false
+  },
+  "arrow": {
+    "trail": false
+  },
+  "item-rarities": {
+    "uncommon": {
+      "show-particles": true
+    },
+    "epic": {
+      "show-particles": true
+    },
+    "rare": {
+      "show-particles": true
+    },
+    "common": {
+      "show-particles": false
+    }
+  }
+}
