@@ -1,0 +1,13 @@
+name = "Simply Slingshot"
+filename = "simply-slingshot-0.1.2+1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/msOhd0jl/versions/BwW0oaf8/simply-slingshot-0.1.2%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "abbde8a713b35ea1c97ed9d6320955bf519cbb40d400098d90120c05607f13e4695f92da3eda08faeb08bc1edeef0d62f61a27331134577c5615eef56d2e0818"
+
+[update]
+[update.modrinth]
+mod-id = "msOhd0jl"
+version = "BwW0oaf8"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "c1a301a2a290b5b1df7d7501507744955b01bdd6676b2f85d76e258f10cfa723"
+hash = "2843fdb57d8c7cbe6190d10cb72d0e82a504a6aa582d8381fa2c940898381b70"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "ebe4ab6b6dffa5f8a8314b530434a5ea056ab85fbc281ef3e7dbc5d5125dab39"
+hash = "47470401b73b49016c2ccb9861a0dcdb5b5a14b0ac47bc1c3d8c76de6f900314"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/enderscape.pw.toml"
-hash = "f8ce884585aa52433bf4ecc7982e1d7277375a00d67802aa57992cc728e2f8aa"
+hash = "6f85924ad85cd716dd2b555ccffec6eee2effd7f32731a90738c3fd365c43c80"
 metafile = true
 
 [[files]]
@@ -260,17 +260,17 @@ hash = "d6d8d16a584c2656c0dd70fe288e6330369567badccd7a7cdbaa57210876a52e"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "59acfaf613f3df57ed4934a25e991e7f74751c19494be2e53d5eb86f6c659ced"
+hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-polymer.pw.toml"
-hash = "0f1719c4d5dc0e849d73e7b6e42df6e8e95069c2a6041d5873d9c6f43edef15e"
+hash = "62645d4ad70b88a5edd31c3cd57d2698cb55d5be1152cc14b97e86aa805474f3"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "5508cbb5baea21c043ccbb3e1601cea4c549b2d053f1b69911bd0f8b8a482cf1"
+hash = "394fccfd7886048a56c7d855e8870a589d80633204c1a3e80f2074cc96ebea5c"
 metafile = true
 
 [[files]]
@@ -320,12 +320,12 @@ metafile = true
 
 [[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
-hash = "06e98b925775e7415b806c65c89f48fe71872015f293d68ff371a5b39dfe9b39"
+hash = "267a93e944251ab13193333eeefcd361909d0904c07139911ccf3e21f54448cb"
 metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "51e5a5da04abd645b78563cdb5f5eeafd08f0cc4f3f9858d824768201c3c6cd6"
+hash = "96fd304b274ce1ce925abb554018950c2b206f9a1ede609e9ad1dba8320d8030"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/nightosphere.pw.toml"
-hash = "6b676db800678b674f63765ed57105823d20cea4c360df7a3a88113ef5c6dac4"
+hash = "efab624bab38dcbf516cf364615a65f063e047d90015c878d4d6b9494e4c77b3"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/polychess.pw.toml"
-hash = "e1907a7cacba37a313875cb43289d0bf48e4f0d8351ff23db45432cf011c9fa5"
+hash = "2eab67ab57753fcd1d1643145c0bc5d74d002fa32e21c744b58fb1a558eb743d"
 metafile = true
 
 [[files]]
@@ -399,7 +399,7 @@ hash = "509f4a0363cfd02b114009484aac70adaa191c25408e47ff0b52730d2d325f53"
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "990e16c52dab0c5549ecef3af7355b246cce0afb35cfc7fcc32a8c7ce7abb9ca"
+hash = "e3e514b066dfc484fbaccfe4eb8695a71bf87607b00bb9167b636ef4bc0008c2"
 metafile = true
 
 [[files]]
@@ -413,17 +413,17 @@ hash = "f667c84e98352a3ca2e652425d2f64abbc1ab512beb3a7963099ac8ffd969bfd"
 metafile = true
 
 [[files]]
-file = "mods/polymania-extras-0.4.2.jar"
-hash = "7a1b02dfafeda2c1c1f89f15efba13500195d4ff4dd23c10315572a78c62afa5"
+file = "mods/polymania-extras-0.4.3.jar"
+hash = "5f8dc1f091762da6e65d04ee524f1d4429604f1fe9eccae0dd87355778486333"
 
 [[files]]
 file = "mods/polymer-qol.pw.toml"
-hash = "89da2c4bf7e3156fd9763cc93660acd72e60a0ea16e7573f723bee3efbc3a606"
+hash = "d868bf50bf64b0e7aa5b74306208f67853f39072a8200fe5c547b29852cdac1b"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "4dbc16e5dc8114c6bfb5b1b1c0dce15798a3adc81083fdf1482af989a6c10170"
+hash = "8064a82db4ef2fefd51bb139f3ca013015392e6ad3ae1f7eabadef87378dac9b"
 metafile = true
 
 [[files]]
@@ -463,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/simple-update-checker.pw.toml"
 hash = "4e139d3106d1ea1f01c528c952d6f23358584a31bb5741b60cda7b3a36762a76"
+metafile = true
+
+[[files]]
+file = "mods/simply-slingshot.pw.toml"
+hash = "f126b133da078f07cd6a74c550e9cbe370d4cd74fb25f26a44b031e4f8b85506"
 metafile = true
 
 [[files]]

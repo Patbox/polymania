@@ -1,3 +1,24 @@
+# 0.4.3:
+- Added Simply Slingshot: https://modrinth.com/mod/simply-slingshot
+  - Adds Slingshot and connected to it enchantments to the game!
+  - Slingshot is a weapon, that can be used to shoot any kind of item. 
+  - While it prioritizes items in your hand, it can take any one of them that's currently on your hotbar.
+  - In most cases it's damage output and range will be limited, through select items might give you some special effects that.
+- Updated PolyDecorations (0.8.2+1.21.7 -> 0.8.3+1.21.8): https://modrinth.com/mod/polydecorations/changelog
+- Updated Cliff under a Tree (CliffTree) (2.2.1 -> 2.2.3)
+- Updated Enderscape (1.0.8+mc1.21.7 -> 1.0.9+mc1.21.8)
+- Updated PolyChess (1.21.8-0.2 -> 0.1.3+1.21.6)
+- Updated Illager Expansion Recrafted (1.7.0+1.21.6 -> 1.7.1+1.21.8)
+- Updated KleeSlabs (1.21.8-21.8.1 -> 1.21.8-21.8.2)
+- Updated Polymer Patch for Farmer's Delight (3.2.3.0+1.21.6 -> 3.2.5.0+1.21.8)
+- Updated Fabric Language Kotlin (1.13.4+kotlin.2.2.0 -> 1.13.5+kotlin.2.2.10)
+- Updated Fabric API (0.131.0+1.21.8 -> 0.132.0+1.21.8)
+- Updated Polymer (0.13.9+1.21.8 -> 0.13.11+1.21.8)
+- Updated Polymer - Quality of Life (1.0.1+1.21.7 -> 1.0.2+1.21.7)
+- Updated FSit (2.7.12+mc1.21.6 -> 2.8.0+mc1.21.6)
+- Updated Nightosphere (2.0 -> 2.1)
+- Fixed armor items not having a model when run on client.
+
 # 0.4.2:
 - Added Friends&Foes: https://modrinth.com/mod/friends-and-foes
   - Friends&Foes adds outvoted and forgotten mobs from the mob vote. 
