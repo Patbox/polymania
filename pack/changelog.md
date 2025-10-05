@@ -1,3 +1,30 @@
+# 0.4.4:
+- Added ViaVersion and ViaFabric:
+  - Allows you to play with 1.21.9/10 client on server running this modpack.
+  - Will be removed when pack updates to 1.21.10.
+- Updated PolyFactory (0.8.0+1.21.6 -> 0.8.2+1.21.8): https://modrinth.com/mod/polyfactory/changelog
+- Updated Enderscape (1.0.9+mc1.21.8 -> 1.1.0+mc1.21.8): https://modrinth.com/mod/enderscape/changelog
+- Updated Farmer's Delight Refabricated (1.21.8-3.2.5+refabricated -> 1.21.8-3.3.0+refabricated): https://modrinth.com/mod/farmers-delight-refabricated/changelog
+- Updated Toms Mobs (2.3.0+1.21.6 -> 2.4.2+1.21.6): https://modrinth.com/mod/toms-mobs/changelog
+- Updated Friends&Foes (Fabric/Quilt) (4.0.8+mc1.21.8 -> 4.0.10+mc1.21.8)
+- Updated Simply Slingshot (0.1.2+1.21.8 -> 0.1.3+1.21.8)
+- Updated FarmTweaks (1.5 -> 1.6)
+- Updated PolyDecorations (0.8.3+1.21.8 -> 0.8.4+1.21.8)
+- Updated Banner Text (1.3.3 -> 1.4.0)
+- Updated Forge Config API Port (v21.8.0-1.21.8 -> v21.8.1-1.21.8-Fabric)
+- Updated Polymer Patch for Friends&Foes (4.0.8-0+1.21.8 -> 4.0.10-0+1.21.8)
+- Updated Polymer Patch for Enderscape (1.0.8.2+1.21.7 -> 1.1.0.2+1.21.8)
+- Updated Polymer Patch for Farmer's Delight (3.2.5.0+1.21.8 -> 3.3.0.0+1.21.8)
+- Updated FSit (2.8.0+mc1.21.6 -> 2.8.1+mc1.21.6)
+- Updated Polymer (0.13.11+1.21.8 -> 0.13.13+1.21.8)
+- Updated Fabric API (0.132.0+1.21.8 -> 0.134.0+1.21.8)
+- Updated Fabric Language Kotlin (1.13.5+kotlin.2.2.10 -> 1.13.6+kotlin.2.2.20)
+- Updated Balm (1.21.8-21.8.5.j -> 1.21.8-21.8.9)
+- Updated Lithium (0.18.0+mc1.21.8 -> 0.18.1+mc1.21.8)
+- Updated Text Placeholder API (2.7.1+1.21.6 -> 2.7.2+1.21.8)
+- Updated Fabric Loader (0.16.14 -> 0.17.2)
+- Reverted The End lighting change, as it was broken when playing on 1.21.9
+
 # 0.4.3:
 - Added Simply Slingshot: https://modrinth.com/mod/simply-slingshot
   - Adds Slingshot and connected to it enchantments to the game!

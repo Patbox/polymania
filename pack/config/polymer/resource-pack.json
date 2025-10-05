@@ -15,6 +15,6 @@
 	"assets/cinderscapes/textures/gui/panorama/"
   ],
   "resource_pack_location": "polymer/resource_pack.zip",
-  "ignore_pack_version": true,
+  "ignore_pack_version": false,
   "log_errors": false
 }

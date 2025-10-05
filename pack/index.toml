@@ -2,7 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "2843fdb57d8c7cbe6190d10cb72d0e82a504a6aa582d8381fa2c940898381b70"
+hash = "be66665065a78a3e05b10f77a155bc4c44d18152de043898a8116e4015afdaef"
+
+[[files]]
+file = "config/ViaFabric/viafabric.yml"
+hash = "a70a7f72bf4163e6c2a64a5c5c1bfb45a383b16a6d87c5c7c2feea285c261c5e"
+
+[[files]]
+file = "config/ViaFabric/viaversion.yml"
+hash = "53026408ad8a8bb52ed0ccccc664f31e7fc61e3d185fb239f9dc2a0cbbc04e6c"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -54,7 +62,7 @@ hash = "4260e305f03f59f16d59ebd2fca78d255ad2e5aa0a63c8d61ff17b6104d2e7df"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "04ef9bfaa1b2e820c35c51585628b88bdf1b5827d1495d6c2bdcb9f8c192e528"
+hash = "9098e8cf2d29adfa0912d055129d79446bfe68a50455efe1c1f98676a879f800"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -118,7 +126,7 @@ hash = "ebfd8e954a9ccb5b9a7e3c1bff0e01c8d159e5b9664268999eb3385df96ed19d"
 
 [[files]]
 file = "mods/PolyMc-5.7.0-rev.7c6bdcd-dirty+1.21.7.jar"
-hash = "117ad5887c2e2165cef148a9f84239ed0ba48db7ef287a05217461f44b92cd10"
+hash = "93a06f77278ae4ee2e799593a8cfc9706a5f6a7ce85a25697d74eefbfc92a6d3"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -147,12 +155,12 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "0fb3ed7eaa615380d4d7844f0225f4ec4a6509cdfe01920387ed7b2bd923e4d7"
+hash = "41e6890a099b1c7b9739b83b483833ff2509a164158b5f802778433b5a5f44f9"
 metafile = true
 
 [[files]]
 file = "mods/banner-text.pw.toml"
-hash = "aaaeea5e1d83da59678f23cfe6927ab674edbe8f5a5326b9a5e62a7678b505e5"
+hash = "4520322e2dfe05a4fc20bab367c245333490926e33023bb905b0e493fc4618ff"
 metafile = true
 
 [[files]]
@@ -231,12 +239,12 @@ metafile = true
 
 [[files]]
 file = "mods/enderscape-polymer.pw.toml"
-hash = "04f427a75902c324080af4d184bfd64ff90e1366384bba854414e1ea3cf2a83f"
+hash = "c0a5e00694555503233c327f3e9fe6fcee2bd96c645545357699de13d32ad2ae"
 metafile = true
 
 [[files]]
 file = "mods/enderscape.pw.toml"
-hash = "6f85924ad85cd716dd2b555ccffec6eee2effd7f32731a90738c3fd365c43c80"
+hash = "bba174c9d1641d95e3c40375b23e8827312cfda748eaa0628641362f71d3493b"
 metafile = true
 
 [[files]]
@@ -260,27 +268,27 @@ hash = "d6d8d16a584c2656c0dd70fe288e6330369567badccd7a7cdbaa57210876a52e"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "17d4083ec0d10cc2f5ca3a750b864dff5def75aa6c71f434ab701e2123e1b02c"
+hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-polymer.pw.toml"
-hash = "62645d4ad70b88a5edd31c3cd57d2698cb55d5be1152cc14b97e86aa805474f3"
+hash = "3e565e9dc3c5da0ee2dec97d71d6709a933825cdd1b01dec78c3948c0c59504a"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "470e91911a37bdc3f8c329c07aec8e3028e0a0df95a997fb092696ec95c20275"
+hash = "a3bf7d389cdc6d60cde9c2c0d9fb959033feeaf6bc3ac6213b615d91dab4689c"
 metafile = true
 
 [[files]]
 file = "mods/farmtweaks.pw.toml"
-hash = "04085e59abe00026f6bc0deb8606ba6dd3f28b8c35b28d3db538612964c826fb"
+hash = "bab1e8dfe91f5e9bf11c64ad03eeb46fb48e768b1bda48a8d874e76dcc3c2167"
 metafile = true
 
 [[files]]
@@ -290,22 +298,22 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "bc0907d771d58c31fb8abd1ac78f7892f3ed10aac8525bc930fa4ac671714a04"
+hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-polymer.pw.toml"
-hash = "0f3d4f0c6f1d03724dbc8071078d990433f91ea31c03b828991d13d67cd19e40"
+hash = "933d9d82e20577836b6ab1c9bfcbd92aa34718a5aa2ce5b5074836dfa15b8bfe"
 metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "ccd5a94cd29689647257232f6cb6f8c7318fa546c48f1860784d37a4fde8e1ef"
+hash = "6b49186e857af19c5a91a888b65fa265f837a0a252ad8410d6abea6824e3a3cc"
 metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "394fccfd7886048a56c7d855e8870a589d80633204c1a3e80f2074cc96ebea5c"
+hash = "5cc9346a3b384cdaeeeb4fd70defaf1cc2ca48f842bbc9a0ea631f803e405d2e"
 metafile = true
 
 [[files]]
@@ -335,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e10c94949bb58b8cfa9993a9f60c9283d5858d4d55fc450dbff2953644f45047"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
@@ -385,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
+hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
 
 [[files]]
@@ -399,7 +407,7 @@ hash = "509f4a0363cfd02b114009484aac70adaa191c25408e47ff0b52730d2d325f53"
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "e3e514b066dfc484fbaccfe4eb8695a71bf87607b00bb9167b636ef4bc0008c2"
+hash = "80919413d9243ed2544cedf77737816ca386fac6783b00128c207f1ddb8dd14f"
 metafile = true
 
 [[files]]
@@ -409,12 +417,12 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "f667c84e98352a3ca2e652425d2f64abbc1ab512beb3a7963099ac8ffd969bfd"
+hash = "e9aaa1f6e039a1d586189bc66766426bcdcd7bf8e85599a79977de92c9cb3453"
 metafile = true
 
 [[files]]
-file = "mods/polymania-extras-0.4.3.jar"
-hash = "5f8dc1f091762da6e65d04ee524f1d4429604f1fe9eccae0dd87355778486333"
+file = "mods/polymania-extras-0.4.4.jar"
+hash = "1e8bbe673131538c71c837960ba13c4adf76053bb3a84955bf8670982bf80d05"
 
 [[files]]
 file = "mods/polymer-qol.pw.toml"
@@ -423,7 +431,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "8064a82db4ef2fefd51bb139f3ca013015392e6ad3ae1f7eabadef87378dac9b"
+hash = "c8cc1d7e91aa70a842dad55a649bab3b0f899aa5a2fd191a3a4a44fc6e4e3005"
 metafile = true
 
 [[files]]
@@ -467,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/simply-slingshot.pw.toml"
-hash = "f126b133da078f07cd6a74c550e9cbe370d4cd74fb25f26a44b031e4f8b85506"
+hash = "82cf8470e7210baccc30f4fc9409375512433a19c35e3d88b1814130769e0139"
 metafile = true
 
 [[files]]
@@ -512,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-mobs.pw.toml"
-hash = "0892b6bb16cc7f0c2f8f77b63f1b0cf67f9221fee301b3e547bd508eb7ed9eba"
+hash = "aa2390b134e2800863108ba8a37c23083ef4a25e1ff42c4b32c47c0b88799926"
 metafile = true
 
 [[files]]
@@ -528,6 +536,16 @@ metafile = true
 [[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "b4bf768e9b14ce80c64fd12bfb8939b798cc3cc8c6aa2c10a485fff22d2f7cdb"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "309c5fa53b33422aedf5a06250745d6757eb12edc0a5ee1323525ead0a840dcb"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "6c2cbf2267bd77aa9632ff90ecf7bf9b2b4dd8e0dafcbaa65ee287c61b0a388b"
 metafile = true
 
 [[files]]
@@ -573,8 +591,12 @@ file = "polymer/override_assets/assets/minecraft/models/item/moss_carpet.json"
 hash = "27ce62663f17b05307d1413d9411566d0019b2733233aff87f6a0bd51a7e3473"
 
 [[files]]
-file = "polymer/override_assets/assets/minecraft/shaders/core/lightmap.fsh"
+file = "polymer/override_assets/assets/minecraft/shaders/core/old.lightmap.fsh"
 hash = "25cd259ecacd8d07d44541daf14c2713d28886dad760ab9597c70bf343c45e1b"
+
+[[files]]
+file = "polymer/override_assets/assets/minecraft/textures/block/chain.png"
+hash = "78475cbbd50ec904c8bcbe532df232f2279433dea4436c3a0bf079d67de41691"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/block/moss_side_overlay.png"
