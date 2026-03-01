@@ -1,0 +1,13 @@
+name = "Polymer Patch for CC:Tweaked"
+filename = "cc-tweaked-polymer-patch-1.117.1.0+1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MfXTuV8J/versions/XZujQ2nV/cc-tweaked-polymer-patch-1.117.1.0%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "706c4e24b849faa9b0f62452f69398fb1de52e5264f168bae7b9518a2bd29621252a6e79de332d882b8bc79bff998583ccd54b7aa98647987ae07347f2dce0f2"
+
+[update]
+[update.modrinth]
+mod-id = "MfXTuV8J"
+version = "XZujQ2nV"

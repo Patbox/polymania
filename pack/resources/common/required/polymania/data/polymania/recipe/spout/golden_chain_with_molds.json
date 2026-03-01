@@ -1,0 +1,20 @@
+{
+	"type": "polyfactory:spout/simple",
+	"cooling_ticks": 60.0,
+	"fluid_input": [
+		{
+			"type": "minecraft:gold",
+			"amount": 8000
+		}
+	],
+	"item": {
+		"base": "#polyfactory:mold/chain",
+		"count": 0
+	},
+	"item_damage": 1,
+	"result": {
+		"id": "blockus:golden_chain"
+	},
+	"sound": "polyfactory:block.spout.metal_cooled",
+	"time": 1.3333333333333333
+}

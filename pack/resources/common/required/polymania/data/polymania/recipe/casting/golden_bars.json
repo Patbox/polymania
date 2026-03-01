@@ -1,0 +1,12 @@
+{
+	"type": "polyfactory:casting/simple",
+	"cooling_ticks": 40.0,
+	"fluid_input": {
+		"type": "minecraft:gold",
+		"amount": 30375
+	},
+	"result": {
+		"id": "blockus:golden_bars"
+	},
+	"time": 101.25
+}

@@ -1,0 +1,17 @@
+{
+	"type": "polyfactory:casting/simple",
+	"cooling_ticks": 60.0,
+	"fluid_input": {
+		"type": "minecraft:gold",
+		"amount": 8000
+	},
+	"item": {
+		"base": "#polyfactory:mold/chain",
+		"count": 0
+	},
+	"item_damage": 1,
+	"result": {
+		"id": "blockus:golden_chain"
+	},
+	"time": 26.666666666666668
+}

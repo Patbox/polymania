@@ -1,0 +1,13 @@
+name = "Banner Text"
+filename = "banner-text-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zg8QRuv4/versions/ExMmavnK/banner-text-1.4.2.jar"
+hash-format = "sha512"
+hash = "10981d5dd985f691f901f473095733bd278d516d01f2c6faec7e5633629d3185ab0372588aa0b6848fd30c8f5273a4a2bffd875e234148e0a604b9cc2e059da9"
+
+[update]
+[update.modrinth]
+mod-id = "zg8QRuv4"
+version = "ExMmavnK"

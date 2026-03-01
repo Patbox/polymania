@@ -2,16 +2,15 @@ package eu.pb4.polymania.dialog;
 
 import eu.pb4.placeholders.api.ParserContext;
 import eu.pb4.placeholders.api.parsers.NodeParser;
+import eu.pb4.booklet.api.body.AlignedMessage;
 import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.metadata.Person;
 import net.minecraft.ChatFormatting;
 import net.minecraft.core.Holder;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.nbt.StringTag;
-import net.minecraft.network.chat.ClickEvent;
-import net.minecraft.network.chat.Component;
-import net.minecraft.network.chat.MutableComponent;
-import net.minecraft.network.chat.Style;
+import net.minecraft.network.chat.*;
+import net.minecraft.network.chat.contents.PlainTextContents;
 import net.minecraft.resources.Identifier;
 import net.minecraft.server.dialog.ActionButton;
 import net.minecraft.server.dialog.CommonButtonData;
@@ -21,6 +20,7 @@ import net.minecraft.server.dialog.DialogAction;
 import net.minecraft.server.dialog.MultiActionDialog;
 import net.minecraft.server.dialog.NoticeDialog;
 import net.minecraft.server.dialog.action.StaticAction;
+import net.minecraft.server.dialog.body.DialogBody;
 import net.minecraft.server.dialog.body.PlainMessage;
 import net.minecraft.util.Util;
 
@@ -149,28 +149,63 @@ public class PolymaniaDialogs {
 				var color = isLatest[0] ? "<gold>" : "<yellow>";
 				isLatest[0] = false;
                 return Stream.of(
-                        "<gray>-------------------------</>\n",
-                        "<b>" + color + x.substring(2, x.length() - 1) + "</></>\n",
-                        "<gray>-------------------------</>\n"
+                        "$$$center$$$",
+                        "<gray>-------------------------</>",
+                        "<b>" + color + x.substring(2, x.length() - 1) + "</></>",
+                        "<gray>-------------------------</>",
+                        "$$$left$$$"
                 );
             }
-            if (x.startsWith("- ")) {
-                return Stream.of("<gray>» </>" + x.substring(2) + "\n");
-            } else if (x.startsWith("  - ")) {
-                return Stream.of("<gray>-» </>" + x.substring(4) + "\n");
-            } else if (x.startsWith("    - ")) {
-                return Stream.of("<gray>--» </>" + x.substring(6) + "\n");
-            } else if (x.startsWith("     - ")) {
-                return Stream.of("<gray>---» </>" + x.substring(8) + "\n");
-            } else if (x.startsWith("      - ")) {
-                return Stream.of("<gray>----» </>" + x.substring(10) + "\n");
+
+
+            if (x.strip().startsWith("-")) {
+				var index = x.indexOf('-');
+				if (x.length() < index + 2) {
+            		return Stream.of(x);
+				}
+
+                return Stream.of("<gray>" + " ".repeat(index) + "» </>" + x.substring(x.charAt(index + 1) == ' ' ? index + 2 : index + 1));
             }
 
-            return Stream.of(x + "\n");
-        }).map(x -> PARSER.parseText(x, ParserContext.of())).collect(Collector.of(Component::empty, MutableComponent::append, MutableComponent::append));
+            return Stream.of(x);
+        }).map(x -> PARSER.parseText(x, ParserContext.of())).toList();
+        var body = new ArrayList<DialogBody>();
+
+        var list = new ArrayList<Component>();
+        var align = AlignedMessage.Align.LEFT;
+
+        for (var line : parsed) {
+            if (line.getStyle() == Style.EMPTY && line.getContents() instanceof PlainTextContents contents && line.getSiblings().isEmpty()) {
+                var alignNew = align;
+                var skipAdding = false;
+                if (contents.text().equals("$$$center$$$")) {
+                    alignNew = AlignedMessage.Align.CENTER;
+                    skipAdding = true;
+                } else if (contents.text().equals("$$$left$$$")) {
+                    alignNew = AlignedMessage.Align.LEFT;
+                    skipAdding = true;
+                }
+
+                if (skipAdding) {
+                    if (!list.isEmpty()) {
+                        body.add(new AlignedMessage(CommonComponents.joinLines(list), 350, align));
+                        list.clear();
+                    }
+                    align = alignNew;
+                    continue;
+                }
+            }
+            list.add(line);
+        }
+
+        if (!list.isEmpty()) {
+            body.add(new AlignedMessage(CommonComponents.joinLines(list), 350, align));
+        }
 
         return new NoticeDialog(new CommonDialogData(Component.literal("Changelog"), Optional.empty(),
-                true, true, DialogAction.CLOSE, List.of(new PlainMessage(parsed, 350)), List.of()),
+                true, true, DialogAction.CLOSE, body, List.of()),
                 new ActionButton(new CommonButtonData(Component.translatable("gui.back"), 200), returnDialog.map(x -> new StaticAction(new ClickEvent.ShowDialog(x)))));
     }
+
+
 }

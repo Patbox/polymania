@@ -2,7 +2,9 @@
   "markResourcePackAsRequiredByDefault": true,
   "include_mod_assets": [
 	"butterbee",
-	"mr_dungeons_andtaverns"
+	"mr_dungeons_andtaverns",
+	"mr_banner_text",
+	"darkpaintings"
   ],
   "include_zips": [
     "world/resources.zip",

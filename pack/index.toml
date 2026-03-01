@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "dfaf4516a7eb2af84a9dfb7975da01851d06f95b54568b64cd4ac90dc38d437e"
+hash = "6357a78bc49254150085b84e94b6a2fc29bb8aaafd3600361f1878ed2093dfa3"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -62,7 +62,7 @@ hash = "4260e305f03f59f16d59ebd2fca78d255ad2e5aa0a63c8d61ff17b6104d2e7df"
 
 [[files]]
 file = "config/polymer/resource-pack.json"
-hash = "16d6e4549bc77074b371ac8fe1a92bad8b8bbf0deddbb2635dfc86f7d6e44fbf"
+hash = "e2cfea9402f5468f254a6d867bcceec8738290a29403f55ac295c492463ca5b3"
 
 [[files]]
 file = "config/polymer/server.json"
@@ -155,6 +155,11 @@ hash = "dad1171c186d9ca0cdf6807066bd9097b892e7176794802a25c7acfe590ab7f7"
 metafile = true
 
 [[files]]
+file = "mods/banner-text.pw.toml"
+hash = "d70b3404473a9a7326e09518ff04302a59bec8da0da36be0da247b6df40d730c"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "3859ea1cb7245a8ccb081f0fdd49117e69cd89798175ccffd186b48218a677b1"
 metafile = true
@@ -189,12 +194,14 @@ hash = "b8b80921a6494741de8c48586cea4bc784a0703d03b8bbab48240ddeb79ffa89"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-1.21.11-fabric-1.117.0-23985ef41f182e3b89fa6453fb408b4bc41c3594.jar"
-hash = "dec4e8f455247730c7e0763b059ce8c5fc1c5617d15b06d42a788154fa043904"
+file = "mods/cc-polymer.pw.toml"
+hash = "8cd3db5d24ff98e157224dc0b49970e926b4c69cd47315b8c4d308875ed5ac5d"
+metafile = true
 
 [[files]]
-file = "mods/cc-tweaked-polymer-patch-1.117.0.0-beta+1.21.11.jar"
-hash = "c220aaf78321b50d165f451453762f28056d0fd1445e383ce01bc09b6dfc90cd"
+file = "mods/cc-tweaked.pw.toml"
+hash = "9fb6298b75abc16f41cc6057de892c27acacdafeafae7f8ac46c1e8f222ade40"
+metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
@@ -219,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "a5f67311e64ea67e8097c1fdd4d20cf11e1c5236334b5becabad7dabdae975db"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "33681b8bd286a4f82718f485870579c4008626cbc18496716d69b776335a9a29"
 metafile = true
 
 [[files]]
@@ -277,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "2d575d6a98cb73f6a55d52ed6eb6ae67da45d8ea353b5ff9b740a242bb08348b"
+hash = "d7755503fb3d01fd47eb3a0d2474ef51e1be866ab4c47434b24e58eef894e6ba"
 metafile = true
 
 [[files]]
@@ -302,12 +314,12 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "24cd719ccb292d330e70b3c378ed65f9eed5c2098d9227657b57484de9724188"
+hash = "fba8e0526771f081841f093ae8cb50c4de032fa704130dfdaa78ff4e53020d54"
 metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "cecb26f86fecb13de2378797d9d773f36d6b59532bd3377742efbc8bec6bf2e5"
+hash = "b79f73b9cee701f96ff0f1f990df003085c8be17fe33cccc328ebfeeb2f34709"
 metafile = true
 
 [[files]]
@@ -427,12 +439,12 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "d30cb35133090953f501860ef1ecdb335bf044e18c3d8effb5f16a13efc0f739"
+hash = "d3d786670880b5d9d83d0a75c7b1826ad54a62cd4629b0fca38ed52662d31f53"
 metafile = true
 
 [[files]]
-file = "mods/polymania-extras-0.6.1.jar"
-hash = "a51e2ed37e22643935e4efce2f7643db5768355d7916ec4922cb0e2976af2ffc"
+file = "mods/polymania-extras-0.6.2.jar"
+hash = "378a2623fad5aed537b4c63487220efcf0a995513d7a39cb71f80cf4e74bc058"
 
 [[files]]
 file = "mods/polymer-patch-bundle.pw.toml"
@@ -447,6 +459,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "62757d6d2b91ff8bc8e43d29a9b511724b07c45f72d60445f1c2341a5d2586c4"
+metafile = true
+
+[[files]]
+file = "mods/ppetp.pw.toml"
+hash = "696b36249885b63d57408cf164e22e05a38c8dcd608b3fc596193da564713006"
 metafile = true
 
 [[files]]
@@ -6254,15 +6271,6 @@ file = "polymer/override_assets/assets/traverse/models/block/yellow_autumnal_lea
 hash = "f1875a54a116f25f699a35c144b75e125aef4f870774c87e9b4f907b55d2e639"
 
 [[files]]
-file = "resources/common/required/DarkPaintings.zip"
-hash = "5058444b320fc196d70b761e6842b8560df4b7b43573f08aa8a93ea6e5352d27"
-
-[[files]]
-file = "resources/common/required/banner-text.pw.toml"
-hash = "3ddb7ea656257dff8479c16f45f461ca0f1e8611311614c9fab3fdc18ca8e23d"
-metafile = true
-
-[[files]]
 file = "resources/common/required/polymania/data/illagerexp/advancement/adventure/find_mansion.json"
 hash = "89f833a8136a61873be84a5be862e4abc0fafe248c5dff5dfeca03084547a6c5"
 
@@ -6361,6 +6369,18 @@ hash = "35c171ee389beb1b88f44fa878f42984a6d97f6ffc4342beda58d551fc24c372"
 [[files]]
 file = "resources/common/required/polymania/data/polymania/jsonpatch/gliders.jsonpatch"
 hash = "f0d5b68aee3bec78455ad3f4ed6ff2e50db234f9cb7297db7fcd1f651817adf1"
+
+[[files]]
+file = "resources/common/required/polymania/data/polymania/recipe/casting/golden_bars.json"
+hash = "4c1e601e510cecb2a765e1d62efb77753b5397b1c3ffdb8653c26fb45d1e75cf"
+
+[[files]]
+file = "resources/common/required/polymania/data/polymania/recipe/casting/golden_chain_with_molds.json"
+hash = "2f1ab9294eb985734a475da7cf45b66d1af8336642ad1048ebe484519816143f"
+
+[[files]]
+file = "resources/common/required/polymania/data/polymania/recipe/spout/golden_chain_with_molds.json"
+hash = "610db968da8beafe3d4f7be5cb0a6bee1d10f0bfb73bd2819ef484f40749c26d"
 
 [[files]]
 file = "resources/common/required/polymania/data/rocks/worldgen/placed_feature/acacia_stick.json"

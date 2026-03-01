@@ -1,3 +1,19 @@
+# 0.6.2:
+- Added PPeTP by TheEpicBlock: https://modrinth.com/mod/ppetp
+  - This mod fixes the dog/pet teleportation, making it more reliable.
+- Added recipes for Golden Chain and Golden Bars (from Blockus) with PolyFactory casting.
+- The in-game changelog now uses left-alighned text.
+- Updated PolyFactory (0.10.2+1.21.11 -> 0.10.4+1.21.11): https://modrinth.com/mod/polyfactory/changelog
+- Updated Farmer's Delight Refabricated (1.21.11-3.4.6+refabricated -> 1.21.11-3.4.8+refabricated)
+- Updated Friends&Foes (Fabric/Quilt) (4.0.19+mc1.21.11 -> 4.0.21+mc1.21.11)
+- Updated Farmer's Delight Refabricated (1.21.11-3.4.8+refabricated -> 1.21.11-3.4.9+refabricated)
+- Updated FSit (2.8.3+mc1.21.11 -> 2.9.0+mc1.21.11)
+- Updated CC: Tweaked (1.21.11-fabric-1.117.0-23985ef... -> 1.21.11-fabric-1.117.1):
+  - Aka migrated to official release.
+- Updated Banner Text (1.4.1 -> 1.4.2)
+- Updated Dark Paintings (20.0.3 (custom) -> 21.11.1): https://modrinth.com/mod/dark-paintings/changelog
+  - Previously datapackfied version of this mod was used, now it will just use the official release.
+
 # 0.6.1:
 - Updated Fabric Language Kotlin (1.13.8+kotlin.2.3.0.jar -> 1.13.9+kotlin.2.3.10.jar)
 - Updated Polymer Patch Bundle (1.1.4+1.21.11.jar -> 1.1.5+1.21.11.jar)
@@ -11,7 +27,7 @@
   - Server side patch is handled with Plushables-Polymerized by Drex: https://github.com/DrexHD/Plushables-Polymerized
 - Added Farmer's Delight's chopping recipes for non-vanilla wood types.
 - Updated Curiosities! (1.1.0+1.21.11 -> 1.1.1+1.21.11): https://modrinth.com/mod/pbcuriosities
-- Updated PolyDecorations (0.10.2+1.21.11 -> 0.10.4+1.21.11): https://modrinth.com/mod/polydecorations
+- Updated PolyDecorations (0.10.2+1.21.11 -> 0.10.4+1.21.11): https://modrinth.com/mod/polydecorations/changelog
 - Updated Farmer's Delight Refabricated (1.21.11-3.4.3+refabricated -> 1.21.11-3.4.6+refabricated)
 - Updated Toms Mobs (3.0.1+1.21.11 -> 3.0.2+1.21.11)
 - Updated Open Sesame (open-sesame-1.0.4+1.21.11 -> open-sesame-1.0.5+1.21.11)
