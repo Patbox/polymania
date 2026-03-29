@@ -1,3 +1,9 @@
+# 0.6.3:
+- Removed the Bravier Bundles mod, as it caused crashes and is no longer maintained.
+- Added ViaVersion and ViaFabric:
+  - Allows you to play with 26.1 client on server running this modpack.
+  - Will be removed when pack updates to 26.1.
+
 # 0.6.2:
 - Added PPeTP by TheEpicBlock: https://modrinth.com/mod/ppetp
   - This mod fixes the dog/pet teleportation, making it more reliable.

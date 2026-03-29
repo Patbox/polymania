@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "6357a78bc49254150085b84e94b6a2fc29bb8aaafd3600361f1878ed2093dfa3"
+hash = "23bec446597e6f4ae430d22cc402b6149f60394ce39436b244c4bd7f54f5a235"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -176,11 +176,6 @@ hash = "c2b68b553ad00dd04d466c6df3349592b449ae69bd1633fe6177104d6f30874f"
 [[files]]
 file = "mods/blockus.pw.toml"
 hash = "dc89623b55f2224662f4f91f3732c0ca01bbd66ceca7ad0403cdb612865eafab"
-metafile = true
-
-[[files]]
-file = "mods/braver-bundles.pw.toml"
-hash = "fb6e1952f34dff0efac785e25c7c275a23d80b2d7f353e4f7dee6b446859e976"
 metafile = true
 
 [[files]]
@@ -549,6 +544,16 @@ metafile = true
 [[files]]
 file = "mods/vaulted-end.pw.toml"
 hash = "ec3fdabc65468110eb6b672079a4e41e086d5fbed58cde6f96f1cb9cc593df40"
+metafile = true
+
+[[files]]
+file = "mods/viafabric.pw.toml"
+hash = "7a40544fc05d517893b7c0e3d8596d6357a3cf88bb3ba208551f04c03136f263"
+metafile = true
+
+[[files]]
+file = "mods/viaversion.pw.toml"
+hash = "b31630049c03e837f944a5072306ebae3f41c57d6eee0edd90f5b5e11e6ed5d0"
 metafile = true
 
 [[files]]
