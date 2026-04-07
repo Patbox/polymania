@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "23bec446597e6f4ae430d22cc402b6149f60394ce39436b244c4bd7f54f5a235"
+hash = "11aaed8c2a9dc86049fbececbde0dbd05ef021324165123ae989707aa15d5be1"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "dad1171c186d9ca0cdf6807066bd9097b892e7176794802a25c7acfe590ab7f7"
+hash = "27f6e9059dbd255111efd6951215a0f3d985a1dcde3a9afd5a6eeab57a91ce43"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ hash = "c2b68b553ad00dd04d466c6df3349592b449ae69bd1633fe6177104d6f30874f"
 
 [[files]]
 file = "mods/blockus.pw.toml"
-hash = "dc89623b55f2224662f4f91f3732c0ca01bbd66ceca7ad0403cdb612865eafab"
+hash = "c57498cf10d876024663de9ba136c7647a8d381bda0823f550b32a345f08cc25"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "df27854f74e3aa417c7b49a9354bdbb3323370fd79ae223a342d94a3aa4a20df"
+hash = "fc79b87f9a97de1634140fab7b17f04bd71444b81b97854e69edfd842af23ddd"
 metafile = true
 
 [[files]]
@@ -274,7 +274,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -309,12 +309,12 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes.pw.toml"
-hash = "fba8e0526771f081841f093ae8cb50c4de032fa704130dfdaa78ff4e53020d54"
+hash = "6f72454cfe1c3d55379784017f62575c56ea8cdd6fe815f9a70c10fa2902743f"
 metafile = true
 
 [[files]]
 file = "mods/fsit.pw.toml"
-hash = "b79f73b9cee701f96ff0f1f990df003085c8be17fe33cccc328ebfeeb2f34709"
+hash = "da116a22d1675229d5a1fc44597fabd09ae46c1d096ce1b0ae623ec790cf1d7d"
 metafile = true
 
 [[files]]
@@ -329,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
-hash = "d80413776b32c4525c846f641241a837ba80c33b87d9f25e3840a31fdc97578b"
+hash = "23db1d362e62653cec70f483908904631e4c8644bb74cf3c55bdabf9e2fe3a90"
 metafile = true
 
 [[files]]
@@ -344,12 +344,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
+hash = "8c7aec9e376eb3f10da62109594e1ac6b7bc92da8e9c080f8f8f5a736051f339"
 metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "af10f065595ed91a5856af15a951905ea8db7f57ebbfc4757ce2ff7af212b4eb"
+hash = "dcd2c3c58597ea61c8e1c95c9b3492262817669ea882e45acbe377a5cb6a3db7"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/nightosphere.pw.toml"
-hash = "b455b95fde2b3cc1475a27eea1499023cd7b9c46dce0bc23cddfc64f2dc090b5"
+hash = "0f82595a979bfef79355d73321a244d34ae988a85cc935335b6de2a7be034c23"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/plushables.pw.toml"
-hash = "24b04af1f454058cb6fb2c7003300e0c24f33e7c081f93faac22a8dba7a53438"
+hash = "5aae5bc113b4d06dd8526d28d85b9d3ff726545b928ceeb823438a36a46314a7"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "c073f13897a838e3c409e46b8a1d8cb510d6a6584dd815aeadaf4886f1779513"
+hash = "fc9e8b3b78f2b454d260f7cefa26834a352e146cdcfd44a6637544df335087a1"
 metafile = true
 
 [[files]]
@@ -548,12 +548,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "7a40544fc05d517893b7c0e3d8596d6357a3cf88bb3ba208551f04c03136f263"
+hash = "e984cc57dc87972f01914765ec9fab11ea9350c91bce6ee1b6a5ce7da7528cae"
 metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "b31630049c03e837f944a5072306ebae3f41c57d6eee0edd90f5b5e11e6ed5d0"
+hash = "83da91b8aa3f0b1e04749422d420f54f173f8e515484cab31a238cce4a227a07"
 metafile = true
 
 [[files]]

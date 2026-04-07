@@ -1,5 +1,17 @@
 # 0.6.3:
 - Removed the Bravier Bundles mod, as it caused crashes and is no longer maintained.
+- Updated Blockus (2.15.0+1.21.11 -> 2.15.2+1.21.11): https://modrinth.com/mod/blockus/changelog
+- Updated Plushables (2.0.11+1.21.11 -> 2.1.0+1.21.11): https://modrinth.com/mod/plushables/changelog
+- Updated Cliff under a Tree (CliffTree) (3.1.4-1.21.11 -> 3.1.5-1.21.11_MoM): https://modrinth.com/datapack/clifftree/changelog
+- Updated Nightosphere (3.0 -> 3.2)
+- Updated Friends&Foes (Fabric/Quilt) (4.0.21+mc1.21.11 -> 4.0.23+mc1.21.11)
+- Updated Illager Expansion Recrafted (1.9.0+1.21.11 -> 1.9.1+1.21.11)
+- Updated FSit (2.9.0+mc1.21.11 -> 2.9.1+mc1.21.11)
+- Updated Lithium (0.21.3+mc1.21.11 -> 0.21.4+mc1.21.11)
+- Updated Balm (1.21.11-21.11.6 -> 1.21.11-21.11.8)
+- Updated spark (1.10.156-fabric -> 1.10.170-fabric)
+- Updated Fabric Language Kotlin (1.13.9+kotlin.2.3.10 -> 1.13.10+kotlin.2.3.20)
+- Updated Lithostitched (1.5.8+beta1-fabric-1.21.11 -> 1.6.1-fabric-1.21.11)
 - Added ViaVersion and ViaFabric:
   - Allows you to play with 26.1 client on server running this modpack.
   - Will be removed when pack updates to 26.1.
@@ -21,10 +33,10 @@
   - Previously datapackfied version of this mod was used, now it will just use the official release.
 
 # 0.6.1:
-- Updated Fabric Language Kotlin (1.13.8+kotlin.2.3.0.jar -> 1.13.9+kotlin.2.3.10.jar)
-- Updated Polymer Patch Bundle (1.1.4+1.21.11.jar -> 1.1.5+1.21.11.jar)
-- Updated Fabric API (0.141.2+1.21.11.jar -> 0.141.3+1.21.11.jar)
-- Updated Lithium (0.21.2+mc1.21.11.jar -> 0.21.3+mc1.21.11.jar)
+- Updated Fabric Language Kotlin (1.13.8+kotlin.2.3.0 -> 1.13.9+kotlin.2.3.10)
+- Updated Polymer Patch Bundle (1.1.4+1.21.11 -> 1.1.5+1.21.11)
+- Updated Fabric API (0.141.2+1.21.11 -> 0.141.3+1.21.11)
+- Updated Lithium (0.21.2+mc1.21.11 -> 0.21.3+mc1.21.11)
 - Updated Polymer Patch for Friends&Foes (4.0.18-0+1.21.11 -> 4.0.19-0+1.21.11)
 - Fixed crash related to Chalk mod.
 
