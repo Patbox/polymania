@@ -1,13 +1,13 @@
 name = "Terrestria"
-filename = "terrestria-7.6.0-beta.2.jar"
+filename = "terrestria-7.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/AZHI7iza/terrestria-7.6.0-beta.2.jar"
-hash-format = "sha512"
-hash = "d8775d594163d0077556004d07d31a10b5c517661474616a59bd5973cd5addc61fffa7b9a94b4b958dce4fc6fef91b9b6292cdfe04e50a8cf152a77be56d203a"
+url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/8lLXFr2o/terrestria-7.6.0.jar"
+hash-format = "sha1"
+hash = "7571e54532a48efd74e1c881003028c2f26fe604"
 
 [update]
 [update.modrinth]
 mod-id = "lsUDPMOT"
-version = "AZHI7iza"
+version = "8lLXFr2o"
