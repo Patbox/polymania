@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "11aaed8c2a9dc86049fbececbde0dbd05ef021324165123ae989707aa15d5be1"
+hash = "d0c55aeffbda0715bb72f11ffe5b766aa490df1fc1ccb9cbdd8279edc2eccb11"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -269,7 +269,7 @@ hash = "d6d8d16a584c2656c0dd70fe288e6330369567badccd7a7cdbaa57210876a52e"
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "45abf05e1cc90006aeb65e4e1bbe97da5a1984f547ea8028a077dae68af0ac11"
+hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
 metafile = true
 
 [[files]]
@@ -438,8 +438,8 @@ hash = "d3d786670880b5d9d83d0a75c7b1826ad54a62cd4629b0fca38ed52662d31f53"
 metafile = true
 
 [[files]]
-file = "mods/polymania-extras-0.6.2.jar"
-hash = "378a2623fad5aed537b4c63487220efcf0a995513d7a39cb71f80cf4e74bc058"
+file = "mods/polymania-extras-0.6.4.jar"
+hash = "772241a097fac22378e613f8f7482bb29a7033e1f3a1df9fdf346f7061fb2a14"
 
 [[files]]
 file = "mods/polymer-patch-bundle.pw.toml"
@@ -548,12 +548,12 @@ metafile = true
 
 [[files]]
 file = "mods/viafabric.pw.toml"
-hash = "b496454738c267320b8f060a1fce331a360dbe59eb77f7721cee5aeee69a0eea"
+hash = "54f85fbfd7527f343b04b07130fb3fe59da27c8dfd631a875195452b2193fac6"
 metafile = true
 
 [[files]]
 file = "mods/viaversion.pw.toml"
-hash = "ed54a8412e05cbdb968aa8d483d9e7c5f78b2a8c573a82bcbb6a027f0ae7bfdd"
+hash = "e5be4bb4a384739740aaca52f9afc634f2f8f670e00f86f749e28ecb239ce39b"
 metafile = true
 
 [[files]]
