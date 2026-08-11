@@ -1,13 +1,13 @@
 name = "Polymer Patch for Lovely Snails"
-filename = "lovely-snails-polymer-patch-1.2.3.0+1.21.11.jar"
+filename = "lovely-snails-polymer-patch-1.3.2.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pVPKtpgT/versions/QqDR3sbX/lovely-snails-polymer-patch-1.2.3.0%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/pVPKtpgT/versions/xXieSbhH/lovely-snails-polymer-patch-1.3.2.0%2B26.2.jar"
 hash-format = "sha512"
-hash = "baf180376806c7f87f9c660b4cf8f22aa9ca269f781cf73e0cb5fd2dadc8228c722ba031006429cca3943aae9ec971b0dc85f905829d0b484247c383f5651048"
+hash = "4fb76ff893a6144e6379f252ffa4dd242f15f23f3f4c98341c9b44e06ae4aa624b93d7644551a6467bd3eaad82b3339c78ba34b5640979f91c49cee457f4a804"
 
 [update]
 [update.modrinth]
 mod-id = "pVPKtpgT"
-version = "QqDR3sbX"
+version = "xXieSbhH"

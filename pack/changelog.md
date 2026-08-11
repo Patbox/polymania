@@ -1,6 +1,22 @@
+# 0.7.0-pre.1:
+- Updated to Minecraft 26.2
+- Updated all of the mods to release compatible with 26.2
+- Added mods:
+  - Open Together (Open Sesame replacement): https://modrinth.com/mod/open-together
+- Removed mods below:
+  - Biome Tag Villagers - Archived / No longer maintained
+  - EasyEula - Outdated
+  - Open Sesame - Removed from platforms / No longer maintained
+  - ViaVersion and ViaFabric - No longer needed until 26.3
+
+# 0.6.4:
+- Updated ViaVersion (5.9.1 -> 5.10.1-SNAPSHOT+1012): Now joinable from 26.2!
+- Updated ViaFabric (0.4.21+161-1.14-1.21 -> 0.4.21+166-1.14-1.21)
+- Updated Fabric API (0.141.3+1.21.11 -> 0.141.4+1.21.11)
+
 # 0.6.3:
 - Removed the Bravier Bundles mod, as it caused crashes and is no longer maintained.
-- Updated Blockus (2.15.0+1.21.11 -> 2.15.3+1.21.11): https://modrinth.com/mod/blockus/changelog
+- Updated Blockus (2.15.0+1.21.11 -> 2.15.2+1.21.11): https://modrinth.com/mod/blockus/changelog
 - Updated Plushables (2.0.11+1.21.11 -> 2.1.0+1.21.11): https://modrinth.com/mod/plushables/changelog
 - Updated Cliff under a Tree (CliffTree) (3.1.4-1.21.11 -> 3.1.5-1.21.11_MoM): https://modrinth.com/datapack/clifftree/changelog
 - Updated Nightosphere (3.0 -> 3.2)
@@ -8,14 +24,10 @@
 - Updated Illager Expansion Recrafted (1.9.0+1.21.11 -> 1.9.1+1.21.11)
 - Updated FSit (2.9.0+mc1.21.11 -> 2.9.1+mc1.21.11)
 - Updated Lithium (0.21.3+mc1.21.11 -> 0.21.4+mc1.21.11)
-- Updated Balm (1.21.11-21.11.6 -> 1.21.11-21.11.9)
+- Updated Balm (1.21.11-21.11.6 -> 1.21.11-21.11.8)
 - Updated spark (1.10.156-fabric -> 1.10.170-fabric)
-- Updated Fabric Language Kotlin (1.13.9+kotlin.2.3.10 -> 1.13.11+kotlin.2.3.21)
-- Updated Lithostitched (1.5.8+beta1-fabric-1.21.11 -> 1.7.2-fabric-1.21.11)
-- Updated Friends&Foes (Fabric/Quilt) (4.0.23+mc1.21.11 -> 4.0.25+mc1.21.11)
-- Updated MidnightLib (1.9.2+1.21.11 -> 1.9.3+1.21.11)
-- Updated Audaki Cart Engine (Faster Minecarts) (1.21.11-4.3 -> 1.21.11-5.0.0)
-- Updated Terrestria (7.6.0-beta.2 -> 7.6.0)
+- Updated Fabric Language Kotlin (1.13.9+kotlin.2.3.10 -> 1.13.10+kotlin.2.3.20)
+- Updated Lithostitched (1.5.8+beta1-fabric-1.21.11 -> 1.6.1-fabric-1.21.11)
 - Added ViaVersion and ViaFabric:
   - Allows you to play with 26.1 client on server running this modpack.
   - Will be removed when pack updates to 26.1.

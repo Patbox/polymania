@@ -1,7 +1,7 @@
 name = "woodsandmires"
-filename = "WoodsAndMires-2.1.2+1.21.11.jar"
+filename = "WoodsAndMires-2.1.2+26.2.jar"
 
 [download]
-url = "https://github.com/KiloCraft/WoodsAndMires/releases/download/2.1.2%2B1.21.11/WoodsAndMires-2.1.2+1.21.11.jar"
+url = "https://github.com/KiloCraft/WoodsAndMires/releases/download/2.1.2%2B26.2/WoodsAndMires-2.1.2+26.2.jar"
 hash-format = "sha256"
-hash = "9f7f63874903d78ec3ced36a31d6d8b88680dd19e70c728f1839df9f54372239"
+hash = "785446e865764235875473971c530ae7f3b76c06863d2ca455011acc96b1a37e"

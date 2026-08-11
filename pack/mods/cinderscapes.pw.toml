@@ -1,13 +1,13 @@
 name = "Cinderscapes"
-filename = "cinderscapes-5.6.0.jar"
+filename = "cinderscapes-6.1.0-alpha.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QC4wcUXZ/versions/uipDCZCz/cinderscapes-5.6.0.jar"
+url = "https://cdn.modrinth.com/data/QC4wcUXZ/versions/8OeevjHl/cinderscapes-6.1.0-alpha.1.jar"
 hash-format = "sha512"
-hash = "fcdf9d7cded74dbff5b6d948cc344789568a9bd44fb918d965fe5f9699001cb1377e5a7809bb8dcb08efb91fc4d6c7c10de4d36297473e32441380dfb2ec0066"
+hash = "31023152c5795ee4f963f8a0a4956b2bdfcf531458d3b36e9a7b0ad42ae7c3f91bfcae5c21680dfe63401dc86d7f697add75257d44723d4cd37b84baafc006f9"
 
 [update]
 [update.modrinth]
 mod-id = "QC4wcUXZ"
-version = "uipDCZCz"
+version = "8OeevjHl"

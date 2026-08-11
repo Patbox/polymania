@@ -168,7 +168,7 @@ public class PolymaniaDialogs {
             }
 
             return Stream.of(x);
-        }).map(x -> PARSER.parseText(x, ParserContext.of())).toList();
+        }).map(x -> PARSER.parseComponent(x, ParserContext.of())).toList();
         var body = new ArrayList<DialogBody>();
 
         var list = new ArrayList<Component>();

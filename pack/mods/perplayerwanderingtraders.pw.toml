@@ -1,13 +1,13 @@
 name = "PerPlayerWanderingTraders"
-filename = "PerPlayerWanderingTraders-1.0.2+1.21.11-rc2.jar"
+filename = "PerPlayerWanderingTraders-1.0.4+26.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Nf4h6a7d/versions/e1B7iSIR/PerPlayerWanderingTraders-1.0.2%2B1.21.11-rc2.jar"
+url = "https://cdn.modrinth.com/data/Nf4h6a7d/versions/772QqqAr/PerPlayerWanderingTraders-1.0.4%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "412220547fd4a760a85882d0685c375b658281be866bea7e79be147a2360c62338faf471b5f80f232d6b20602c0c0615dbd2b2c6e82b82c791f2d9697e4f702d"
+hash = "0c46ea22d72409f0ddd4aa74b744c46e30bdcb7042a1aaf0330977c5e8f9a1e18c71db317242f6a020daf9b4b54624c16c3e283cd89cb01cd1f5ca04886bd1b9"
 
 [update]
 [update.modrinth]
 mod-id = "Nf4h6a7d"
-version = "e1B7iSIR"
+version = "772QqqAr"

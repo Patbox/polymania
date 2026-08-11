@@ -1,13 +1,13 @@
 name = "mini-vfx"
-filename = "mini-vfx-1.0.4+1.21.11.jar"
+filename = "mini-vfx-1.0.8+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nRbtqf92/versions/fl4bSf8R/mini-vfx-1.0.4%2B1.21.11.jar"
-hash-format = "sha512"
-hash = "7ab4f44541d87b8a9197180945b206ad6141972abe4163277a38aa4b4b3c91cb58ecafbf1ddcd536034465624c510b90a1122e490a2fa4134846c941307e765f"
+hash-format = "sha1"
+hash = "05c13a1181b6ecc82b91847f8dbfa10335388d81"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "nRbtqf92"
-version = "fl4bSf8R"
+[update.curseforge]
+file-id = 8321568
+project-id = 1355414

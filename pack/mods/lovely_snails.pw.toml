@@ -1,13 +1,13 @@
 name = "Lovely Snails"
-filename = "lovely_snails-1.2.3+1.21.11.jar"
+filename = "lovely_snails-1.3.2+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hBVVhStr/versions/SdvJz5u9/lovely_snails-1.2.3%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/hBVVhStr/versions/9ypx7Asj/lovely_snails-1.3.2%2B26.2.jar"
 hash-format = "sha512"
-hash = "34e74501f4d2d439a3674004ce2447bf8658b113342edcb51fa5e172fb8caff81ff2f24eff9d7db86e17a13bf589592a1d29b122cdd64eb9738642783bb68914"
+hash = "994da076ee6d3a92c82fc1471df7b4134d1c9ac851013f40f49b44fa036f6153953a0cfaca2b4cd7390ed350e14c2d40ab893a97fa5fa33c41498016c2132c0a"
 
 [update]
 [update.modrinth]
 mod-id = "hBVVhStr"
-version = "SdvJz5u9"
+version = "9ypx7Asj"

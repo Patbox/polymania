@@ -1,7 +1,7 @@
 name = "chalk"
-filename = "chalk-3.1.1-polymania+1.21.11.jar"
+filename = "chalk-3.1.1-polymania+26.2.jar"
 
 [download]
-url = "https://github.com/PolymaniaForks/Chalk/releases/download/3.1.1-polymania%2B1.21.11/chalk-3.1.1-polymania+1.21.11.jar"
+url = "https://github.com/PolymaniaForks/Chalk/releases/download/3.1.1-polymania%2B26.2/chalk-3.1.1-polymania+26.2.jar"
 hash-format = "sha256"
-hash = "49705850d8b06894de9d68017236762681ab9f12c35f4634a46853bc1c81eaf1"
+hash = "2db14e77ce06a8c77abda4969028037aa033b49f8a969f69e086e5662b31c287"

@@ -1,13 +1,13 @@
 name = "Leaves Us In Peace"
-filename = "leaves-us-in-peace-1.11.2+MC1.21.11.jar"
+filename = "leaves_us_in_peace-1.13.1+MC26.2.x.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/FynUj3nV/leaves-us-in-peace-1.11.2%2BMC1.21.11.jar"
+url = "https://cdn.modrinth.com/data/IIpWIe1o/versions/zm5Wf39w/leaves_us_in_peace-1.13.1%2BMC26.2.x.jar"
 hash-format = "sha512"
-hash = "0a2ed3819fca57bfc94ad72645eb2002b47ecc70b41cb4346eafd2559c0797d58a15a8bea4fe967e4de7006b04b1e0c85bcce4abb0f92a7806d4b4a04a223a12"
+hash = "ca73199a9bcd359940a485a5922a2bffb8c5de880005da4bb0b1d9c047326989b9b8ae03b6bfe42bb83e8790f3b707c517b3121fb59d056379624232e50a1dc2"
 
 [update]
 [update.modrinth]
 mod-id = "IIpWIe1o"
-version = "FynUj3nV"
+version = "zm5Wf39w"

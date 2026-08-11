@@ -1,13 +1,13 @@
 name = "Terrestria"
-filename = "terrestria-7.6.0.jar"
+filename = "terrestria-8.1.0-alpha.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/8lLXFr2o/terrestria-7.6.0.jar"
-hash-format = "sha1"
-hash = "7571e54532a48efd74e1c881003028c2f26fe604"
+url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/QcV0YfAP/terrestria-8.1.0-alpha.1.jar"
+hash-format = "sha512"
+hash = "b8d06e9b89a2f7873a8a98ef38245e49bfbbf21325c2d483851789d9d1a900d7478be643645d99f535fb8eeade80a71203b655de36c09cf6c132895d3d5e9b71"
 
 [update]
 [update.modrinth]
 mod-id = "lsUDPMOT"
-version = "8lLXFr2o"
+version = "QcV0YfAP"

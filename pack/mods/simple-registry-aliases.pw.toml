@@ -1,13 +1,13 @@
 name = "Simple Registry Aliases"
-filename = "simple-registry-aliases-1.0.0+1.21.4.jar"
+filename = "simple-registry-aliases-1.1.0+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nILYwKV9/versions/b15unlVp/simple-registry-aliases-1.0.0%2B1.21.4.jar"
-hash-format = "sha1"
-hash = "f159cce8b77f5d3e91f44c67476e5d0eefc34807"
+url = "https://cdn.modrinth.com/data/nILYwKV9/versions/weuIsIke/simple-registry-aliases-1.1.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "74890db61d4120fa6911755ac1d2b20eb9a580a6c5d718a0b452569e668b2258ca887ed00bb541b9b2cc9873cf6fee788d747f82907439f37c3b0f4760fbb3fd"
 
 [update]
 [update.modrinth]
 mod-id = "nILYwKV9"
-version = "b15unlVp"
+version = "weuIsIke"

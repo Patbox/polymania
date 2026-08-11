@@ -1,13 +1,13 @@
 name = "Better Nether Map"
-filename = "nethermap-4.2.0+1.21.5.jar"
+filename = "nethermap-4.3.0+26.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fdtm99de/versions/FVfS4Ubi/nethermap-4.2.0%2B1.21.5.jar"
-hash-format = "sha1"
-hash = "e4add3e98a06f78768c50292b891b4717a83a9b4"
+url = "https://cdn.modrinth.com/data/fdtm99de/versions/kyGtszbV/nethermap-4.3.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "0d754eb4d68aaee81a7b676d33956497834f8a9e4fb0bad6ed9f5193be2e8d993245337dd03f39907ea164a430ebd5f1a37adc7e7ce6de604df5f314a2c6f705"
 
 [update]
 [update.modrinth]
 mod-id = "fdtm99de"
-version = "FVfS4Ubi"
+version = "kyGtszbV"

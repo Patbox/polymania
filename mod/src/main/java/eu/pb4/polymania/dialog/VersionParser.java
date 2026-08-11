@@ -1,6 +1,6 @@
 package eu.pb4.polymania.dialog;
 
-import eu.pb4.placeholders.api.node.DirectTextNode;
+import eu.pb4.placeholders.api.node.DirectComponentNode;
 import eu.pb4.placeholders.api.node.LiteralNode;
 import eu.pb4.placeholders.api.node.TextNode;
 import eu.pb4.placeholders.api.node.parent.ParentNode;
@@ -40,7 +40,7 @@ public record VersionParser() implements NodeParser {
                     list.add(new LiteralNode(betweenText));
                 }
 
-                list.add(new DirectTextNode(Component.literal(link).withStyle(ChatFormatting.GRAY)));
+                list.add(new DirectComponentNode(Component.literal(link).withStyle(ChatFormatting.GRAY)));
 
                 currentPos = matcher.end();
             }

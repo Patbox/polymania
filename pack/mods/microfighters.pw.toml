@@ -1,0 +1,13 @@
+name = "MicroFighters"
+filename = "microfighters-1.1.2+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a90b43c4194ca35e32a12a3d39ffde58b6fa5b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8321716
+project-id = 1255005

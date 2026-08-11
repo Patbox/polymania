@@ -1,13 +1,13 @@
 name = "Enderscape"
-filename = "enderscape-fabric-2.1.0+mc1.21.11.jar"
+filename = "enderscape-fabric-3.0.1+mc26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/btCrWvHr/versions/3cYKvu3m/enderscape-fabric-2.1.0%2Bmc1.21.11.jar"
-hash-format = "sha1"
-hash = "fc23469ee0845df9a4961db9cb1182d55e7ed2b3"
+url = "https://cdn.modrinth.com/data/btCrWvHr/versions/4DwOA1hE/enderscape-fabric-3.0.1%2Bmc26.2.jar"
+hash-format = "sha512"
+hash = "8c8a711a250488ce3ec623064023d9d2798c6920ecd11d33c9887108acfa99b6ef7c3a19f7c662350c8fb38a975b8a2cc1be4cadcd2fe82dbd33d495cabd668b"
 
 [update]
 [update.modrinth]
 mod-id = "btCrWvHr"
-version = "3cYKvu3m"
+version = "4DwOA1hE"

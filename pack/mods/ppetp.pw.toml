@@ -1,13 +1,13 @@
 name = "PPeTP"
-filename = "proper-pet-tp-1.2.3.jar"
+filename = "proper-pet-tp-1.2.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/KbPewBWv/versions/HGImlM72/proper-pet-tp-1.2.3.jar"
+url = "https://cdn.modrinth.com/data/KbPewBWv/versions/dPJwlGax/proper-pet-tp-1.2.5.jar"
 hash-format = "sha512"
-hash = "f68694ab7fd43d787266072792ad32d5ce1a395850b3edef54f8190d237d013be2b22824faac51b1c0d9769b454621988313811766435db0ff221c9e4229a122"
+hash = "154be58609dbb29f1e00174c7fe9e1d14b2582df27859f26f37755b63896f3b701aafaebf40470853ea5f721565c76f1eb992f0681c13db12fb95dc129e59a7c"
 
 [update]
 [update.modrinth]
 mod-id = "KbPewBWv"
-version = "HGImlM72"
+version = "dPJwlGax"
