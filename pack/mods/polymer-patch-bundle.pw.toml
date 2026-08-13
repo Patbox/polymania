@@ -1,13 +1,13 @@
 name = "Polymer Patch Bundle"
-filename = "polymer-patch-bundle-1.1.5+26.2.jar"
+filename = "polymer-patch-bundle-1.1.6+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WhjutnwJ/versions/5iJIVljD/polymer-patch-bundle-1.1.5%2B26.2.jar"
-hash-format = "sha512"
-hash = "03954ccf4c1106f29aea3723bfbd3722c644c53f22163bc3fb2ede2b0908c093797594877c2042796f8f0e14fb77c2d7872b0a73bf2ed7ad7a58ce0616f84de1"
+url = "https://cdn.modrinth.com/data/WhjutnwJ/versions/tYf1nWHL/polymer-patch-bundle-1.1.6%2B26.2.jar"
+hash-format = "sha1"
+hash = "0cd700ac1700d101b93fdf2feb046cda36b74cbb"
 
 [update]
 [update.modrinth]
 mod-id = "WhjutnwJ"
-version = "5iJIVljD"
+version = "tYf1nWHL"

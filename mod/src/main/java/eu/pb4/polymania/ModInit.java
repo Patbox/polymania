@@ -1,8 +1,10 @@
 package eu.pb4.polymania;
 
+import eu.pb4.polymania.patch.BlahajPatch;
 import eu.pb4.polymania.resourcepack.MusicResourcePack;
 import eu.pb4.polymer.autohost.api.AutoHostUtils;
 import net.fabricmc.api.ModInitializer;
+import net.fabricmc.loader.api.FabricLoader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -15,5 +17,9 @@ public class ModInit implements ModInitializer {
     @Override
     public void onInitialize() {
         MusicResourcePack.setup();
+
+        if (FabricLoader.getInstance().isModLoaded("blahaj")) {
+            BlahajPatch.init();
+        }
     }
 }

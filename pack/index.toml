@@ -145,8 +145,8 @@ hash = "7183f587a72430e958d9c5bee121c50e5f1ffceb5d16122103123db1a6b36f75"
 metafile = true
 
 [[files]]
-file = "mods/baby-fat-polymer.pw.toml"
-hash = "fa45445761f76c30645edc133c5a00096431043a3204aed79d70bd52d1f347ea"
+file = "mods/baby-fat-polymerized.pw.toml"
+hash = "072f2bda7b4e2bd3257116b7e563ffb23fb12138d52715c98834959dbde627e9"
 metafile = true
 
 [[files]]
@@ -165,6 +165,11 @@ hash = "6a3d8aac82514e484f529373b6bc9d1fca8c7af4a37e5329e3ca71dc2b204b66"
 metafile = true
 
 [[files]]
+file = "mods/blaha-replushed.pw.toml"
+hash = "3dfd195cb122153e7683b8948f4a895672a1580ac9ebbd3e91842fee3fa22c8e"
+metafile = true
+
+[[files]]
 file = "mods/blahaj-fabric-polymerized-3.1.0+1.21.5.jar"
 hash = "c2b68b553ad00dd04d466c6df3349592b449ae69bd1633fe6177104d6f30874f"
 
@@ -174,13 +179,18 @@ hash = "99f37a13c18d998795bc3532352b8a78e601cd2b2b6d575bc5500510ee0cbad6"
 metafile = true
 
 [[files]]
+file = "mods/booklet.pw.toml"
+hash = "078b4e34286d2e5c11a2631f77dd7957d560e698171f30d957073ad40eed5340"
+metafile = true
+
+[[files]]
 file = "mods/brewery.pw.toml"
 hash = "e3a2039fde45537b0e1e318e7edb36437df192bf170461f9aca406c9917cb9a9"
 metafile = true
 
 [[files]]
 file = "mods/butterbee.pw.toml"
-hash = "b8b80921a6494741de8c48586cea4bc784a0703d03b8bbab48240ddeb79ffa89"
+hash = "0b5c28c79dffcf6a2e00c6fc05a9639774215aaef8ba56d786fcaae88797270f"
 metafile = true
 
 [[files]]
@@ -205,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/clifftree.pw.toml"
-hash = "fc79b87f9a97de1634140fab7b17f04bd71444b81b97854e69edfd842af23ddd"
+hash = "f996a398b1099f02a120f8a0e0db8e170500ccecea7340fee38b3666e9e3e833"
 metafile = true
 
 [[files]]
@@ -339,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "5483c77b422d8b868eca002229b4583eab37e1796680ba4524436ce39e5684b6"
+hash = "28e0cae4ca2b9c7fcd5b51ea3e4106d536274b7e644dba4dee3f43d331a7387c"
 metafile = true
 
 [[files]]
@@ -408,11 +418,6 @@ hash = "5aae5bc113b4d06dd8526d28d85b9d3ff726545b928ceeb823438a36a46314a7"
 metafile = true
 
 [[files]]
-file = "mods/polychess.pw.toml"
-hash = "d268ed52ebc9cd4f9cc2a4ea2fa31c65405871dd516063039eb1668db8a5e826"
-metafile = true
-
-[[files]]
 file = "mods/polydecorations.pw.toml"
 hash = "7b2bf9542e2af25730934efeb2faafcc6047cad41dcd148f5ffbd135d1b82bab"
 metafile = true
@@ -433,7 +438,7 @@ hash = "772241a097fac22378e613f8f7482bb29a7033e1f3a1df9fdf346f7061fb2a14"
 
 [[files]]
 file = "mods/polymer-patch-bundle.pw.toml"
-hash = "a41f175452844fc830e771cee044b2f0ac64c4e0e14614a93b455bc491b55e91"
+hash = "f49de2ccab3c0f04927c56bf9e95a557124eae60fdaf13340c34d2b770489200"
 metafile = true
 
 [[files]]
@@ -518,7 +523,7 @@ metafile = true
 
 [[files]]
 file = "mods/this-rocks.pw.toml"
-hash = "11728df918be6056a42659bf89418d8f50dd13b8affd8d74066d1dbe61f0c9fe"
+hash = "5040a087cc460fd78ff87d20a45f0493acafadb19d6a115830433716e106a039"
 metafile = true
 
 [[files]]

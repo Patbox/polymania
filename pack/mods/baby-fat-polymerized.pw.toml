@@ -1,0 +1,13 @@
+name = "Baby Fat Polymerized"
+filename = "babyfat-polymerized-1.0.10+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df85953822995a2f921ac4218b1f4e9beb28e96c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8321693
+project-id = 1129750

@@ -5,7 +5,8 @@
   - Open Together (Open Sesame replacement): https://modrinth.com/mod/open-together
 - Removed mods below:
   - Biome Tag Villagers - Archived / No longer maintained
-  - EasyEula - Outdated
+  - PolyChess - Outdated / No longer maintained
+  - EasyEula - Outdated / No longer maintained
   - Open Sesame - Removed from platforms / No longer maintained
   - ViaVersion and ViaFabric - No longer needed until 26.3
 

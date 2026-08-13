@@ -130,5 +130,19 @@
 	"borukva-food:avocado_fruit_leaves": "jungle_leaves",
 	"televator:televator": "curiosities:light_blue_elevator",
 	"restart_detector:restart_detector": "minecraft:quartz_slab",
-	"restart_detector:tps_detector": "minecraft:quartz_slab"
+	"restart_detector:tps_detector": "minecraft:quartz_slab",
+
+	"polychess:chess_pawn_white": "white_wool", 
+	"polychess:chess_king_white": "white_wool", 
+	"polychess:chess_queen_white": "white_wool", 
+	"polychess:chess_rook_white": "white_wool", 
+	"polychess:chess_bishop_white": "white_wool", 
+	"polychess:chess_knight_white": "white_wool",
+
+	"polychess:chess_pawn_black": "black_wool", 
+	"polychess:chess_king_black": "black_wool", 
+	"polychess:chess_queen_black": "black_wool", 
+	"polychess:chess_rook_black": "black_wool", 
+	"polychess:chess_bishop_black": "black_wool", 
+	"polychess:chess_knight_black": "black_wool"
 }
