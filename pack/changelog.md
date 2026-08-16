@@ -1,14 +1,25 @@
 # 0.7.0-pre.1:
+- Remainder: Remember to backup before updating old worlds!
+  - Some mods were removed with migration, so some more (minor) content will be lost.
+  - If you didn't engage with them or don't mind losing them, you should still make sure to backup everything before updating!
+  - There might also be issues caused by world-format changes that caused old worlds to fail.
+  - Polymania's bundled mod tries to handle them more gracefully, but there is still chance for it to fail!
+  - Old, missing items and blocks will be converted into existing blocks, to try preserving buildings somewhat.
 - Updated to Minecraft 26.2
 - Updated all of the mods to release compatible with 26.2
 - Added mods:
   - Open Together (Open Sesame replacement): https://modrinth.com/mod/open-together
+- For now includes custom/modified versions of:
+  - Nightosphere - patched for 26.2 support.
+  - Plushables + dependencies - Drex's port to 26.2.
 - Removed mods below:
-  - Biome Tag Villagers - Archived / No longer maintained
-  - PolyChess - Outdated / No longer maintained
-  - EasyEula - Outdated / No longer maintained
-  - Open Sesame - Removed from platforms / No longer maintained
-  - ViaVersion and ViaFabric - No longer needed until 26.3
+  - Biome Tag Villagers - Archived / No longer maintained.
+  - PolyChess - Outdated / No longer maintained.
+  - EasyEula - Outdated / No longer maintained.
+  - FSit - Outdated.
+  - Open Sesame - Removed from platforms / No longer maintained.
+  - Baby Fat Polymerized - Broken on 26.2.
+  - ViaVersion and ViaFabric - No longer needed until 26.3.
 
 # 0.6.4:
 - Updated ViaVersion (5.9.1 -> 5.10.1-SNAPSHOT+1012): Now joinable from 26.2!

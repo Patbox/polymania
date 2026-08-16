@@ -1,7 +1,0 @@
-name = "plushables-polymer"
-filename = "plushables-polymerized-1.0.0+1.21.9.jar"
-
-[download]
-url = "https://github.com/DrexHD/Plushables-Polymerized/releases/download/1.0.0%2B1.21.9/plushables-polymerized-1.0.0+1.21.9.jar"
-hash-format = "sha256"
-hash = "8467eafbdfb52e7ac7fbf0e2fe999b5cb78e694bc6bec14b31cfc3b5bc9bb8b8"

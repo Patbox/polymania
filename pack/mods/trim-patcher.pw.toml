@@ -1,0 +1,13 @@
+name = "Trim Patcher"
+filename = "Trim Patcher-2.1-mc26.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bNK1MS7o/versions/VwpMfwIb/Trim%20Patcher-2.1-mc26.2-fabric.jar"
+hash-format = "sha512"
+hash = "198028325b74f18128692ea6739016e1d4e73d1bcfadcdc0f2cfb9df5362a4f2890d36c8751bfd88cecadfeb9a25a15f7bbf5030691c218c576374d28338127f"
+
+[update]
+[update.modrinth]
+mod-id = "bNK1MS7o"
+version = "VwpMfwIb"

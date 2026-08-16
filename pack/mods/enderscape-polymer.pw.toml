@@ -1,13 +1,13 @@
 name = "Polymer Patch for Enderscape"
-filename = "enderscape-polymer-patch-3.0.0.0+26.2.jar"
+filename = "enderscape-polymer-patch-3.0.1.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pR93ykIA/versions/hmIeo4kM/enderscape-polymer-patch-3.0.0.0%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/pR93ykIA/versions/BA4FS7eI/enderscape-polymer-patch-3.0.1.0%2B26.2.jar"
 hash-format = "sha512"
-hash = "85731d520fd47125722ba0f8b9a36e466835767e9d3347d1b366bb2929e397e16fa84faf6b4c0f40b303bbef34db628b69a16a7f70f0465f7a1978bc0b81ca53"
+hash = "323c749bda3b35e628d49dbee1c2a7a9e0dc93f1e68065480bf42baacd47eb1252815780c5fb2f5c3efcdd39f590294795f1c5feef9f88b6e32f3ff1c57e9161"
 
 [update]
 [update.modrinth]
 mod-id = "pR93ykIA"
-version = "hmIeo4kM"
+version = "BA4FS7eI"

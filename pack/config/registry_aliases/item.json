@@ -144,5 +144,8 @@
 	"polychess:chess_queen_black": "black_wool", 
 	"polychess:chess_rook_black": "black_wool", 
 	"polychess:chess_bishop_black": "black_wool", 
-	"polychess:chess_knight_black": "black_wool"
+	"polychess:chess_knight_black": "black_wool",
+
+	"babyfat:water_lettuce": "sugar_cane",
+	"babyfat:ranchu_bucket": "axolotl_bucket"
 }
