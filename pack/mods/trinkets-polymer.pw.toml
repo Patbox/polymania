@@ -1,13 +1,13 @@
-name = "Trinkets (Polymer Port)"
-filename = "trinkets-polymer-patch-4.1.0-beta.1.0+26.2.jar"
+name = "Polymer Patch for Trinkets Updated"
+filename = "trinkets-polymer-patch-4.1.0-rc.1.0+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/G8hlgtEk/versions/MawK0SxO/trinkets-polymer-patch-4.1.0-beta.1.0%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/G8hlgtEk/versions/4j4YqKKV/trinkets-polymer-patch-4.1.0-rc.1.0%2B26.2.jar"
 hash-format = "sha512"
-hash = "50dfea732f3e8bb146489afe41ac099a6faf8e8015410c836f846a3abdcdd2c5d3c132e00b0d24c391c28d609a5a33cfb4a3026c27925f91d7997c1134e08525"
+hash = "dffdfefcbd0156af6bc7a3ee29ad749decd6cb706f3095754227fe2bae92e8dbc77f22daf97e645d2938e53763880c3d00577a8342711d39779bcf6369aecf3a"
 
 [update]
 [update.modrinth]
 mod-id = "G8hlgtEk"
-version = "MawK0SxO"
+version = "4j4YqKKV"

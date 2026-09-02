@@ -1,0 +1,6 @@
+{
+  "parent": "factorytools:block/special/destroy_stage_base",
+  "textures": {
+    "all": "minecraft:block/destroy_stage_6"
+  }
+}

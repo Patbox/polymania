@@ -1,13 +1,13 @@
 name = "Polymer - Quality of Life"
-filename = "polymer-qol-1.0.2+26.2.jar"
+filename = "polymer-qol-1.0.3+26.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/EsaSOXRN/versions/MiY1PDpy/polymer-qol-1.0.2%2B26.2.jar"
+url = "https://cdn.modrinth.com/data/EsaSOXRN/versions/r2p7EP64/polymer-qol-1.0.3%2B26.2.jar"
 hash-format = "sha512"
-hash = "3f67c0030842aa083ab1282eda1326f18a3e001cf0610b7e5c712b08df01cf5bcc17bafbec80f8dfb2e1944b6230c581fce77ce892706c7dd2d08ae6a1b7659e"
+hash = "9a647d8a3f63b911bcae99b4720fc1b2f91ad598ab14e270b0a456f8a6ec671558002509b880a0a6a700839b2742ddb752fe415607d59e93315d212e3ecec2a1"
 
 [update]
 [update.modrinth]
 mod-id = "EsaSOXRN"
-version = "MiY1PDpy"
+version = "r2p7EP64"

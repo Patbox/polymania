@@ -1,0 +1,6 @@
+{
+  "parent": "traverse:block/leaves",
+  "textures": {
+    "all": "terrestria:block/japanese_maple_leaves"
+  }
+}

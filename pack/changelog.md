@@ -1,3 +1,25 @@
+# 0.7.0:
+- Updated PolyFactory (0.12.1+26.2 -> 0.12.2+26.2): https://modrinth.com/mod/polyfactory/version/0.12.2+26.2
+- Updated Illager Expansion Recrafted (1.11.0+26.2 -> 1.11.1+26.2)
+- Updated Dungeons and Taverns (5.3.0 -> 5.3.2)
+- Updated Farmer's Delight Refabricated (26.2-3.6.15+refabricated -> 26.2-3.6.21+refabricated)
+- Updated Polymer Patch for Farmer's Delight (3.6.7.0+26.2 -> 3.6.20.0+26.2)
+- Updated Enderscape (3.0.1+mc26.2 -> 3.0.2+mc26.2)
+- Updated Balm (26.2-26.2.0.6 -> 26.2-26.2.0.7)
+- Updated Polymer (0.17.3+26.2 -> 0.17.5+26.2)
+- Updated Polymer Patch for Enderscape (3.0.1.0+26.2 -> 3.0.1.1+26.2)
+- Updated Fabric API (0.157.0+26.2 -> 0.159.0+26.2)
+- Updated Polymer - Quality of Life (1.0.2+26.2 -> 1.0.3+26.2)
+- Updated Cinderscapes (6.1.0-alpha.1 -> 6.1.0-alpha.2)
+- Updated PolyDecorations (0.12.0+26.2 -> 0.12.1+26.2)
+- Updated Trinkets Updated (4.1.0-beta.3+26.2 -> 4.1.0-rc.1+26.2)
+- Updated Gone Fishing! (1.12.0+26.2 -> 1.12.1+26.2)
+- Updated Polymer Patch for CC:Tweaked (1.120.2.0+26.2 -> 1.120.2.1+26.2)
+- Updated Polymer Patch Bundle (1.1.6+26.2 -> 1.1.7+26.2)
+- Updated Polymer Patch for Trinkets Updated (4.1.0-beta.1.0+26.2 -> 4.1.0-rc.1.0+26.2)
+- Updated the panorama image.
+- Fixed Regular and Dark Japanese Maple Leaves (from Terrestria) block's in world color.
+
 # 0.7.0-pre.1:
 - Remainder: Remember to backup before updating old worlds!
   - Some mods were removed with migration, so some more (minor) content will be lost.

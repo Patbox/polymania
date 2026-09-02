@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "9be1c520fb9073d715cf981a61ecfb89c39e8f7784b998f56ffe1e2800327001"
+hash = "7b19f4ab8b0ebf66b8c0907c079be470d9d10f953e126f8768007a25f077f591"
 
 [[files]]
 file = "config/cinderscapes.json"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "43da9987e5d5b835f7f7df9f1678ef4e30f13bf4c0d19ff894e81f1a8ae8cd41"
+hash = "b8a4a910dfc69ce756bafc2e149850f14b2216963370f903cfe0da9f6e93f097"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/booklet.pw.toml"
-hash = "078b4e34286d2e5c11a2631f77dd7957d560e698171f30d957073ad40eed5340"
+hash = "125483637d680a318fbf295c6b9a4b134f7f9caf1d1016ba93d3d51d0cbf740f"
 metafile = true
 
 [[files]]
@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-polymer.pw.toml"
-hash = "7327dd80274498651cc39c6a847ce7f9130c88509255fe0b492f7026c8deaac0"
+hash = "0013535cb781e078f9ca401b2195a603b93389b3029dc32e493edb0d449d5648"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/cinderscapes.pw.toml"
-hash = "3ea2638316679d8031e4994fc23c735eea48277560d510197e063f5e6f05dd84"
+hash = "3bb49bb06d92dabfc17148cbc4538043ae1eed543c27dcc1909773833da08dae"
 metafile = true
 
 [[files]]
@@ -230,17 +230,17 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "b7c469df6ef4ede9e6e3d51cfb52aec810dff102663a1f3cc8113b2e8d63893b"
+hash = "fe1901158f49cae71686a3519334607fccaa59e7dbb7b4f8fbbaab70d527a2c8"
 metafile = true
 
 [[files]]
 file = "mods/enderscape-polymer.pw.toml"
-hash = "346e291978625d5eab23d6014254437dc0247bed4445144ee34436c4d62172d0"
+hash = "726e0592d215fe26b0ad2d911986750f60ca244ba57d7322a5be0e2eb48bf846"
 metafile = true
 
 [[files]]
 file = "mods/enderscape.pw.toml"
-hash = "b5e556620d4a9af28757b3bc021ad70541132fcfdf166982820526d7fce0604d"
+hash = "9bf7e6fd6598250c06dbf062ca7e30fb4d84a5c8958f86281dfa6f2555dc4e3d"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4ba63364cb1e50db83c7f29144d2c74cee7159d2c3795ac6df267a927ed93198"
+hash = "2f63ca526981e06de2c3b9684cfb7e21abf636cf9f0f657b9151685cd11692a7"
 metafile = true
 
 [[files]]
@@ -270,12 +270,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-polymer.pw.toml"
-hash = "60f620c8d5c139ba7748aba84a25d2bf0d1666591818383461956ba0f47ea9e0"
+hash = "fe14ab179ea2575eb09ac27cc93ef99caa2e89ba545c02f2378119cf85101c34"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "d027d7527b2c9a8b1b78a6a1042ec67867c01935882934911b48ecf4651e5e5f"
+hash = "5881a4294f6b3977ec5332365a4093f38f6433bf95070fa5ce7e67472c8582a4"
 metafile = true
 
 [[files]]
@@ -310,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/gone-fishing.pw.toml"
-hash = "53df20a23af6c2261bbfa8378050c0cce6a65447e1b5d695220f4c60e335c421"
+hash = "df3cc29df7f3d317fbdb8df952782ccc5a8c70082559e347c1e77f53767f79fd"
 metafile = true
 
 [[files]]
 file = "mods/illager-expansion-polymer.pw.toml"
-hash = "57d0ca2262cfa597617a9b83c7b76d88fac48cff4ac6cd0c0409c137b286a54e"
+hash = "4b2236fcf39b95d4244dcd550808f5176ec2da0e8eeced70ea642a167b2c83c7"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ hash = "36f83a25693d0be93fa4731b61d0078a740d0f4ecfd3e66b60cd1319f92cea31"
 
 [[files]]
 file = "mods/polydecorations.pw.toml"
-hash = "7b2bf9542e2af25730934efeb2faafcc6047cad41dcd148f5ffbd135d1b82bab"
+hash = "9460f03f32dca673345ae79826c0babd828d9fd3086035b6ad20780e9a6fe4fc"
 metafile = true
 
 [[files]]
@@ -410,31 +410,31 @@ metafile = true
 
 [[files]]
 file = "mods/polyfactory.pw.toml"
-hash = "f848752266aea943eabc9fa6e7996832acda670f56e509e95400a04bfeb2b288"
+hash = "04cdd4355ebb7ab896063e2d7887ae19c77c90350901d63558ac852a47b7b873"
 metafile = true
 
 [[files]]
-file = "mods/polymania-extras-0.7.0-pre.1.jar"
-hash = "7bad48912d5d08a484b3cd4c31dc98b07d61ed7d88e53a738cc1069bb42d4bdd"
+file = "mods/polymania-extras-0.7.0.jar"
+hash = "332149d071686dbed5d235db156ba6e1ed0df30e3cbedaa0378dbcb90921bc59"
 
 [[files]]
 file = "mods/polymer-patch-bundle.pw.toml"
-hash = "f49de2ccab3c0f04927c56bf9e95a557124eae60fdaf13340c34d2b770489200"
+hash = "e0622c0b0a6d32995a24697a6910d8e6c984ce1242aac450d6c14bd28e71de9c"
 metafile = true
 
 [[files]]
 file = "mods/polymer-qol.pw.toml"
-hash = "fe64b56138eed8ef751af88ff1f0f4059a56efc496bb7cd98edc2635c56a8ed1"
+hash = "2410e26551c79458f725c433a907de893d89f62c59ab13ea2aa10e30ac6354ad"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "2a5626a6d9b61f968f294466e9756fbafa1c1208b4fb53c53cfc8d2afb42a857"
+hash = "680c52dcd4b46783da0a8b789864df741c47e9059b245c57b75d50aa34fe25ab"
 metafile = true
 
 [[files]]
 file = "mods/ppetp.pw.toml"
-hash = "63768c14f6cfbb5cc8076dced1f59fe3f3f5fe1f083d6e2ca32417800f0ca865"
+hash = "11cdd05d45139defd6982cf2d773054a84a74660d09c22e674f0c512c4091ad8"
 metafile = true
 
 [[files]]
@@ -518,12 +518,12 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets-polymer.pw.toml"
-hash = "b232684a1d7227cd6367fda7846b5af8259f47b39e7022f351bf011896f6b6bc"
+hash = "0779766712fdd0dc6a8c32ad7aacd57380e99337de863fd483287bc60bce9b56"
 metafile = true
 
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
-hash = "e5a00713c0919745c4427b7ecab21b703b0a1ab720b452d4ae9f41ce89610926"
+hash = "a146658e65d75249315860bb9711caf397765a81d6ad1213c2fe9be0d2bb69b0"
 metafile = true
 
 [[files]]
@@ -576,6 +576,50 @@ file = "polymer/override_assets/assets/cinderscapes/models/block/ash_height2.jso
 hash = "a942211bfcd3a1e6d5063d3b1a57196ace56cf481bed474031576641bcbc629d"
 
 [[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_0.json"
+hash = "110e26eee077e7011c560d79e0a0d6af89e10c0904e636223a1f9e511974812c"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_1.json"
+hash = "969a5bbec0051cfe6b6dc2193131cd818a183653c46b881fa941a619a7991827"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_2.json"
+hash = "7cfb73ccfbff54582f0944c96c5cfc9915b6c74ddaaccc9852dd8329ceac56d1"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_3.json"
+hash = "6ea97432c8a374fd88b49f093b4331e4cc8693f27ecb55674d2fc3d778a635ab"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_4.json"
+hash = "b7d132cd9fff543c7e948192e2583a292186529e7a4388490a6e40ca3a2fe50d"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_5.json"
+hash = "25202458884d9cc048086589740744f8e59d4f5f2d34f77481f020a05e17130e"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_6.json"
+hash = "6f34e8a8f6f82851c32606fd749cbee1673a472de577e834c16d63adb659e7ed"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_7.json"
+hash = "1698860b4834114e569636244c26b8dd80baf6ef6193b51875ca820429f4cb22"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_8.json"
+hash = "e4bc7fc6a80388819b28e8b73ed0f47a3f53530f6801315a03569bb69cb814a3"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_9.json"
+hash = "998f67603235a9adbf40b6a6e40f0b6f9b4d419f3b2238b80f3fe1695d0e4027"
+
+[[files]]
+file = "polymer/override_assets/assets/factorytools/models/block/special/destroy_stage_base.json"
+hash = "6574094f8817391cee5cda3fb706045bf5e5b176b5810ce905aa0468cbb0f376"
+
+[[files]]
 file = "polymer/override_assets/assets/minecraft/atlases/items.json"
 hash = "09d3cab841677ddeee7f34114565cc670acd25bf8c1b90c1066a627bcd916b14"
 
@@ -605,27 +649,27 @@ hash = "a9f030960fe6fffc097f4eca5486e5ef73090a4fbc55259e2839b38b0c9f6679"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "5cd1f8353b6f5d8e0cf18e2e3e6786c0bbf71439c80dabe0e589106ab19cabc8"
+hash = "988060ed0f098846d1f25447d6cb73884e26592512e4646f753e9ef45bfb0b84"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "633a921251284ce2e5ebf0e6ff78e6310a5a9ca8245adc1523aea21db11d3480"
+hash = "1f585b14e7857f0cdd5b68d289aed5ceb5a81335b1625d26032fbd98cc749e75"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "57b62b2444f8c88f3edf1464dc80f219a53592147b22e816ba2ba1ab3bb40982"
+hash = "a0043d8388fbf1cc18c07966c229a946465135ccb2b973f75317e92f21a6a263"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "e8eeac4587b0491022f3a92774d89fa4caa64847c8fd728a70811b4c59081b3e"
+hash = "22f6ad8efa38b8d0808320c1bb1ef60229682c9d100156926bcb63f667b1e977"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "35395bee306a98d83c0b734d72da09d38bd9208872ac152fe942dcefbef85ddd"
+hash = "73351644de2330616d4cf2196e6a4c4eda43f8bde61e733ef81ebe63be466554"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "2ead228283d39fc8b77bf215213ffb300cc14293726f47fc5b94912d196d15d2"
+hash = "74008591001f9dad2caff6e8b5221cf06e55cf54761a42c846a389db115b1c46"
 
 [[files]]
 file = "polymer/override_assets/assets/minecraft/textures/gui/title/edition.png"
@@ -6234,6 +6278,14 @@ hash = "eea258dca18c29ceddc08e423be921527e03b436bf3fb45ab1be0fe8881ff60e"
 [[files]]
 file = "polymer/override_assets/assets/polymania/textures/icons/icon.png"
 hash = "e3d4d5fd79a9edc973f09538d880f0d02bbc328d48f617b624f86eccaf7734d4"
+
+[[files]]
+file = "polymer/override_assets/assets/terrestria/models/block/dark_japanese_maple_leaves.json"
+hash = "836c5eec6e8b1ba4d40a08a679e4aee0bd61e6c7468b4568db7ba0e4eb985fc2"
+
+[[files]]
+file = "polymer/override_assets/assets/terrestria/models/block/japanese_maple_leaves.json"
+hash = "aa74652aa41475ee3df988705aa3c3cbdf6230f4d39288990b71f9b01fc1d6c9"
 
 [[files]]
 file = "polymer/override_assets/assets/traverse/models/block/brown_autumnal_leaves.json"

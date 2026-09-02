@@ -1,6 +1,6 @@
 name = "Booklet"
 filename = "booklet-0.3.2+26.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/xxtIpapP/versions/qOR95Mme/booklet-0.3.2%2B26.2.jar"

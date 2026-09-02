@@ -1,6 +1,6 @@
 name = "PPeTP"
 filename = "proper-pet-tp-1.2.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KbPewBWv/versions/dPJwlGax/proper-pet-tp-1.2.5.jar"
